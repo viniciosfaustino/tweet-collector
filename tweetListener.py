@@ -1,3 +1,4 @@
+import sys
 from time import time
 import tweepy
 
@@ -11,13 +12,20 @@ class TweetListener(tweepy.StreamListener):
         self.tweets = {"id_str": [], 'text': []}
 
     def on_status(self, status):
+        print("on status")
         if time() - self.started_at < self.timeout and len(self.tweets['id_str']) < self.max_tweets:
-            # print_status_text(status)
+            print_status_text(status)
             text = get_text_from_status(status)
             self.tweets['id_str'].append(status.id_str)
             self.tweets['text'].append(text)
         else:
             return False
+
+    def on_error(self, status_code):
+        print(sys.stderr, 'Encountered error with status code:', status_code)
+        print("Stream restarted")
+        return True  # Don't kill the stream
+
 
 
 def get_text_from_status(status):

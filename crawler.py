@@ -21,7 +21,7 @@ api = tweepy.API(auth)
 
 
 class TweetCollector:
-    def __init__(self, name: str, path: str = 'data', max_tweets: int = 10, timeout: int = 36000, track: list = None):
+    def __init__(self, name: str, path: str = 'data', max_tweets: int = 10000, timeout: int = 36000, track: list = None):
         self.name = name
         self.tweet_count = 0
         self.path = path
@@ -51,15 +51,11 @@ class TweetCollector:
 
     def start_stream(self, **kwargs):
         try:
-            self.stream.filter(track=self.track, )
-        except Exception:
+            self.stream.filter(track=self.track)
+
+        except Exception as e:
             self.stream.disconnect()
             self.start_stream(**kwargs)
-
-        self.tweet_count = len(self.listener.tweets['id_str'])
-
-        print(self.tweet_count, "tweets saved!")
-        self.save_tweets_to_file()
 
 
 def get_text_from_tweet_id(id_str):
@@ -96,8 +92,9 @@ def retrieve_text_from_json(filepath: str):
             f.write(line+"\n")
 
 
-# collector = TweetCollector("coronavirus", track=['coronavirus', 'corona virus', 'coronavírus', 'corona vírus', 'Wuhan',
-#                                                  '#nCoV2019', 'ncov2019', '2019ncov'])
-# collector.start_stream()
+collector = TweetCollector("coronavirus", track=['coronavirus', 'corona virus', 'coronavírus', 'corona vírus', 'Wuhan',
+                                                 '#nCoV2019', 'ncov2019', '2019ncov'])
+collector.start_stream()
+collector.save_tweets_to_file()
 
-retrieve_text_from_json("coronavirus/coronavirus-Thu-Jan-30-15:23:39-2020.json")
+# retrieve_text_from_json("coronavirus/coronavirus-Thu-Jan-30-15:23:39-2020.json")
