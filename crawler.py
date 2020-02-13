@@ -21,7 +21,7 @@ api = tweepy.API(auth)
 
 
 class TweetCollector:
-    def __init__(self, name: str, path: str = 'data', max_tweets: int = 10000, timeout: int = 36000, track: list = None):
+    def __init__(self, name: str, path: str = 'data', max_tweets: int = 100, timeout: int = 36000, track: list = None):
         self.name = name
         self.tweet_count = 0
         self.path = path
@@ -30,28 +30,29 @@ class TweetCollector:
         self.track = track
 
     def save_tweets_to_file(self, id_only: bool = False):
-        if os.path.exists(self.path):
-            path = os.path.join(self.path, self.name)
-            try:
-                os.mkdir(path)
-            except Exception:
-                pass
-            created_at = ctime()
-            created_at = created_at.replace(' ', '-')
-            if id_only:
-                data = {'name': self.name, 'created_at': created_at, "id_str": self.listener.tweets['id_str']}
-            else:
-                data = {'name': self.name, 'created_at': created_at, "id_str": self.listener.tweets['id_str'],
-                        'text': self.listener.tweets['text']}
-            filename = self.name+"-"+str(created_at)+'.json'
-            file = os.path.join(path, filename)
+        if not os.path.exists(self.path):
+            os.mkdir(self.path)
+        path = os.path.join(self.path, self.name)
+        try:
+            os.mkdir(path)
+        except Exception:
+            pass
+        created_at = ctime()
+        created_at = created_at.replace(' ', '-')
+        if id_only:
+            data = {'name': self.name, 'created_at': created_at, "id_str": self.listener.tweets['id_str']}
+        else:
+            data = {'name': self.name, 'created_at': created_at, "id_str": self.listener.tweets['id_str'],
+                    'text': self.listener.tweets['text']}
+        filename = self.name+"-"+str(created_at)+'.json'
+        file = os.path.join(path, filename)
 
-            with open(file, "w") as f:
-                json.dump(data, f, indent=4)
+        with open(file, "w") as f:
+            json.dump(data, f, indent=4)
 
     def start_stream(self, **kwargs):
         try:
-            self.stream.filter(track=self.track)
+            self.stream.filter(track=self.track, languages=['pt'])
 
         except Exception as e:
             self.stream.disconnect()
@@ -91,9 +92,8 @@ def retrieve_text_from_json(filepath: str):
         for line in text:
             f.write(line+"\n")
 
-
-collector = TweetCollector("coronavirus", track=['coronavirus', 'corona virus', 'coronavírus', 'corona vírus', 'Wuhan',
-                                                 '#nCoV2019', 'ncov2019', '2019ncov'])
+_track = ['quero morrer', "vou me matar", "suicidio", "cortei meu pulso", "me cortar"]
+collector = TweetCollector("ideacao", track=_track)
 collector.start_stream()
 collector.save_tweets_to_file()
 

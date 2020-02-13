@@ -1,5 +1,5 @@
 import sys
-from time import time
+from time import time, sleep
 import tweepy
 
 
@@ -23,22 +23,30 @@ class TweetListener(tweepy.StreamListener):
 
     def on_error(self, status_code):
         print(sys.stderr, 'Encountered error with status code:', status_code)
+        if status_code == 420:
+            print("Waiting 2s to restart stream")
+            sleep(2)
         print("Stream restarted")
         return True  # Don't kill the stream
-
 
 
 def get_text_from_status(status):
     if hasattr(status, 'retweeted_status'):
         try:
-            text = status.retweeted_status.extended_tweet["full_text"]
+            text = status.retweeted_status.extended_tweet["full_text"].encode('utf-8')
         except AttributeError:
-            text = status.retweeted_status.full_text
+            try:
+                text = status.retweeted_status.full_text.encode('utf-8')
+            except AttributeError:
+                text = status.retweeted_status.text.encode('utf-8')
     else:
         try:
-            text = status.extended_tweet["full_text"]
+            text = status.extended_tweet["full_text"].encode('utf-8')
         except AttributeError:
-            text = status.full_text
+            try:
+                text = status.full_text.encode('utf-8')
+            except AttributeError:
+                text = status.text.encode('utf-8')
 
     return text
 
