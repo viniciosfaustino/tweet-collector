@@ -21,7 +21,7 @@ api = tweepy.API(auth)
 
 
 class TweetCollector:
-    def __init__(self, name: str, path: str = 'data', max_tweets: int = 100, timeout: int = 36000, track: list = None):
+    def __init__(self, name: str, path: str = 'data', max_tweets: int = 100000, timeout: int = 36000, track: list = None):
         self.name = name
         self.tweet_count = 0
         self.path = path
@@ -52,7 +52,7 @@ class TweetCollector:
 
     def start_stream(self, **kwargs):
         try:
-            self.stream.filter(track=self.track, languages=['pt'])
+            self.stream.filter(track=self.track, languages=['pt', 'en'])
 
         except Exception as e:
             self.stream.disconnect()
@@ -60,23 +60,28 @@ class TweetCollector:
 
 
 def get_text_from_tweet_id(id_str):
+    print(type(id_str))
     try:
         status = api.get_status(id_str, tweet_mode="extended")
         text = get_text_from_status(status)
         text = text.replace("\n", " ")
         return text
 
-    except:
+    except Exception as e:
+        print("Error:", e['message'])
         raise Exception
 
 
 def retrieve_text_from_json(filepath: str):
-    with open(filepath, 'r') as f:
+    print("retrieve started")
+    with open(filepath, 'rb') as f:
+        print("json opened")
         file = json.load(f)
         ids = file['id_str']
         text = []
         total = len(ids)
         cont = 1
+        print(ids)
         for id_str in ids:
             try:
                 tweet_str = get_text_from_tweet_id(id_str)
@@ -84,7 +89,8 @@ def retrieve_text_from_json(filepath: str):
                 print(cont, "of", total, "tweets retrieved")
                 cont += 1
 
-            except Exception:
+            except Exception as e:
+                print("Couldn't retrieve tweet", e)
                 pass
 
     txt_filename = os.path.splitext(filepath)[0]+".txt"
@@ -92,9 +98,15 @@ def retrieve_text_from_json(filepath: str):
         for line in text:
             f.write(line+"\n")
 
-_track = ['quero morrer', "vou me matar", "suicidio", "cortei meu pulso", "me cortar"]
-collector = TweetCollector("ideacao", track=_track)
+# _track = ['quero morrer', "vou me matar", "suicidio", "cortei meu pulso", "não quero mais viver", "n quero mais viver", "prefiro morrer", "vou me suicidar", "vou acabar com a minha vida", "desisti de viver", "tentei me matar", "tentei suicidio", "vou acabar com a minha vida"]
+# collector = TweetCollector("ideacao", track=_track)
+# _track = ['GreveDosCaminhoneiros']
+_track = ['covid19', 'coronavirus', 'covid-19']
+collector = TweetCollector('covid19', track=_track)
 collector.start_stream()
 collector.save_tweets_to_file()
+# retrieve_text_from_json("data/ideacao/ideacao-Sun-Feb-16-17:48:49-2020.json")
 
 # retrieve_text_from_json("coronavirus/coronavirus-Thu-Jan-30-15:23:39-2020.json")
+
+#TODO colocar um contador de tweets coletados ou um progress bar
