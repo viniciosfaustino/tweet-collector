@@ -9,7 +9,7 @@ class TweetListener(tweepy.StreamListener):
         self.max_tweets = max_tweets
         self.started_at = time()
         self.timeout = timeout
-        self.tweets = {"id_str": [], 'text': [], 'created_at': []}
+        self.tweets = {"id_str": [], 'text': [], 'timestamp': []}
 
     def on_status(self, status):
         print("on status")
@@ -18,7 +18,8 @@ class TweetListener(tweepy.StreamListener):
             text = get_text_from_status(status)
             self.tweets['id_str'].append(status.id_str)
             self.tweets['text'].append(text)
-            self.tweets['created_at'].append(status.created_at)
+            str_time = status.created_at.strftime("%d-%b-%Y-%H:%M:%S.%f")
+            self.tweets['timestamp'].append(str_time)
         else:
             return False
 

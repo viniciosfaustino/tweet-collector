@@ -21,13 +21,14 @@ api = tweepy.API(auth)
 
 
 class TweetCollector:
-    def __init__(self, name: str, path: str = 'data', max_tweets: int = 100000, timeout: int = 36000, track: list = None):
+    def __init__(self, name: str, path: str = 'data', max_tweets: int = 100000, timeout: int = 36000, track: list = None, _lang: list = ['None']):
         self.name = name
         self.tweet_count = 0
         self.path = path
         self.listener = TweetListener(timeout, max_tweets)
         self.stream = tweepy.Stream(auth=api.auth, listener=self.listener)
         self.track = track
+        self.languages = _lang
 
     def save_tweets_to_file(self, id_only: bool = False):
         if not os.path.exists(self.path):
@@ -43,7 +44,7 @@ class TweetCollector:
             data = {'name': self.name, 'created_at': created_at, "id_str": self.listener.tweets['id_str']}
         else:
             data = {'name': self.name, 'created_at': created_at, "id_str": self.listener.tweets['id_str'],
-                    'text': self.listener.tweets['text']}
+                    'text': self.listener.tweets['text'], 'timestamp': self.listener.tweets['timestamp']}
         filename = self.name+"-"+str(created_at)+'.json'
         file = os.path.join(path, filename)
 
@@ -98,15 +99,8 @@ def retrieve_text_from_json(filepath: str):
         for line in text:
             f.write(line+"\n")
 
-# _track = ['quero morrer', "vou me matar", "suicidio", "cortei meu pulso", "não quero mais viver", "n quero mais viver", "prefiro morrer", "vou me suicidar", "vou acabar com a minha vida", "desisti de viver", "tentei me matar", "tentei suicidio", "vou acabar com a minha vida"]
-# collector = TweetCollector("ideacao", track=_track)
-# _track = ['GreveDosCaminhoneiros']
-_track = ['covid19', 'coronavirus', 'covid-19']
-collector = TweetCollector('covid19', track=_track)
-collector.start_stream()
-collector.save_tweets_to_file()
-# retrieve_text_from_json("data/ideacao/ideacao-Sun-Feb-16-17:48:49-2020.json")
-
-# retrieve_text_from_json("coronavirus/coronavirus-Thu-Jan-30-15:23:39-2020.json")
-
 #TODO colocar um contador de tweets coletados ou um progress bar
+#TODO entrar em um perfil e pegar todos os tweets do perfil e salvar com o id do usuário
+#TODO coletar apenas metadados sobre assuntos, aka - numero de tweets a cada intervalo de tempo
+
+#novas datas para o processo seletivo, se liga no post
