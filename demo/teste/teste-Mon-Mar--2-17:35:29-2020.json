@@ -1,0 +1,3928 @@
+{
+    "name": "teste",
+    "created_at": "Mon-Mar--2-17:35:29-2020",
+    "id_str": [
+        "1234593002544300033",
+        "1234593003089559554",
+        "1234593003303555072",
+        "1234593003299311617",
+        "1234593004960276480",
+        "1234593005035806720",
+        "1234593004935139334",
+        "1234593005253861377",
+        "1234593006126346240",
+        "1234593006675726339",
+        "1234593007019667456",
+        "1234593007179091969",
+        "1234593007103598592",
+        "1234593007556550657",
+        "1234593007741083655",
+        "1234593007871123457",
+        "1234593008479358983",
+        "1234593008814895114",
+        "1234593009322332162",
+        "1234593009297129478",
+        "1234593009657757696",
+        "1234593010010202112",
+        "1234593009834086400",
+        "1234593010203217933",
+        "1234593010962358272",
+        "1234593011746693123",
+        "1234593012480692224",
+        "1234593013315391488",
+        "1234593013885784064",
+        "1234593014665883648",
+        "1234593015114674176",
+        "1234593015089553410",
+        "1234593015433515009",
+        "1234593015844438016",
+        "1234593015911546885",
+        "1234593016003923969",
+        "1234593016326868993",
+        "1234593016247181317",
+        "1234593016486252546",
+        "1234593016557588481",
+        "1234593017056694273",
+        "1234593017375404038",
+        "1234593017903841280",
+        "1234593018931548160",
+        "1234593019183149056",
+        "1234593019397058565",
+        "1234593019812294656",
+        "1234593020252651520",
+        "1234593020865138690",
+        "1234593020873494528",
+        "1234593021141901316",
+        "1234593021301268485",
+        "1234593021783658497",
+        "1234593022307917825",
+        "1234593022362423296",
+        "1234593022844833794",
+        "1234593023025143808",
+        "1234593023922712578",
+        "1234593024698716170",
+        "1234593024849719301",
+        "1234593025113886720",
+        "1234593025285853187",
+        "1234593025592102912",
+        "1234593026456113153",
+        "1234593026535776261",
+        "1234593026820976640",
+        "1234593027450195968",
+        "1234593027479527429",
+        "1234593028159025154",
+        "1234593028351852551",
+        "1234593028960137217",
+        "1234593029027172353",
+        "1234593029018836992",
+        "1234593029270302720",
+        "1234593029987733504",
+        "1234593031044632581",
+        "1234593031116009472",
+        "1234593032009342981",
+        "1234593032189566976",
+        "1234593032546193408",
+        "1234593033083084802",
+        "1234593034635005953",
+        "1234593034941222913",
+        "1234593035167653888",
+        "1234593035549364225",
+        "1234593036031680512",
+        "1234593036249772032",
+        "1234593036325335041",
+        "1234593036736311297",
+        "1234593037642338311",
+        "1234593037654859778",
+        "1234593037986226176",
+        "1234593038401404930",
+        "1234593038770540545",
+        "1234593039030591501",
+        "1234593039257083911",
+        "1234593039873724419",
+        "1234593040020508672",
+        "1234593040154660867",
+        "1234593040532213760",
+        "1234593040846741505",
+        "1234593041291325440",
+        "1234593041303982080",
+        "1234593042918711297",
+        "1234593043107459074",
+        "1234593043363385347",
+        "1234593043480817664",
+        "1234593043426226178",
+        "1234593044181155841",
+        "1234593044919472130",
+        "1234593045405929473",
+        "1234593045552795649",
+        "1234593045695336449",
+        "1234593045615710208",
+        "1234593046068711425",
+        "1234593045980569602",
+        "1234593046727217154",
+        "1234593047167586313",
+        "1234593047205359617",
+        "1234593047834505216",
+        "1234593048186773506",
+        "1234593048555855886",
+        "1234593048492990466",
+        "1234593048715255814",
+        "1234593048811724801",
+        "1234593049101131777",
+        "1234593049486987264",
+        "1234593049445044224",
+        "1234593050019684352",
+        "1234593050200084480",
+        "1234593050279710720",
+        "1234593050304897024",
+        "1234593050921488387",
+        "1234593051391254528",
+        "1234593052293050368",
+        "1234593052754415617",
+        "1234593052796313600",
+        "1234593053022838784",
+        "1234593053886861313",
+        "1234593053878427649",
+        "1234593053844918273",
+        "1234593054205652992",
+        "1234593054763425792",
+        "1234593055115747328",
+        "1234593055279325185",
+        "1234593055153541122",
+        "1234593056248279040",
+        "1234593056269176832",
+        "1234593056239824897",
+        "1234593056743096325",
+        "1234593056961290241",
+        "1234593056982228993",
+        "1234593058378915841",
+        "1234593058823364608",
+        "1234593059024887811",
+        "1234593059616251908",
+        "1234593059821641730",
+        "1234593059997995008",
+        "1234593059926573060",
+        "1234593060488720384",
+        "1234593060803227649",
+        "1234593061398859782",
+        "1234593061377921024",
+        "1234593061663055880",
+        "1234593061788946435",
+        "1234593061851844610",
+        "1234593061906395142",
+        "1234593062262890498",
+        "1234593062241873920",
+        "1234593062535467009",
+        "1234593062740987911",
+        "1234593063001100288",
+        "1234593063198167041",
+        "1234593063491788805",
+        "1234593064565518337",
+        "1234593065098194945",
+        "1234593065748353025",
+        "1234593065756696577",
+        "1234593066457206784",
+        "1234593066775928832",
+        "1234593066843099136",
+        "1234593067304439808",
+        "1234593067291873281",
+        "1234593067769958401",
+        "1234593068420141056",
+        "1234593068428484610",
+        "1234593068415885312",
+        "1234593069330259973",
+        "1234593069426671620",
+        "1234593069602832384",
+        "1234593069187633152",
+        "1234593066423480321",
+        "1234593070429200389",
+        "1234593070710165504",
+        "1234593071179935745",
+        "1234593071804887041",
+        "1234593065098194944",
+        "1234593072413126661",
+        "1234593072492797952",
+        "1234593072559927298",
+        "1234593059402326019",
+        "1234593072912179203",
+        "1234593073331625990",
+        "1234593073545596930",
+        "1234593073793032194",
+        "1234593073851719681",
+        "1234593073822392321",
+        "1234593073918861312",
+        "1234593074124378113",
+        "1234593074329903104",
+        "1234593075143610370",
+        "1234593075248451584",
+        "1234593075424571392",
+        "1234593075885899777",
+        "1234593076259295233",
+        "1234593077261688833",
+        "1234593077790232576",
+        "1234593077903400961",
+        "1234593077949583361",
+        "1234593077815279616",
+        "1234593078566150145",
+        "1234593079056793607",
+        "1234593079027535873",
+        "1234593079455354880",
+        "1234593079946096641",
+        "1234593081594392576",
+        "1234593081816756226",
+        "1234593081976066048",
+        "1234593082294886400",
+        "1234593083154739200",
+        "1234593083414720512",
+        "1234593083666374659",
+        "1234593083674808325",
+        "1234593084341673984",
+        "1234593084689743872",
+        "1234593085298028546",
+        "1234593085155311616",
+        "1234593085440610304",
+        "1234593085553889282",
+        "1234593086233305094",
+        "1234593086925393922",
+        "1234593086732488704",
+        "1234593087177003011",
+        "1234593087319629824",
+        "1234593087508357130",
+        "1234593087441244162",
+        "1234593088255012866",
+        "1234593088108146699",
+        "1234593088385015809",
+        "1234593088536039426",
+        "1234593088624046080",
+        "1234593088829566976",
+        "1234593089282551810",
+        "1234593089404186625",
+        "1234593089404260352",
+        "1234593089811091456",
+        "1234593090628968449",
+        "1234593090867990528",
+        "1234593090998018048",
+        "1234593091014873088",
+        "1234593091539144705",
+        "1234593091782311936",
+        "1234593091698466818",
+        "1234593092814221317",
+        "1234593092948369416",
+        "1234593093376258048",
+        "1234593093569142785",
+        "1234593094412034048",
+        "1234593094521282560",
+        "1234593095171399680",
+        "1234593095339139079",
+        "1234593095821484039",
+        "1234593095909543936",
+        "1234593096157061121",
+        "1234593096211607555",
+        "1234593096270258176",
+        "1234593096580714498",
+        "1234593096387698691",
+        "1234593096589029378",
+        "1234593096983293953",
+        "1234593097725751296",
+        "1234593098010943488",
+        "1234593099101491201",
+        "1234593100267425792",
+        "1234593100460429313",
+        "1234593100728881153",
+        "1234593100997300225",
+        "1234593101206958086",
+        "1234593101412524034",
+        "1234593101781532673",
+        "1234593101882281990",
+        "1234593101987164160",
+        "1234593102167465984",
+        "1234593102079385601",
+        "1234593102188470272",
+        "1234593102326829056",
+        "1234593103006306307",
+        "1234593102813331457",
+        "1234593103144726532",
+        "1234593103337619456",
+        "1234593103438393345",
+        "1234593103560007680",
+        "1234593103580925954",
+        "1234593103610249218",
+        "1234593104008749056",
+        "1234593104071680002",
+        "1234593103941656577",
+        "1234593104197554176",
+        "1234593104449150976",
+        "1234593104411480070",
+        "1234593104927260672",
+        "1234593105023770626",
+        "1234593105287970818",
+        "1234593105820647425",
+        "1234593106898628609",
+        "1234593108240801793",
+        "1234593108505120770",
+        "1234593108903563265",
+        "1234593109335531520",
+        "1234593109738184705",
+        "1234593109515866113",
+        "1234593109880778752",
+        "1234593110367363078",
+        "1234593110472232960",
+        "1234593111319482368",
+        "1234593111516631040",
+        "1234593111550156802",
+        "1234593112237973504",
+        "1234593113127211014",
+        "1234593113089495040",
+        "1234593113127215104",
+        "1234593113576005633",
+        "1234593113777328128",
+        "1234593114574196738",
+        "1234593114645463042",
+        "1234593114729439232",
+        "1234593114872045569",
+        "1234593115559907331",
+        "1234593115836764160",
+        "1234593115983536131",
+        "1234593116172230657",
+        "1234593116281331714",
+        "1234593116415549446",
+        "1234593116587462657",
+        "1234593117539577856",
+        "1234593118525296641",
+        "1234593118579830785",
+        "1234593118613377024",
+        "1234593118747549696",
+        "1234593119158591492",
+        "1234593119297003521",
+        "1234593119578050562",
+        "1234593119812947970",
+        "1234593120240709635",
+        "1234593120366551046",
+        "1234593120358191105",
+        "1234593121184382977",
+        "1234593121197056004",
+        "1234593122400841730",
+        "1234593122753097731",
+        "1234593122820272128",
+        "1234593123210276864",
+        "1234593123721977856",
+        "1234593123466203136",
+        "1234593124418232321",
+        "1234593124376293376",
+        "1234593124514762753",
+        "1234593124560797703",
+        "1234593124518899714",
+        "1234593124560908288",
+        "1234593124061675526",
+        "1234593124732874752",
+        "1234593125093564418",
+        "1234593125630431244",
+        "1234593126381228034",
+        "1234593126477631493",
+        "1234593125055762433",
+        "1234593127161384960",
+        "1234593127182356482",
+        "1234593127605919749",
+        "1234593127878533121",
+        "1234593128142733314",
+        "1234593128373465089",
+        "1234593129296203777",
+        "1234593130151841794",
+        "1234593130432860160",
+        "1234593130680377344",
+        "1234593131154345987",
+        "1234593131271729159",
+        "1234593131661791232",
+        "1234593131678576641",
+        "1234593132026658822",
+        "1234593132018388993",
+        "1234593132534206464",
+        "1234593132945268736",
+        "1234593132836216832",
+        "1234593133826117634",
+        "1234593134186782721",
+        "1234593134245548035",
+        "1234593135092752391",
+        "1234593135096946689",
+        "1234593135440912390",
+        "1234593135679983621",
+        "1234593135726120963",
+        "1234593135570903045",
+        "1234593136359477253",
+        "1234593136896364544",
+        "1234593137462566913",
+        "1234593137479180288",
+        "1234593137533890561",
+        "1234593137764503554",
+        "1234593137819078656",
+        "1234593138347364352",
+        "1234593138838208514",
+        "1234593139907846155",
+        "1234593139832360960",
+        "1234593139928727554",
+        "1234593140172042241",
+        "1234593140528599040",
+        "1234593140713164801",
+        "1234593140914507776",
+        "1234593141262618626",
+        "1234593142143361036",
+        "1234593142168576001",
+        "1234593142986485761",
+        "1234593143456223232",
+        "1234593143334547457",
+        "1234593143510773764",
+        "1234593144152477696",
+        "1234593145108738049",
+        "1234593145607933952",
+        "1234593147310792704",
+        "1234593147155554304",
+        "1234593147629469696",
+        "1234593147658948614",
+        "1234593147767918597",
+        "1234593150007685121",
+        "1234593150091636744",
+        "1234593149995057154",
+        "1234593150779449349",
+        "1234593150875918336",
+        "1234593151089811457",
+        "1234593151156965377",
+        "1234593151920353280",
+        "1234593152239054848",
+        "1234593152192913413",
+        "1234593152385867777",
+        "1234593152905904136",
+        "1234593153048555520",
+        "1234593152872452096",
+        "1234593152947888134",
+        "1234593153480642561",
+        "1234593154843709447",
+        "1234593155384827904",
+        "1234593155271581698",
+        "1234593155439349761",
+        "1234593155477102593",
+        "1234593155456040963",
+        "1234593155674230786",
+        "1234593155841916929",
+        "1234593156190134274",
+        "1234593156450091012",
+        "1234593156508811271",
+        "1234593156701859841",
+        "1234593157247119360",
+        "1234593159323234306",
+        "1234593159281336320",
+        "1234593160820666369",
+        "1234593160967446542",
+        "1234593161332346882",
+        "1234593161487495171",
+        "1234593161558790149",
+        "1234593161760182273",
+        "1234593161885949952",
+        "1234593162330546176",
+        "1234593162624151553",
+        "1234593162729005057",
+        "1234593163135856643",
+        "1234593163244965897",
+        "1234593163144257536",
+        "1234593163559436292",
+        "1234593164230565888",
+        "1234593164457054209",
+        "1234593165702762497",
+        "1234593165845422085",
+        "1234593165954441217",
+        "1234593166726254593",
+        "1234593166982074370",
+        "1234593166772314116",
+        "1234593167174926336",
+        "1234593167242125314",
+        "1234593167430836224",
+        "1234593167535693825",
+        "1234593168345178112",
+        "1234593168915648512",
+        "1234593169351856128",
+        "1234593169393803265",
+        "1234593169498628096",
+        "1234593169465135106",
+        "1234593169544753153",
+        "1234593169867755523"
+    ],
+    "text": [
+        "guilherme faz O B\u00c1SICO (bater na porta antes de entrar, n\u00e3o ficar com mulher b\u00eabada) e se vangloria por isso. pra jogar na cara da gabi \"olha o om\u00e3o da porra que eu sou\" #ForaGuilherme #ForaGuilhermeAbusivo #bbb20 #BBB2020",
+        "A Manu estava um pouco tristinha agora a tarde e foi consolada pela Mari e a Thelma. #BBB20\nhttps://t.co/uh8Rqo2JYK",
+        "Rafa e Manu: \"Gabi, n\u00e3o se sinta culpada por nada!\" #BBB20\n\n* minutos depois *\n\nBabu: \"Quem colocou o Gui no pared\u00e3o foi voc\u00ea!\"\nhttps://t.co/XKNBDVYeQo",
+        "esses textos feitos e postados no ig pela 'manuelaxavier' (Psic\u00f3loga pela UFF, Mestra e Doutora em Psicologia Cl\u00ednica pela PUC) s\u00e3o muito importantes!\n\n+\n\n#ForaGuilhermeAbusivo #BBB20 https://t.co/r28Sq4ci6q",
+        "eu espero q vcs lembrem-se nesse pared\u00e3o q o pyong assediou 5 MULHERES nesse bbb e quando o gui foi expor isso foi cortado ao vivo. alcool n\u00e3o justifica ass\u00e9dio. ass\u00e9dio vai contra td aquilo que a gente e as favs do bem que vcs torcem acredita, esse pared\u00e3o \u00e9 #ForaPyong! #BBB20 https://t.co/xGLLdbt7um",
+        "prior: \u201ceu gostei que a manu n\u00e3o votou em mim, mostrou personalidade.\u201d\nbabu: \u201ca personalidade dela foi votar em mim? qual \u00e9, prior?\u201d\n\nHAHAHAHAHAHAHAH #bbb20 https://t.co/LCOkEEmirw",
+        "MELHOR COMENT\u00c1RIO! #ForaPyongAssediador #forapyong #bbb20",
+        "e ai gente vcs votam em quem pra sair do #bbb20 ? https://t.co/D6HmL04qt5",
+        "Eu nunca fui amigo deles, nunca andei com eles, nunca concordei com eles\u201d disse Guilherme...\n\n#BBB #BBB20 https://t.co/yYN5AnubLo",
+        "Ran\u00e7o desse cara",
+        "\u201cDiga n\u00e3o a relacionamentos abusivos\u201d (Gavassi, M. BBB20) #BBB20 #ForaGuilherme https://t.co/DV4tz9pC9a",
+        "Ent\u00e3o \u00e9 isso.  Primeiro #ForaGuilhermeAbusivo #ForaGuilhermePyongSaiDepois #BBB20 https://t.co/EIG6IJmF1n",
+        "ISSO N\u00c3O PODE FICAR ASSIM CARALHO SE LIGUEM! O BESTA DO PYONG PODE MUITO BEM SAIR DEPOIS #BBB20 #ForaGuilherme #gicela",
+        "elimina os dois e fica tudo certo #bbb20 https://t.co/hth70OFVra",
+        "Bora galera do Prior #ForaPyong\n\n#BBB20",
+        "se ate o Lucas que conviveu com o Guilherme est\u00e1 dizendo quem sou eu pra dizer ao contr\u00e1rio ?? #BBB20 https://t.co/3sQjC2NTXK",
+        "\u201cO Pyong tem fam\u00edlia.\u201d\n\nA Suzane Ritchtofen tamb\u00e9m tinha \n\n#BBB20",
+        "A Manu estava um pouco tristinha agora a tarde e foi consolada pela Mari e a Thelma. #BBB20\nhttps://t.co/uh8Rqo2JYK",
+        "dif\u00edcil ficar em p\u00e9 com esse peso de carregar o bbb20 nas costas",
+        "Ai Boninho. N\u00e3o d\u00e1 mais. Desliga as c\u00e2meras, larga essa gente dentro da casa de vez e esquece a chave. #bbb20 \n\n https://t.co/ohtqrYPKvC",
+        "Prior no BBB:\n-O Daniel \u00e9 muito chato, n\u00e3o gosto desse maluco!\n-Meu voto hoje vai na mari.\n-Quem eu quero que v\u00e1 para o pared\u00e3o comigo \u00e9 a Gizelly.\n\nO c\u00e9rebro do prior:\n\n#BBB20 https://t.co/OBcAwptums",
+        "EU AMOOOOO",
+        "mais algu\u00e9m se tremeu pra n\u00e3o invadir essa casa pra tirar essa menina de perto desse doente???",
+        "Nem meu irm\u00e3o que \u00e9  o maior militante  do Brasil  acha que p pyong n\u00e3o deve sair agora #BBB20",
+        "pois venha falar comigo tamb\u00e9m",
+        "Ok e vamos ent\u00e3o de #ForaPyong #ForaAssediador",
+        "\u201cO Pyong tem fam\u00edlia.\u201d\n\nA Suzane Ritchtofen tamb\u00e9m tinha \n\n#BBB20",
+        "MEU DEUS eu s\u00f3 queria 5 minutinhos de porrada com esse cara",
+        "acho que o victor hugo n vai mais ser psic\u00f3logos ngm aguentaria ouvir esse homem por um segundo #BBB20 https://t.co/DEAG4n4KUy",
+        "Como a gente estava um tempo atr\u00e1s! \ud83d\ude02 #TeamFelipe #TeamPrior #RedeBBB #BBB20 https://t.co/jEAWOroBA8",
+        "Guilherme muito safado, falando que a culpa \u00e9 s\u00f3 da Bianca Andrade, no dia da festa, ele ficar s\u00f3 alimentando a Bianca falando sobre sentimentos, que era complicado, v\u00e1rios abra\u00e7os apertados na menina e agora \u00e9 s\u00f3 a culpa dela? #BBB20",
+        "Se at\u00e9 o bosta do Lucas sabe que quem PLANTOU A IDEIA E QUEM CUMPRIU A IDEIA FOI O GUILHERME, PQ VCS NAO CONSEGUEM ENXERGAR? OS MENINOS TODOS SE FERRARAM E GUI SAIU DE PR\u00cdNCIPE... ACORDEMMMMMM #ForaGuilheme  #BBB20",
+        "Gizelly chorando achando que vai sair pq tem muita gente que n\u00e3o gosta dela e Ivy perguntando quem n\u00e3o gosta dela e ela: \"a m\u00e3e do Hadson\" EU AMO ESSA MULHER KKKKKKKKKKKKKKKKKKK #BBB20 https://t.co/EUFUTgI7hp",
+        "Rafa: \u201cisso \u00e9 press\u00e3o psicol\u00f3gica\u201d\n\u201cO GUI n\u00e3o \u00e9 inocente assim n\u00e3o\u201d\n#ForaGuilheme #ForaGuilhermeAbusivo #bbb20\n#redebbb https://t.co/N238nhRIGx",
+        "Gizelly: a\neu: vc quer um milh\u00e3o eu te dou #bbb20",
+        "V\u00eddeo do dia que o Guilherme deixou de dormir com a Gabi no quarto do l\u00edder para ir pro quarto c\u00e9u passar a m\u00e3o na Bianca que estava b\u00eabada e desacordada. Agora fica fazendo press\u00e3o psicol\u00f3gica na Gabi como se ela fosse maluca por desconfiar dele! #RedeBBB #BBB20 #ForaGuilherme https://t.co/tnhpIBpqhu",
+        "Esse v\u00eddeo \u00e9 maravilhoso kkk \n\u201cA m\u00e3e do Hadson me odeia. Bel\u00e9m do Par\u00e1! Florian\u00f3polis me odeia. Os s\u00f3cios da pizzaria do Prior...\u201d \ud83d\ude02 #BBB20 https://t.co/vfipuB0e29",
+        "Guilherme avisa que, se ficar, vai chamar mulher por mulher pra tirar satisfa\u00e7\u00e3o de estarem se metendo no relacionamento dele com Gabi #BBB20 #RedeBBB https://t.co/8eKRLnYP1n",
+        "vou deixar esse v\u00eddeo aqui de motiva\u00e7\u00e3o pra voc\u00eas SALVAREM ESSA MULHER, at\u00e9 pra baixo ela faz todo mundo dar risada, ela \u00e9 meu tudo. #BBB20 https://t.co/ZMcY8CR8wF",
+        "\u201cGizelly \u00e9 uma das participantes mais aut\u00eanticas e centradas no #BBB20, vivendo intensamente, jogando limpo l\u00e1 dentro, al\u00e9m de ser uma respeitada ju\u00edza no estado do Esp\u00edrito Santo. Precisamos de mulheres fortes como ela no jogo!\u201d \u2014 Lady Gaga para Vogue. https://t.co/aODJrIugMS",
+        "QUAL A DIFICULDADE DE ENTENDER QUE NINGU\u00c9M EST\u00c1 DEFENDENDO O ASSEDIADOR DO PYONG???? \n\nMAS O GUILHERME PRECISA SAIR PQ ELE EST\u00c1 FODENDO O PSICOL\u00d3GICO  DA GABI E N\u00c3O ESQUE\u00c7AM QUE ELE SEMPRE FEZ PARTE DO PLANO DOS ESCROTOS ENT\u00c3O ACORDEM IDIOTAS #bbb20",
+        "CHAMADA DA NOITE: Voc\u00eas est\u00e3o votando: #BBB20 #RedeBBB\n\nRT - #ForaPyong\nFAV - #ForaGuilherne https://t.co/RRE8nhq4H5",
+        "Pyong \"Eu ja pedi desculpas e ele (Gui) disse q nao ficaria mais falando nisso, e dai voltou a falar agora (do asssedio na festa).\"\nPrior: \"Mas Pyong, eu tbm ja pedi desculpas dos meus erros e vcs ficam tocando neles toda hora, usando isso. Ele so fez a mesma coisa q vcs\". #BBB20",
+        "N\u00e3o entendi porque  voc\u00eas est\u00e3o compartilhando esse v\u00eddeo da Bianca.\nEla n\u00e3o t\u00e1 nem um pouco preocupada com a Saude metal da Gabi qual ela ajudou a destruir \nEla ta putinha pq o Pyong torceu pra ela sair.\nEla n\u00e3o est\u00e1 militando como ela msm disse ela quer VINGAN\u00c7A \ud83e\udd14\ud83d\ude18\n#bbb20",
+        "O assunto do ass\u00e9dio n\u00e3o deve ser encerrado #ForaAssediador! #BBB20 https://t.co/2Mk6XHTvxB",
+        "Rafa pra Manu: \"Eu o amo, mas j\u00e1 temos tr\u00eas semanas com ele aqui. Se o Prior estivesse errando na mesma propor\u00e7\u00e3o que o Daniel n\u00f3s estar\u00edamos passando a m\u00e3o na cabe\u00e7a dele?\" eita #BBB20",
+        "Uma pausa nos multir\u00f5es para Babu falando TUDO que eu queria para a Gabi! \n\nAgora foco no Gshow \n\n#GuiBi #bbb20 #FicaGuilherme #FicaGui #ForaPyong #ForaPyongAssediador https://t.co/k0yK5nY79K",
+        "J\u00e1 tu que t\u00e1 pedindo n\u00e9? Kkkkkkkkkkkkkkkkkkkkkkkkkkk #BBB20 #ForaGuilhermeAbusivo #ForaGuilheme https://t.co/UWbfXV2Mha",
+        "Pyong \"Eu ja pedi desculpas e ele (Gui) disse q nao ficaria mais falando nisso, e dai voltou a falar agora (do asssedio na festa).\"\nPrior: \"Mas Pyong, eu tbm ja pedi desculpas dos meus erros e vcs ficam tocando neles toda hora, usando isso. Ele so fez a mesma coisa q vcs\". #BBB20",
+        "o pombo fala e tamb\u00e9m janta, a comida de rabo que o victor hugo deu no assedyong foi tudo.\n\nTE TOCA PYONG\n#BBB20 \n #BBB20 https://t.co/FV6S82YjPh",
+        "dif\u00edcil ficar em p\u00e9 com esse peso de carregar o bbb20 nas costas",
+        "#BBB20 #ForaGuilherne \nSe esse inferno n\u00e3o sair agr VH vai ficar um nojo se achando o dono do jogo, Guilherme vai acabar de ferrar o psicol\u00f3gico da Gabi e ela vai acreditar em TUDO q ele disser. https://t.co/HaW8mdtuPf",
+        "Agora voc\u00eas ver\u00e3o a for\u00e7a dos f\u00e3s da Gizelly nesse pared\u00e3o \n#BBB20",
+        "N\u00c3O MENTIU NENHUMA VEZ! \n\n#BBB20 #ForaPyongAssediador #ForaPyongGuilhermeSaiDepois  #ForaPyong https://t.co/wfm74kPQLT",
+        "o twitter unido pra votar no guilherme e proteger a gizelly\n#BBB20 https://t.co/v3Nweo77Ou",
+        "BBB20: Hil\u00e1rio! Gizelly diz que 'tem muita gente que n\u00e3o gosta dela' e d\u00e1 os MELHORES exemplos para 'comprovar'; Vem assistir https://t.co/nHnc9u65CU (Foto: Reprodu\u00e7\u00e3o / TV Globo) https://t.co/p95IUDAg3j",
+        "jesus q agonia desse homem, mano ele fica o tempo inteiro em cima da mina",
+        "T\u00e1 mesmo, falando bosta! #bbb20 #ForaGuilhermeAbusivo",
+        "O Brasil todo viu, pyong, voc\u00ea foi pior que o Px... #bbb20 https://t.co/Jkww6vtDCP",
+        "gizelly bicalho a \u00fanica participante poss\u00edvel pra fazer Tiago sorrir em rede nacional #bbb20",
+        "Muito for\u00e7a\u00e7\u00e3o de barra falar \u201cah o Pyong se redimiu pediu desculpa\u201d dentro do bbb qualquer erro seja pequeno ou grande \u00e9 muito significativo",
+        "Ela n\u00e3o vai sair desse relacionamento at\u00e9 ela se tocar que ele \u00e9 abusivo e isso vai demorar pq quem est\u00e1 dentro do relacionamento nunca percebe isso",
+        "GENTE \u00c9 IMPOSS\u00cdVEL N\u00c3O VER",
+        "@UOLBBB TEM MAISLA NO IG DA SUB #BBB20 #ForaGuilherme https://t.co/W3rXaY1STv",
+        "seu fav amigo @juleno_14",
+        "Vamos relembrar um pouco como era a amizade do Gui com a Bianca e como ele sempre foi apaixonado pela Gabi? (Cont\u00e9m ironia)\n\n#BBB #BBB20 https://t.co/C0dw0ytBge",
+        "\u262f MUTIR\u00c3O RAIO-X \u262f\n\n\u274c O VOTO \u00c9 PRA ELIMINAR, VOTEM NO GUILHERME\n\n\ud83d\udcaa\ud83c\udffb FOCO TOTAL NO GSHOW, SEM PARAR\n\n\u2b55 META: 1500 VOTOS\n\n\ud83d\udd50 ENCERRA \u00c0S 19H\n\nLINK para votar: https://t.co/CaUqV67Ggm https://t.co/VIptbdIo4d",
+        "vou deixar esse v\u00eddeo aqui de motiva\u00e7\u00e3o pra voc\u00eas SALVAREM ESSA MULHER, at\u00e9 pra baixo ela faz todo mundo dar risada, ela \u00e9 meu tudo. #BBB20 https://t.co/ZMcY8CR8wF",
+        "Bianca atacando a Manu n\u00e3o me assusta, uma mulher que viu a situa\u00e7\u00e3o das meninas na casa, viu a pr\u00f3pria Mari sofrendo, virou as costas e na primeira oportunidade foi perdoar macho, n\u00e3o me choca!\n\nPorra pink mouth supera a\u00ed #BBB20 https://t.co/TniLx8Pmy7",
+        "Olha o telefone sem fio, rafa ja ta fofocando tudo pra manu sobre a conversa do babu e da gabi. E mais uma vez a distor\u00e7\u00e3o rola a solta e galera falando mal do Babu. #redebbb #teambabu #bbb20",
+        "Ivy sobre Gizelly no Pared\u00e3o: \"N\u00e3o tem chance de voc\u00ea sair. Esquece. Eu iria ser louca por ela. Eu iria querer assistir (a Gizelly) 24 horas por dia\". \u2022 #RedeBBB #BBB20 https://t.co/pM8YiSwfJ1",
+        "Manu: \"Eu queria ver as cenas desse casal pra entender, s\u00f3 vejo a Gabi triste, chorando, e eu vejo as atitudes do Gui que eu j\u00e1 passei e n\u00e3o gosto. Mas eles est\u00e3o sempre juntos. Dou meus conselhos, mas n\u00e3o sei o que ta acontecendo\"\n\nManu j\u00e1 percebeu o abuso #ForaGuilherme #BBB20 https://t.co/KGIfec0cs5",
+        "minha winner atualmente",
+        "Ivy \"Vitor, depois voc\u00ea n\u00e3o vai abrir o boc\u00e3o pro Gui n\u00e3o n\u00e9?\" KKKKKKKKKKKKKKKKKKK SOCORRO #BBB20 https://t.co/baUV2rNjBr",
+        "At\u00e9 o fim do programa os brancos que fazem milit\u00e2ncia seletiva v\u00e3o por Prior ou Babu nos pared\u00f5es,usando o mesmo erros dos dois como desculpa.",
+        "#BBB20: Manu e Victor Hugo conversaram sobre as estrat\u00e9gias de jogo e a sister resolveu aconselhar o brother\nhttps://t.co/CowW9OIbNX",
+        "Essa mulher \u00e9 TUDOO KKKKKKKKKKK",
+        "\u00c9 gente t\u00e1 chegando o dia",
+        "Votei na Op\u00e7\u00e3o 'Guilherme' em 'Pared\u00e3o BBB20: Quem voc\u00ea quer eliminar? Gizelly, Guilherme ou Pyong?' https://t.co/UDtJFr7pFP",
+        "\ud83c\udfad\ud83c\udf2a MUTIR\u00c3O ROUBAMOS O COOLER INICIADO \ud83c\udfad\ud83c\udf2a\n\n\u274c O VOTO \u00c9 PRA ELIMINAR, VOTEM NO GUILHERME\n\n\ud83d\udcaa\ud83c\udffb FOCO TOTAL NO GSHOW, SEM PARAR\n\n\ud83d\udc49\ud83c\udffb META: 1.000 VOTOS\n\n\u23f0 ENVIEM OS VOTOS \u00c0S 19H PARA @gizellybicalho_\n\n\ud83d\udcbb LINK: https://t.co/rhNNBt9BpO #BBB20 https://t.co/f4dd9mC9yD",
+        "Se o Pyong sair, Guilherme se achar\u00e1 o pr\u00edncipe encantado, Gabi jurar\u00e1 que \u00e9 louca e ele perfeito, VH se sentir\u00e1 o dono do jogo, ninguem mais votar\u00e1 em Guilherme, Flay ficar\u00e1 ainda mais insuport\u00e1vel, as meninas se desestabilizar\u00e3o, e Prior perde o roteiro de perseguido.FIM #BBB20 https://t.co/02kOyvGF5K",
+        "Me ap\u00f3iem. ?? #bbb20",
+        "a Ivy \"Vitorr, depois vc n\u00e3o vai abrir o boc\u00e3o pro Gui n\u00e3o n\u00e9?\" KKKK #BBB20 https://t.co/us9TVEIurK",
+        "tweet de aprecia\u00e7\u00e3o do discurso da gizelly #BBB20 https://t.co/5rbWrSEHi3",
+        "Primeiro pared\u00e3o com uma das favoritas \u00e9 inesquec\u00edvel, estejam atentos ao resultado desse pared\u00e3o.\n#BBB20",
+        "a gizelly tem que PARAR de falar que ela \u00e9 o ORGULHO DO ESP\u00cdRITO SANTO\n\nela TEM QUE ENTENDER que ela \u00e9 o ORGULHO DO BRASIL INTEIRO\n\nque saco\n\n#bbb20 https://t.co/k8nBTjXUBo",
+        "lembrem-se: al\u00e9m de assediador, pyong tamb\u00e9m faz abuso psicol\u00f3gico \n\nN\u00e3o esque\u00e7am desse v\u00eddeo nunca \n\n#BBB20 #ForaPyong #ForaPyongAssediador \nhttps://t.co/GhC6dGtCPI",
+        "agora sobre o porqu\u00ea a prioridade deve ser tirar o Guilherme primeiro: #ForaGuilherme #ForaGuilhermeAbusivo #ForaGui #BBB20 https://t.co/nV2ZNMc6PE",
+        "\"deixa eu respirar um pouquinho gui\" pra mim \u00e9 um pedido de socorro #BBB20 https://t.co/7A33QaxxK0",
+        "\u262f MUTIR\u00c3O RAIO-X \u262f\n\n\u274c O VOTO \u00c9 PRA ELIMINAR, VOTEM NO GUILHERME\n\n\ud83d\udcaa\ud83c\udffb FOCO TOTAL NO GSHOW, SEM PARAR\n\n\u2b55 META: 1500 VOTOS\n\n\ud83d\udd50 ENCERRA \u00c0S 19H\n\nLINK para votar: https://t.co/CaUqV67Ggm https://t.co/VIptbdIo4d",
+        "Vamos relembrar um pouco como era a amizade do Gui com a Bianca e como ele sempre foi apaixonado pela Gabi? (Cont\u00e9m ironia)\n\n#BBB #BBB20 https://t.co/C0dw0ytBge",
+        "Cansada de calar homens, Rafa come\u00e7a a matar;\n#BBB20 https://t.co/nPs9FZX1ih",
+        "@VemBigBrother Espero muito mesmo que o Guilherme seja eliminado, a cara desse pombo caindo no ao vivo vai ser lindo! #ForaGuilhermeAbusivo #BBB20",
+        "A RAFA FAZ TUDO #BBB20\n\n https://t.co/OXM1AtiefA",
+        "Ent\u00e3o \u00e9 isso.  Primeiro #ForaGuilhermeAbusivo #ForaGuilhermePyongSaiDepois #BBB20 https://t.co/EIG6IJmF1n",
+        "vou deixar esse v\u00eddeo aqui de motiva\u00e7\u00e3o pra voc\u00eas SALVAREM ESSA MULHER, at\u00e9 pra baixo ela faz todo mundo dar risada, ela \u00e9 meu tudo. #BBB20 https://t.co/ZMcY8CR8wF",
+        "O cara falou tudo! #ForaPyongAssediador",
+        "\u201cEU QUERIA MUITO FICAR E TENTAR SER MILION\u00c1RIA PQ ADVOGADA EU N\u00c3O VOU SER MAIS\u201d \u2014 FURAC\u00c3O, gigi #bbb20",
+        "babu falando sobre felipe neto e a atitude dele ter distribu\u00eddo livros lgbt na bienal contra a censura #bbb20 \n https://t.co/1hmpiXhTPq",
+        "O que eu senti vendo essa cena, n\u00e3o d\u00e1 nem pra descrever. Que medo!! \n#BBB20 #ForaGuilherme https://t.co/8JzVW6VPa8",
+        "Ent\u00e3o \u00e9 isso.  Primeiro #ForaGuilhermeAbusivo #ForaGuilhermePyongSaiDepois #BBB20 https://t.co/EIG6IJmF1n",
+        "A gizely com medo de ser eliminada, mal sabe ela q ela \u00e9 t\u00e3o querida aq fora #bbb20",
+        "A JUSTIFICATIVA DA GIZELLY J\u00c1 MERECIA 1,5 MILH\u00c3O KKKKKKKKKKKKKKKKKKK #BBB20",
+        "Pyong \"Eu ja pedi desculpas e ele (Gui) disse q nao ficaria mais falando nisso, e dai voltou a falar agora (do asssedio na festa).\"\nPrior: \"Mas Pyong, eu tbm ja pedi desculpas dos meus erros e vcs ficam tocando neles toda hora, usando isso. Ele so fez a mesma coisa q vcs\". #BBB20",
+        "N\u00f3s temos uma menina que nesse momento est\u00e1 sofrendo v\u00e1rios abusos ao vivo pelo c\u00f4njuge dela. Uma menina que est\u00e1 sem seus rem\u00e9dios para tratar sua doen\u00e7a psicol\u00f3gica. \nA guria que est\u00e1 escutando coisas como: \"- Olha o que voc\u00ea me faz fazer?\" #ForaGuilhermeAbusivo #BBB20 https://t.co/aBUwQo80Rc",
+        "N\u00c3O MENTIU NENHUMA VEZ! \n\n#BBB20 #ForaPyongAssediador #ForaPyongGuilhermeSaiDepois  #ForaPyong https://t.co/wfm74kPQLT",
+        "gnt alguem me explica o bo do guilherme e da gabi no bbb e tbm pq o daniel fez a galera perder estaleca, obrigada #BBB20",
+        "isso aqui foi uma das piores coisas... tentando fazer com q a mulher aceite o m\u00ednimo pq talvez ela nunca vai ser feliz se n\u00e3o aceitar #ForaGuilherme #BBB20 https://t.co/V68K2lrBlH",
+        "Guilherme ensaiando o discurso pra quando a Ivy for pedir desculpa por ter indic\u00e1-lo ao pared\u00e3o kkkkkkkkkkkk ele se acha meu deus pedir desculpa de que cuzao?? #BBB20",
+        "Mano, ESSA GRT TEM 10 ANOS DE IDADE N \u00c9 POSS\u00cdVELLLLLLL",
+        "puta que pariu esse menino devia ser odiado na turma de psicologia dele, sempre tem um insuport\u00e1vel mesmo",
+        "#BBB20 Prescisa falar mais alguma coisa?????\nJaneiro           /        um m\u00eas depois https://t.co/joQnNmM7Is\n#ForaGuilhermeAbusivo https://t.co/SCVsrrQXnZ",
+        "ENCERRADO! Mandem seus votos aqui \ud83d\udcaa\u262f\ufe0f",
+        "Eu torci pra Emily, me arrependi mas nunca ataquei ela\ud83d\udc4d\ud83c\udffb Gente, pelo amor de Deus???? PAREM DE JOGAR \u00d3DIO NAS PESSOAS. Faz 3 anos que essa menina ganhou ent\u00e3o fa\u00e7am o favor de superar, voc\u00eas n\u00e3o acreditam em evolu\u00e7\u00e3o? Eu hein #BBB20 sejam pesssoa melhores e tirem esse \u00f3dio de vcs",
+        "@siteptbr mal sabe ela que vai ganhar essa edi\u00e7\u00e3o #bbb20\nhttps://t.co/aFlwFMoqai",
+        "olha o relacionamento abusivo escancarado em rede nacional!! imagina se nao tivesse c\u00e2meras ein",
+        "Podia ser eu falando,mas \u00e9 minha amiga Gabi.Vou mais longe, o efeito Guilherme na vida de uma mulher \u00e9 muito mais duradouro, mal\u00e9fico e perigoso do que um b\u00eabado tentando te beijar ou passando a m\u00e3o em nossa bunda. Esses a gente d\u00e1 um tapa e manda \u00e0 merda, os Guilhermes nos matam",
+        "Est\u00e3o felizes??? \u00c9 #ForaPyong #Foraassediador #BBB20 https://t.co/drpetTLkLc",
+        "Ningu\u00e9m tem coragem de falar mas eu tenho: GUILHERME \u00c9 UM CHATO PRA CARAMBA, que est\u00e1 acabando com Gabi, que tamb\u00e9m n\u00e3o se mostrou ainda pro jogo! Gente, #ForaGuilhermePyongSaiDepois #bbb20 #redebbb #pyong Deixemos Pyong l\u00e1 para ir pro pared\u00e3o com #Prior hahaha",
+        "QUAL A DIFICULDADE DE ENTENDER QUE NINGU\u00c9M EST\u00c1 DEFENDENDO O ASSEDIADOR DO PYONG???? \n\nMAS O GUILHERME PRECISA SAIR PQ ELE EST\u00c1 FODENDO O PSICOL\u00d3GICO  DA GABI E N\u00c3O ESQUE\u00c7AM QUE ELE SEMPRE FEZ PARTE DO PLANO DOS ESCROTOS ENT\u00c3O ACORDEM IDIOTAS #bbb20",
+        "Lucas sensato pela primeira vez na vida. s\u00f3 disse verdades. #BBB20 #foraguilherme",
+        "Pyong: \u201cO Guilherme quis insinuar que fiz a mesma coisa que o Petrix, olha como ele \u00e9 escroto e sujo.\u201d\n\nu\u00e9, mas n\u00e3o foi? \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f\n#BBB20  \nhttps://t.co/K6cLxMt6ej",
+        "gizelly n\u00e3o tem absolutamente 1 motivo pra ganhar!\nela, manu, ivy, rafa, marcela mari est\u00e3o ali pra compor elenco",
+        "caralho vamos nos juntar e meter porrada nesse estrume",
+        "Guilherme avisa que, se ficar, vai chamar mulher por mulher pra tirar satisfa\u00e7\u00e3o de estarem se metendo no relacionamento dele com Gabi #BBB20 #RedeBBB https://t.co/8eKRLnYP1n",
+        "ass\u00e9dio e racismo acho q s\u00e3o os \u00fanicos crimes q se resolvem c desculpas n\u00e9 \ud83e\udd70\ud83e\udd70",
+        "Pyong \"Eu ja pedi desculpas e ele (Gui) disse q nao ficaria mais falando nisso, e dai voltou a falar agora (do asssedio na festa).\"\nPrior: \"Mas Pyong, eu tbm ja pedi desculpas dos meus erros e vcs ficam tocando neles toda hora, usando isso. Ele so fez a mesma coisa q vcs\". #BBB20",
+        "Os conselhos da Rafa s\u00e3o os melhores s\u00e9rio\n\n#BBB20 https://t.co/MT1PClmykV",
+        "A conversa continua, mesmo Pyong j\u00e1 tendo pedido desculpas pro encosto, digo VH, ele vem reclamar mais uma vez e Pyong diz: \"eu estava de cabe\u00e7a quente com o pared\u00e3o\", mas ele insiste em resmungar #BBB20 #RedeBBB https://t.co/3P64IwOD0m",
+        "eu espero q vcs lembrem-se nesse pared\u00e3o q o pyong assediou 5 MULHERES nesse bbb e quando o gui foi expor isso foi cortado ao vivo. alcool n\u00e3o justifica ass\u00e9dio. ass\u00e9dio vai contra td aquilo que a gente e as favs do bem que vcs torcem acredita, esse pared\u00e3o \u00e9 #ForaPyong! #BBB20 https://t.co/xGLLdbt7um",
+        "Mano, se voc\u00eas tem um pingo de empatia tirem o Guilherme e deixem o Pyong para depois. Pensem um pouquinho na sa\u00fade mental dela que t\u00e1 destru\u00edda. N\u00e3o venham com essa de \"se o Gui sair ela vai sofrer mais\", sim, porque ela \u00e9 dependente emocionalmente dele e isso \u00e9 p\u00e9ssimo.",
+        "mais algu\u00e9m se tremeu pra n\u00e3o invadir essa casa pra tirar essa menina de perto desse doente???",
+        "O que Pyong fez foi muito s\u00e9rio, mas n\u00e3o FODEU a sa\u00fade mental de ningu\u00e9m e depois de advertido n\u00e3o reincidiu no erro.\n\nPrioridades. Se \u00e9 pra escolher, pelo menos pelo estrago dentro do #BBB20, acho o tipo de homem que Guilherme representa muito mais nocivo.\n\n#ForaGuilherme",
+        "@MarioAguiar10 @SEEUVIEUFALO BORA VOTAR #ForaPyongAssediador \n\nhttps://t.co/jf7cwgtEHP",
+        "rafa voc\u00ea \u00e9 incr\u00edvel #BBB20 https://t.co/8b3fpJNTIR",
+        "Como me d\u00f3i ver essa imagem, em 1 m\u00eas um homem conseguiu tirar toda a felicidade dela, o esp\u00edrito, e alegria. Voc\u00ea n\u00e3o precisa gostar do Pyong, apenas se coloca no lugar de uma mulher que sofre press\u00e3o psicol\u00f3gica todos os dias , VOTE! #ForaGuilhermeAbusivo #ForaGuilherme #BBB20 https://t.co/QmZLT61PS1",
+        "Grup\u00e3o falando que o Prior est\u00e1 enganado e que eles n\u00e3o combinam votos n\u00e3o.\n\nHAHAHAHAHAHA\n\n#BBB20\n#TeamPrior\n\nhttps://t.co/TK4CRZAORf",
+        "Pared\u00e3o BBB20 \ud83d\udc4a\n#ForaPyongGuilhermeSaiDepois https://t.co/f9DThbi6S4",
+        "Rafa: \"O Daniel falou um neg\u00f3cio ali e ningu\u00e9m o questionou, a Marcela ficou calada, s\u00f3 a Thelminha falou algo. A\u00ed eu penso na posi\u00e7\u00e3o do Babu, imagina tudo que ele faz as pessoas reclamam\" \n\nN\u00e3o aguento mais amar a Rafa #BBB20",
+        "A Rafa mostrando que isso aqui sim \u00e9 ser amiga, n\u00e3o igual a Flayslane ou a Mari que preferem culpar a Gabi de tudo, falar que ela tem que apoiar um cara que \u00e9 extremamente t\u00f3xico e desrespeitoso com ela #BBB20 #ForaGuilherme https://t.co/wpvS9ojx4l",
+        "Discordo solenemente da postura do BBB em impedir que o caso GRAVE seja comentado no programa. Isso \u00e9 bem inacredit\u00e1vel... \u00c9 extamente como parte do p\u00fablico tem feito: \u201cshhhhh n\u00e3o lembra disso shhhhhhh\u201d.",
+        "OS 40 PRIMEIROS QUE DA RT E SEGUIR @Comentaa_Lucas LEVA CONTA GLOBOPLAY // #BBB20\n\nIREI ESCOLHER ALGUNS",
+        "Peti\u00e7\u00e3o pra o boninho colocar o boneco com as m\u00e3os nos ouvido pra ver se a gabi se toca vamo",
+        "Victor Hugo foi bancar o advogado do Guilherme pra cima da Manu, dizendo que ele respeita a Gabi sim. Manu: \"n\u00e3o adianta vim debater relacionamento dos outros, isso n\u00e3o tem nada a ver com a gente\" #BBB20 #RedeBBB https://t.co/rggFOfHtih",
+        "#BBB20 Prescisa falar mais alguma coisa?????\nJaneiro           /        um m\u00eas depois https://t.co/joQnNmM7Is\n#ForaGuilhermeAbusivo https://t.co/SCVsrrQXnZ",
+        "Pyong: \u201cO Guilherme quis insinuar que fiz a mesma coisa que o Petrix, olha como ele \u00e9 escroto e sujo.\u201d\n\nu\u00e9, mas n\u00e3o foi? \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f\n#BBB20  \nhttps://t.co/K6cLxMt6ej",
+        "Gizelly chorando achando que vai sair pq tem muita gente que n\u00e3o gosta dela e Ivy perguntando quem n\u00e3o gosta dela e ela: \"a m\u00e3e do Hadson\" EU AMO ESSA MULHER KKKKKKKKKKKKKKKKKKK #BBB20 https://t.co/EUFUTgI7hp",
+        "O que eu senti vendo essa cena, n\u00e3o d\u00e1 nem pra descrever. Que medo!! \n#BBB20 #ForaGuilherme #ForaGuilhermeAbusivo https://t.co/GTLGncYzUX",
+        "\u201cGizelly \u00e9 uma das participantes mais aut\u00eanticas e centradas no #BBB20, vivendo intensamente, jogando limpo l\u00e1 dentro, al\u00e9m de ser uma respeitada ju\u00edza no estado do Esp\u00edrito Santo. Precisamos de mulheres fortes como ela no jogo!\u201d \u2014 Lady Gaga para Vogue. https://t.co/aODJrIugMS",
+        "a gizelly tem que PARAR de falar que ela \u00e9 o ORGULHO DO ESP\u00cdRITO SANTO\n\nela TEM QUE ENTENDER que ela \u00e9 o ORGULHO DO BRASIL INTEIRO\n\nque saco\n\n#bbb20 https://t.co/k8nBTjXUBo",
+        "A Manu estava um pouco tristinha agora a tarde e foi consolada pela Mari e a Thelma. #BBB20\nhttps://t.co/uh8Rqo2JYK",
+        "Gizelly chorando achando que vai sair pq tem muita gente que n\u00e3o gosta dela e Ivy perguntando quem n\u00e3o gosta dela e ela: \"a m\u00e3e do Hadson\" EU AMO ESSA MULHER KKKKKKKKKKKKKKKKKKK #BBB20 https://t.co/EUFUTgI7hp",
+        "Se deixarem o Guilherme voltar, voc\u00eas ver\u00e3o um novos Marcos Harter \n#BBB20",
+        "Pyong vai pra casa do caralho puta maluco chato dos infernos",
+        "vcs s\u00e3o  #BBB20",
+        "Os homens unidos bagun\u00e7ando a cabe\u00e7a da Gabi. \u00c9 uma edi\u00e7\u00e3o que n\u00e3o tem p/ onde correr... nenhum dos homens presta. NENHUM DELES!!!\n\n#bbb20",
+        "Discordo solenemente da postura do BBB em impedir que o caso GRAVE seja comentado no programa. Isso \u00e9 bem inacredit\u00e1vel... \u00c9 extamente como parte do p\u00fablico tem feito: \u201cshhhhh n\u00e3o lembra disso shhhhhhh\u201d.",
+        "Rafa: \u201cvoc\u00ea t\u00e1 vendo a postura corporal da Gabi?\u201d \n\nManu: \u201cto\u201d\n\nRafa: \u201cvoc\u00ea t\u00e1 percebendo a mesma coisa que eu?\u201d \n\nManu: \u201caham\u201d \n\nA postura corporal na qual elas se referem \u00e9 postura de uma pessoa Oprimida, quem j\u00e1 passou sabe e se identifica #BBB20 #ForaGuilhermeAbusivo https://t.co/JyKgzWuK9q",
+        "Se alguem coloca esse homem na minha frente eu gasto meu r\u00e9u primario sem pensar 2x",
+        "A edi\u00e7\u00e3o de hoje do BBB t\u00e1 mostrando DIREITINHO o in\u00edcio de um relacionamento abusivo e se voc\u00ea n\u00e3o consegue ver isso, seria bom voc\u00ea rever seus conceitos de relacionamento saud\u00e1vel #bbb20",
+        "N sejam burros \n#BBB20 #ForaGuilhermePyongSaiDepois https://t.co/My9txKi4ne",
+        "\ud83d\udea8ACABOU A BRINCADEIRA\ud83d\udea8\n\nQuem vem comigo em um mutir\u00e3o \u26a1\ufe0f\u26a1\ufe0fREL\u00c2MPAGO \u26a1\ufe0f\u26a1\ufe0f? \n\nVamos votar direto at\u00e9 \u00e0s 16:30h \n\n\ud83e\udd2bSIL\u00caNCIO TOTAL NA TL \n\nVotos na DM \ud83d\udc4a\ud83c\udffc\ud83d\udc4a\ud83c\udffc\ud83d\udc4a\ud83c\udffc \n\n#ForaPyong \n\n \ud83d\udcbb\ud83d\udcf1 Link \ud83d\udc49\ud83c\udffc\nhttps://t.co/xeSOcRj8sw",
+        "Guilherme articulando o Teste De Fidelidade e zombando das meninas, que cairiam no pared\u00e3o por \u201ctrairagem\u201d. \n\nTrago PROVAS.\n\n#BBB20 #RedeBBB \n\n https://t.co/mjJCzGIb0Y",
+        "Fotos tirada pela Rafa para o seu #FeedBBB. #BBB20 https://t.co/kMRoZQxJeE",
+        "Pyong: \u201cO Guilherme quis insinuar que fiz a mesma coisa que o Petrix, olha como ele \u00e9 escroto e sujo.\u201d\n\nu\u00e9, mas n\u00e3o foi? \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f\n#BBB20  \nhttps://t.co/K6cLxMt6ej",
+        "Gizelly chorando achando que vai sair pq tem muita gente que n\u00e3o gosta dela e Ivy perguntando quem n\u00e3o gosta dela e ela: \"a m\u00e3e do Hadson\" EU AMO ESSA MULHER KKKKKKKKKKKKKKKKKKK #BBB20 https://t.co/EUFUTgI7hp",
+        "n\u00e3o gosto do Pyong mas odeio tanto esse boiola que eu teria dado um murro na cara dele com essa conversa chata",
+        "Rafa pra Manu: \"Eu o amo, mas j\u00e1 temos tr\u00eas semanas com ele aqui. Se o Prior estivesse errando na mesma propor\u00e7\u00e3o que o Daniel n\u00f3s estar\u00edamos passando a m\u00e3o na cabe\u00e7a dele?\" eita #BBB20",
+        "Tirem o Guilherme essa semana, na outra o Pyong. \nA Gabi est\u00e1 l\u00e1 dentro sem tomar seus rem\u00e9dios para depress\u00e3o, engoliu todo ci\u00fames que tinha da Bianca e ele ainda a culpava, agora a culpa por estar no pared\u00e3o, ele est\u00e1 acabando com ela, isso d\u00e1 nojo. #ForaGuilhermeAbusivo #BBB20 https://t.co/DNUr02Hwsf",
+        "rsrsrsrs a cara do meu maldito passado",
+        "eu juro que nao conseguiria ter uma conversa com esse filho da puta sem xingar ele, olha essa cara de deboche pra tudo, namoral pyong vai tomar no cu tua hora vai chegar vacilao",
+        "Vamos relembrar um pouco como era a amizade do Gui com a Bianca e como ele sempre foi apaixonado pela Gabi? (Cont\u00e9m ironia)\n\n#BBB #BBB20 https://t.co/C0dw0ytBge",
+        "esses textos feitos e postados no ig pela 'manuelaxavier' (Psic\u00f3loga pela UFF, Mestra e Doutora em Psicologia Cl\u00ednica pela PUC) s\u00e3o muito importantes!\n\n+\n\n#ForaGuilhermeAbusivo #BBB20 https://t.co/r28Sq4ci6q",
+        "A\u00ed corta pro outro lado t\u00e1 o Prior e o Babu metendo simplesmente a comemora\u00e7\u00e3o do J\u00f4 com o Ronaldinho... Irm\u00e3o n\u00e3o tem o que pensar.",
+        "Juro que se tiver um pared\u00e3o entre Guilherme e Prior eu voto no Guilherme #bbb20  https://t.co/ijlScfblBL",
+        "Pyong \"Eu ja pedi desculpas e ele (Gui) disse q nao ficaria mais falando nisso, e dai voltou a falar agora (do asssedio na festa).\"\nPrior: \"Mas Pyong, eu tbm ja pedi desculpas dos meus erros e vcs ficam tocando neles toda hora, usando isso. Ele so fez a mesma coisa q vcs\". #BBB20",
+        "Thread se estiver em d\u00favida em quem votar no BBB20\n#BBB2O20 #BBB20aovivo #BBB2O #bbb20 #RedeBBB",
+        "infelizmente concordo",
+        "por isso que psican\u00e1lise n\u00e3o \u00e9 \"\"regulamentado\"\" porra como vai fazer o diagn\u00f3stico de algu\u00e9m sem interagir com o paciente CARALHO",
+        "S\u00f3 queria dar um recado..\n\nRECADO DADO\n\n#ForaGuilhermeAbusivo \n#BBB20 https://t.co/OwtwKlQC2q",
+        "O que Pyong fez foi muito s\u00e9rio, mas n\u00e3o FODEU a sa\u00fade mental de ningu\u00e9m e depois de advertido n\u00e3o reincidiu no erro.\n\nPrioridades. Se \u00e9 pra escolher, pelo menos pelo estrago dentro do #BBB20, acho o tipo de homem que Guilherme representa muito mais nocivo.\n\n#ForaGuilherme",
+        "Vamos de fatos???????\nPyong saindo a casa vai ficar UM SACO\nVH achando que \u00e9 o maior jogador da historia\nGabi acreditando que o guilherme \u00e9 um pr\u00edncipe e que ela estava \"louca\"\nGi perdida no jogo \nPrior crescendo como favorito\n\n#ForaGuilhermeAbusivo #BBB20",
+        "As mulheres que est\u00e3o votando no Pyong, n\u00e3o tem um pingo de empatia e sororidade pela Gabi. S\u00f3 quem j\u00e1 passou por isso sabe o quanto \u00e9 dif\u00edcil. Pyong errou? Sim. E desculpa n\u00e3o justifica ass\u00e9dio, mas vamos pensar na sa\u00fade mental da Gabi. Pelo amor de Deus. #BBB20 https://t.co/BFvIiLCfCP",
+        "Pyong: \u201cO Guilherme quis insinuar que fiz a mesma coisa que o Petrix, olha como ele \u00e9 escroto e sujo.\u201d\n\nu\u00e9, mas n\u00e3o foi? \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f\n#BBB20  \nhttps://t.co/K6cLxMt6ej",
+        "ai nossa esse pau no cu tem que sair logo",
+        "\"deixa eu respirar um pouquinho gui\" pra mim \u00e9 um pedido de socorro #BBB20 https://t.co/7A33QaxxK0",
+        "N\u00f3s temos uma menina que nesse momento est\u00e1 sofrendo v\u00e1rios abusos ao vivo pelo c\u00f4njuge dela. Uma menina que est\u00e1 sem seus rem\u00e9dios para tratar sua doen\u00e7a psicol\u00f3gica. \nA guria que est\u00e1 escutando coisas como: \"- Olha o que voc\u00ea me faz fazer?\" #ForaGuilhermeAbusivo #BBB20 https://t.co/aBUwQo80Rc",
+        "Nossa mas a flay lacrou, precisamos dar uma resposta a eles. #BBB20 https://t.co/5oybDokOgN",
+        "Eu sou #ForaGuilherme, sabe pq? \n\nEle e Pyong erraram muito, porem Pyong admitiu seu erro, se sentiu mal, pediu desculpas. \n\nGuilherme continua errando e nao admite NADA do que ele faz.\n\nSomos todos humanos e erramos: o foda eh persistir no erro #bbb20",
+        "Gabi: ''Ele disse que ia pedir pra sair ontem''\nRafa: ''Voc\u00ea sabe que ele n\u00e3o ia sair, n\u00e9? Isso \u00e9 press\u00e3o psicol\u00f3gica''\nGabi: ''Ele soltou sem querer''\nRafa: ''Gabi, o Gui n\u00e3o \u00e9 t\u00e3o inocente assim'' #BBB20",
+        "@portalprior VEM VOTAR #FORAPYONG \n#ForaPyongGuilhermeSaiDepois\n\ud83d\udce3Voltando para #Gshow  \n#ForaPyong\nPor Prior \ud83d\udc4a\ud83d\ude18\ud83c\udf7b\n #FORAPYONG \nBORA GALERA \nSAI DA TL  GENTEEE\nhttps://t.co/08YWQ1CYiY https://t.co/fBzRLqmzge",
+        "lembrem-se: al\u00e9m de assediador, pyong tamb\u00e9m faz abuso psicol\u00f3gico \n\nN\u00e3o esque\u00e7am desse v\u00eddeo nunca \n\n#BBB20 #ForaPyong #ForaPyongAssediador \nhttps://t.co/GhC6dGtCPI",
+        "eu amo a gizelly KKKKKKKKKKKKKKKKKK #bbb20 https://t.co/FJ02r39STs",
+        "Gizelly, entenda que voc\u00ea \u00e9 perfeita. #bbb20 https://t.co/EGFbZ8Fft1",
+        "Porra subiu no meu conceito babu \ud83d\udc4f\ud83d\udc4f",
+        "J\u00e1 posso fazer o primeiro mutir\u00e3o FICA GIZELLY??? #BBB20",
+        "O neg\u00f3cio \u00e9 Votar #ForaGui Pq o cara t\u00e1 fazendo uma press\u00e3o danada na Gabriela\nO Pyong errou, mas n\u00e3o erra todo dia, reconheceu o erro e j\u00e1 t\u00e1 tudo certo, ele n\u00e3o enche ningu\u00e9m mais, agora o #ForaGuilhermeAbusivo faz todo dia press\u00e3o na Gabizinha \n#BBB20 https://t.co/gP0nYHOk8P",
+        "Mulheres percebem quando outras mulheres est\u00e3o sob press\u00e3o psicol\u00f3gica e em situa\u00e7\u00f5es abusivas\nManu e Rafa comentam sobre a postura corporal da Gabi. \nE eu acho lindo mulheres que se preocupam com outras mulheres. \n#BBB #BBB20 https://t.co/oivXiYpfwU",
+        "sinal de um poss\u00edvel relacionamento t\u00f3xico a thread; #BBB20\n\nGuilherme: \"ela (Bianca) foi pra cima de mim, n\u00e3o fui eu que fui pra cima dela, eu n\u00e3o tenho culpa\" \n\nReflexo no relacionamento\n\n#BBB20 #ForaGuilherme\n\n https://t.co/yBNzKbfJLB",
+        "Falta pouco \ud83c\udf7f\ud83e\udd13\n#BBB20 #ForaGui\n#ForaGuilherme #ForaGuilhermeAbusivo https://t.co/bLPnODFuDE",
+        "Uma pausa nos multir\u00f5es para Babu falando TUDO que eu queria para a Gabi! \n\nAgora foco no Gshow \n\n#GuiBi #bbb20 #FicaGuilherme #FicaGui #ForaPyong #ForaPyongAssediador https://t.co/k0yK5nY79K",
+        "Eu vou votar nesse Guilherme at\u00e9 meu dedo doer!",
+        "S\u00f3 um homem pode trazer o hexa...\n#BBB20 https://t.co/ndZzWwCOJd",
+        "Uma caixinha de surpresas.\n\n#ForaGuilhermeAbusivo #BBB2020 #BBB20 https://t.co/1acnYCasu5",
+        "Pyong: \u201cO Guilherme quis insinuar que fiz a mesma coisa que o Petrix, olha como ele \u00e9 escroto e sujo.\u201d\n\nu\u00e9, mas n\u00e3o foi? \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f\n#BBB20  \nhttps://t.co/K6cLxMt6ej",
+        "se a gizelly n\u00e3o ganhar eu topo fazer uma vaquinha pra dar o milh\u00e3o e meio pra ela #bbb20  https://t.co/jUobqpbQJe",
+        "levanta o p\u00e9 que a globo t\u00e1 passando pano",
+        "rafa fazendo cirurgia mas s\u00f3 pensava na manoela, goals que fala n\u00e9? #BBB20  https://t.co/zCtF6HzolE",
+        "na atual circunst\u00e2ncia, a mina ser\u00e1 a gente #bbb20",
+        "esse cara loiro e o sulista dessa edi\u00e7\u00e3o s\u00e3o iguais",
+        "BBB20: Hil\u00e1rio! Gizelly diz que 'tem muita gente que n\u00e3o gosta dela' e d\u00e1 os MELHORES exemplos para 'comprovar'; Vem assistir https://t.co/nHnc9u65CU (Foto: Reprodu\u00e7\u00e3o / TV Globo) https://t.co/p95IUDAg3j",
+        "Queria ser amiga dessa mulher, na moral! #BBB20",
+        "Algumas pessoas n\u00e3o est\u00e3o votando no pared\u00e3o bbb20 porque dizem que a gizelly n\u00e3o corre risco, mas dessa vez o voto n\u00e3o \u00e9 pra proteger a gizelly, \u00e9 pra proteger a GABRIELA! #ForaGuilherme #BBB20 https://t.co/ODT6cSCqN4",
+        "Gizelly chorando achando que vai sair pq tem muita gente que n\u00e3o gosta dela e Ivy perguntando quem n\u00e3o gosta dela e ela: \"a m\u00e3e do Hadson\" EU AMO ESSA MULHER KKKKKKKKKKKKKKKKKKK #BBB20 https://t.co/EUFUTgI7hp",
+        "E mais uma vez a Gizelly fez absolutamente tudo \ud83d\ude02",
+        "N\u00f3s temos uma menina que nesse momento est\u00e1 sofrendo v\u00e1rios abusos ao vivo pelo c\u00f4njuge dela. Uma menina que est\u00e1 sem seus rem\u00e9dios para tratar sua doen\u00e7a psicol\u00f3gica. \nA guria que est\u00e1 escutando coisas como: \"- Olha o que voc\u00ea me faz fazer?\" #ForaGuilhermeAbusivo #BBB20 https://t.co/aBUwQo80Rc",
+        "as pessoas precisam entender logo que assim como n\u00e3o existe corrup\u00e7\u00e3o pequena e corrup\u00e7\u00e3o grande, tamb\u00e9m n\u00e3o existe abuso pequeno ou grande. Abuso psicol\u00f3gico \u00e9 t\u00e3o destruidor quanto o f\u00edsico #bbb20",
+        "vou deixar esse v\u00eddeo aqui de motiva\u00e7\u00e3o pra voc\u00eas SALVAREM ESSA MULHER, at\u00e9 pra baixo ela faz todo mundo dar risada, ela \u00e9 meu tudo. #BBB20 https://t.co/ZMcY8CR8wF",
+        "o pombo fala e tamb\u00e9m janta, a comida de rabo que o victor hugo deu no assedyong foi tudo.\n\nTE TOCA PYONG\n#BBB20 \n #BBB20 https://t.co/FV6S82YjPh",
+        "Uma imagem destrutiva, estou tocando a todo tempo nessa ferida pelo o fato de saber o qu\u00e3o horr\u00edvel \u00e9 ver uma mulher ter que conter o choro porque um macho n\u00e3o quer que suje a imagem dele. Repensem! #ForaGuilherne #BBB20 #BBB2O20 #BBBB2O20 https://t.co/UcQQYsVg9X",
+        "Gabi: ''Ele disse que ia pedir pra sair ontem''\nRafa: ''Voc\u00ea sabe que ele n\u00e3o ia sair, n\u00e9? Isso \u00e9 press\u00e3o psicol\u00f3gica''\nGabi: ''Ele soltou sem querer''\nRafa: ''Gabi, o Gui n\u00e3o \u00e9 t\u00e3o inocente assim'' #BBB20",
+        "Rafa e Manu: \"Gabi, n\u00e3o se sinta culpada por nada!\" #BBB20\n\n* minutos depois *\n\nBabu: \"Quem colocou o Gui no pared\u00e3o foi voc\u00ea!\"\nhttps://t.co/XKNBDVYeQo",
+        "GIZELLYYYYYYY HAHAHAHAHA\n\nEu choro de rir com essa mulher!!!! \n\n#BBB #BBB20 https://t.co/2MtT3qkvEJ",
+        "Pyong vai p cinema do l\u00edder TUDO PRA MIM #bbb20",
+        "Guilherme articulando o Teste De Fidelidade e zombando das meninas, que cairiam no pared\u00e3o por \u201ctrairagem\u201d. \n\nTrago PROVAS.\n\n#BBB20 #RedeBBB \n\n https://t.co/mjJCzGIb0Y",
+        "@rafaspellman @BadWolf_Anjos @VanessaSilvah99 A pol\u00edcia at\u00e9 o momento acha o caso do Pyong muito pior\nE com raz\u00e3o\n#forapyong #bbb20",
+        "essa garota n\u00e3o bate bem da cabe\u00e7a n\u00e3o kkkkkkkkkkkkkkkk",
+        "N\u00f3s temos uma menina que nesse momento est\u00e1 sofrendo v\u00e1rios abusos ao vivo pelo c\u00f4njuge dela. Uma menina que est\u00e1 sem seus rem\u00e9dios para tratar sua doen\u00e7a psicol\u00f3gica. \nA guria que est\u00e1 escutando coisas como: \"- Olha o que voc\u00ea me faz fazer?\" #ForaGuilhermeAbusivo #BBB20 https://t.co/aBUwQo80Rc",
+        "mais algu\u00e9m se tremeu pra n\u00e3o invadir essa casa pra tirar essa menina de perto desse doente???",
+        "Pyong \"Eu ja pedi desculpas e ele (Gui) disse q nao ficaria mais falando nisso, e dai voltou a falar agora (do asssedio na festa).\"\nPrior: \"Mas Pyong, eu tbm ja pedi desculpas dos meus erros e vcs ficam tocando neles toda hora, usando isso. Ele so fez a mesma coisa q vcs\". #BBB20",
+        "Pyong \"Eu ja pedi desculpas e ele (Gui) disse q nao ficaria mais falando nisso, e dai voltou a falar agora (do asssedio na festa).\"\nPrior: \"Mas Pyong, eu tbm ja pedi desculpas dos meus erros e vcs ficam tocando neles toda hora, usando isso. Ele so fez a mesma coisa q vcs\". #BBB20",
+        "Rafa sobre Gui \u201cCoisa que ele n\u00e3o \u00e9, \u00e9 v\u00edtima...Se o argumento deles fosse t\u00e3o certo, a Bia tinha ficado\u201d \n\n#bbb20 https://t.co/8dcySoLyHp",
+        "gi: \u201ctem mt gente que nao gosta de mim\u201d\nivy: \u201cpara de ser louca quem q n gosta de vc\u201d\ngi: \u201ca mae do hadson, belem do para, florianopolis me odeia, pessoa da pizzaria socio do prior\u201d kkkkkk gi o brazil te ama entenda isso #BBB20 https://t.co/EhsXHAprkl",
+        "Velho, n\u00e3o tem base! Olha como a Gabi mudou ap\u00f3s entrar nesse \"romance\" com o Guilherme! '-' \n#ForaGuilheme #ForaGuilhermePyongSaiDepois",
+        "n\u00e3o esque\u00e7am esse tweet. O Pyong vai estar sempre na mira, o Guilherme n\u00e3o.\nNAO ESQUE\u00c7AM ESSE TWEET \n#BBB20",
+        "Prior visto pelos olhos de uma MESTRA e DOUTORA em psicologia. Quem somos n\u00f3s para discordar n\u00e9 \ud83e\udd2b #BBB20 https://t.co/HiuiYbzDGk",
+        "Acabar ela fica defendendo ele \ud83d\ude24\ud83d\ude20 Passando pano para macho escroto e fica acabando com o Pyong. #ForaGuilhermePyongSaiDepois #ForaGuilhermeAbusivo #ForaGuilherme\n@bbb",
+        "A Gabi j\u00e1 pediu 300 VEZES pro Guilherme deixar ela respirar um pouco e parar com essa conversa \n\nE ELE CONTINUA A TORTURA PSICOL\u00d3GICA FALANDO SOBRE ELA QUEIMAR ELE\n#BBB20 #ForaGuilherme https://t.co/2V6uo3rg1j",
+        "T\u00e1 rolando mutir\u00e3o na @gizellybicalho_ e \u00e0s 18h vai ter um aqui conosco... Por favor, precisamos muito de voc\u00eas. Vamos de #ForaGuilherme #BBB20 /\u269c\ufe0f",
+        "pela primeira vez tenho que concordar com o gallina!! #BBB20 #ForaGuilhermeAbusivo #ForaGuilherme #BBB2O20 #BBB2O20 #BBB2O #GuilhermeExpulso #ForaGuilhermePyongSaiDepois #BBB #BBB2020 https://t.co/QIu8GL3GxG",
+        "Homens sempre culpando as mulheres, que \u00f3dio",
+        "Vem Tombo #ForaGuilhermeAbusivo #bbb20",
+        "Eu sou #ForaGuilherme, sabe pq? \n\nEle e Pyong erraram muito, porem Pyong admitiu seu erro, se sentiu mal, pediu desculpas. \n\nGuilherme continua errando e nao admite NADA do que ele faz.\n\nSomos todos humanos e erramos: o foda eh persistir no erro #bbb20",
+        "N\u00f3s temos uma menina que nesse momento est\u00e1 sofrendo v\u00e1rios abusos ao vivo pelo c\u00f4njuge dela. Uma menina que est\u00e1 sem seus rem\u00e9dios para tratar sua doen\u00e7a psicol\u00f3gica. \nA guria que est\u00e1 escutando coisas como: \"- Olha o que voc\u00ea me faz fazer?\" #ForaGuilhermeAbusivo #BBB20 https://t.co/aBUwQo80Rc",
+        "@kamilemb @luscazou Povo esquece q foi ele q surgiu com o papo de conquistar pessoas casadas pra prejudic\u00e1-las aqui fora, dizendo q Mari poderia estar tramando isso. Ele ria das \"piadas\" machistas do Lucas, Hadson, Px... \u00c9 abusivo com Gabi (foda-se q ela \u00e9 chatinha, em Guibi ela \u00e9 v\u00edtima) etc #BBB20",
+        "Discordo solenemente da postura do BBB em impedir que o caso GRAVE seja comentado no programa. Isso \u00e9 bem inacredit\u00e1vel... \u00c9 extamente como parte do p\u00fablico tem feito: \u201cshhhhh n\u00e3o lembra disso shhhhhhh\u201d.",
+        "Pyong \"Eu ja pedi desculpas e ele (Gui) disse q nao ficaria mais falando nisso, e dai voltou a falar agora (do asssedio na festa).\"\nPrior: \"Mas Pyong, eu tbm ja pedi desculpas dos meus erros e vcs ficam tocando neles toda hora, usando isso. Ele so fez a mesma coisa q vcs\". #BBB20",
+        "Vc vai ficar \ud83e\udd17\ud83d\ude0d\ud83d\ude18\ud83d\ude17",
+        "GENTEEEE, O PYONG EST\u00c1 COM GRANDES CHANCES DE SAIR, N\u00c3O VACILEM, ELE N\u00c3O VAI PRO PARED\u00c3O NEM T\u00c3O CEDO, ESSA \u00c9 A HORA DE TIRAR ESSA CHACOTA, FOCO TOTAL QUE VAMOS CONSEGUIR!!!!!!!!! #BBB20 #ForaPyong",
+        "A Gabi precisa de uma amiga igual V\u00edvian. Agress\u00e3o \u00e9 agress\u00e3o. #BBB20 #ForaGuilhermeAbusivo #GuilhermeAbusivo https://t.co/Rnyp8xQrF6",
+        "T\u00e1 mesmo, falando bosta! #bbb20 #ForaGuilhermeAbusivo",
+        "Gabi: ''Ele disse que ia pedir pra sair ontem''\nRafa: ''Voc\u00ea sabe que ele n\u00e3o ia sair, n\u00e9? Isso \u00e9 press\u00e3o psicol\u00f3gica''\nGabi: ''Ele soltou sem querer''\nRafa: ''Gabi, o Gui n\u00e3o \u00e9 t\u00e3o inocente assim'' #BBB20",
+        "\u201cGizelly \u00e9 uma das participantes mais aut\u00eanticas e centradas no #BBB20, vivendo intensamente, jogando limpo l\u00e1 dentro, al\u00e9m de ser uma respeitada ju\u00edza no estado do Esp\u00edrito Santo. Precisamos de mulheres fortes como ela no jogo!\u201d \u2014 Lady Gaga para Vogue. https://t.co/aODJrIugMS",
+        "Enquete: quem voc\u00ea quer que saia nesse pared\u00e3o?\nGuilherme= Curte \nPyong= RT\n #GuilhermeExpulso #bbb #bbb20 https://t.co/QJtR49SUbN",
+        "Pyong \"Eu ja pedi desculpas e ele (Gui) disse q nao ficaria mais falando nisso, e dai voltou a falar agora (do asssedio na festa).\"\nPrior: \"Mas Pyong, eu tbm ja pedi desculpas dos meus erros e vcs ficam tocando neles toda hora, usando isso. Ele so fez a mesma coisa q vcs\". #BBB20",
+        "N\u00e3o entendi porque  voc\u00eas est\u00e3o compartilhando esse v\u00eddeo da Bianca.\nEla n\u00e3o t\u00e1 nem um pouco preocupada com a Saude metal da Gabi qual ela ajudou a destruir \nEla ta putinha pq o Pyong torceu pra ela sair.\nEla n\u00e3o est\u00e1 militando como ela msm disse ela quer VINGAN\u00c7A \ud83e\udd14\ud83d\ude18\n#bbb20",
+        "Guilherme \u201cEu n\u00e3o quero uma pessoa inconstante do meu lado\u201d\n\n#bbb20 #redebbb https://t.co/g2ZXPxPmA8",
+        "Pyong \"Eu ja pedi desculpas e ele (Gui) disse q nao ficaria mais falando nisso, e dai voltou a falar agora (do asssedio na festa).\"\nPrior: \"Mas Pyong, eu tbm ja pedi desculpas dos meus erros e vcs ficam tocando neles toda hora, usando isso. Ele so fez a mesma coisa q vcs\". #BBB20",
+        "tweet de aprecia\u00e7\u00e3o do discurso da gizelly #BBB20 https://t.co/5rbWrSEHi3",
+        "n\u00e3o \u00e9 poss\u00edvel #bbb20 https://t.co/Ds1AWI5Z5O",
+        "Prior no BBB:\n-O Daniel \u00e9 muito chato, n\u00e3o gosto desse maluco!\n-Meu voto hoje vai na mari.\n-Quem eu quero que v\u00e1 para o pared\u00e3o comigo \u00e9 a Gizelly.\n\nO c\u00e9rebro do prior:\n\n#BBB20 https://t.co/OBcAwptums",
+        "Pyong \"Eu ja pedi desculpas e ele (Gui) disse q nao ficaria mais falando nisso, e dai voltou a falar agora (do asssedio na festa).\"\nPrior: \"Mas Pyong, eu tbm ja pedi desculpas dos meus erros e vcs ficam tocando neles toda hora, usando isso. Ele so fez a mesma coisa q vcs\". #BBB20",
+        "Gizelly chorando achando que vai sair pq tem muita gente que n\u00e3o gosta dela e Ivy perguntando quem n\u00e3o gosta dela e ela: \"a m\u00e3e do Hadson\" EU AMO ESSA MULHER KKKKKKKKKKKKKKKKKKK #BBB20 https://t.co/EUFUTgI7hp",
+        "e a rafa sendo uma mulher incr\u00edvel novamente #bbb20 https://t.co/F6SluoXtxq",
+        "Emily\nSofreu um relacionamento \nAbusivo dentro do #BBB20 \nEra taxada de loucura,dram\u00e1tica \nExagerada e que estava atuando.\n              Gaby\nSofre relacionamento abusivo dentro do #BBB20 \n\u00c9 taxada de loucura,dram\u00e1tica e exagerada.\nAdivinham? Por mulheres\n EMILLY MERECE RESPEITO https://t.co/AMNOvABbfj",
+        "gi: \u201ctem mt gente que nao gosta de mim\u201d\nivy: \u201cpara de ser louca quem q n gosta de vc\u201d\ngi: \u201ca mae do hadson, belem do para, florianopolis me odeia, pessoa da pizzaria socio do prior\u201d kkkkkk gi o brazil te ama entenda isso #BBB20 https://t.co/EhsXHAprkl",
+        "Prior visto pelos olhos de uma MESTRA e DOUTORA em psicologia. Quem somos n\u00f3s para discordar n\u00e9 \ud83e\udd2b #BBB20 https://t.co/HiuiYbzDGk",
+        "O que eu acho mas engra\u00e7ado \u00e9 que os macho no Twitter falando que pipi p\u00f3 p\u00f3 e assediador no #bbb20 sendo que aqui no ao vivo ( dia a dia ) a pessoa e assediador tamb\u00e9m kkkkkkkkk",
+        "Socorro! Pyong falando que Guilherme vai sair pela hist\u00f3ria com a Bianca, e Guilherme rebatendo dizendo que o Pyong vai sair pois assim como Petrix ele \u00e9 assediador. \nMENTIU??? N\u00e3o ent\u00e3o vamos de \n#ForaPyong \n#ForaPyomg \n#BBB20 https://t.co/kDmr4cQqDu",
+        "Podia ser eu falando,mas \u00e9 minha amiga Gabi.Vou mais longe, o efeito Guilherme na vida de uma mulher \u00e9 muito mais duradouro, mal\u00e9fico e perigoso do que um b\u00eabado tentando te beijar ou passando a m\u00e3o em nossa bunda. Esses a gente d\u00e1 um tapa e manda \u00e0 merda, os Guilhermes nos matam",
+        "A beleza da Ivy meu pai, pra mim a mais linda da edi\u00e7\u00e3o! #BBB20 https://t.co/EtOXTPCtTV",
+        "Gizelly chorando achando que vai sair pq tem muita gente que n\u00e3o gosta dela e Ivy perguntando quem n\u00e3o gosta dela e ela: \"a m\u00e3e do Hadson\" EU AMO ESSA MULHER KKKKKKKKKKKKKKKKKKK #BBB20 https://t.co/EUFUTgI7hp",
+        "\u201cGizelly \u00e9 uma das participantes mais aut\u00eanticas e centradas no #BBB20, vivendo intensamente, jogando limpo l\u00e1 dentro, al\u00e9m de ser uma respeitada ju\u00edza no estado do Esp\u00edrito Santo. Precisamos de mulheres fortes como ela no jogo!\u201d \u2014 Lady Gaga para Vogue. https://t.co/aODJrIugMS",
+        "que o pyong assediou, todo mundo sabe e \u00e9 s\u00f3 quest\u00e3o de tempo pra ele voltar pro pared\u00e3o, mas o abuso psicol\u00f3gico que o guilherme ta fazendo com a gabi \u00e9 perturbador e se ele continuar vai ser muito pior PRA ELA #BBB20 https://t.co/ptvhEnsR3D",
+        "Manoela e rafa fazem tudo! Expondo v\u00e1rios motivos dele ser um escroto e n\u00e3o s\u00f3 por quest\u00e3o do relacionamento que tem com a Gabi #BBB20 https://t.co/BjpKMBm1Iy",
+        "Pyong \"Eu ja pedi desculpas e ele (Gui) disse q nao ficaria mais falando nisso, e dai voltou a falar agora (do asssedio na festa).\"\nPrior: \"Mas Pyong, eu tbm ja pedi desculpas dos meus erros e vcs ficam tocando neles toda hora, usando isso. Ele so fez a mesma coisa q vcs\". #BBB20",
+        "\"O Victor Hugo sou eu dentro do BBB. Ele \u00e9 uma das pessoas mais aut\u00eanticas que eu j\u00e1 conheci, e ainda \u00e9 extremamente carism\u00e1tico. Al\u00e9m disso tudo, tem uma voz angelical e tem tudo pra bombar a carreira de cantor aqui fora.\" Lady Gaga sobre o Victor Hugo #BBB20 https://t.co/wejsUE1KGM",
+        "Amo essa mulher. Rafa \u2764.",
+        "EU JURO QUE EU MATARIA UM CARA DESSE #BBB20 #ForaGuilherne https://t.co/JlJutOxWZz",
+        "Rafa pra Manu: \"Eu o amo, mas j\u00e1 temos tr\u00eas semanas com ele aqui. Se o Prior estivesse errando na mesma propor\u00e7\u00e3o que o Daniel n\u00f3s estar\u00edamos passando a m\u00e3o na cabe\u00e7a dele?\" eita #BBB20",
+        "Victor Hugo foi bancar o advogado do Guilherme pra cima da Manu, dizendo que ele respeita a Gabi sim. Manu: \"n\u00e3o adianta vim debater relacionamento dos outros, isso n\u00e3o tem nada a ver com a gente\" #BBB20 #RedeBBB https://t.co/rggFOfHtih",
+        "Entre Guilherme e Pyong voc\u00eas tiram quem?\n \nPyong- rt \nGuilherme - favorito \n#ForaGuilherme #forapyong\n#BBB20 https://t.co/WpI21V8HyM",
+        "dif\u00edcil ficar em p\u00e9 com esse peso de carregar o bbb20 nas costas",
+        "@snow_bruna @leticiaisabelaa esse cara ultrapassa o ridiculo eu tenho nojo de tudo que ele fez nesse programa, so que ser a bosta tem um rombo enorme na alma apinista social joga sujo so faz detonar o cara mentiroso machista #BBB20",
+        "Guilherme articulando o Teste De Fidelidade e zombando das meninas, que cairiam no pared\u00e3o por \u201ctrairagem\u201d. \n\nTrago PROVAS.\n\n#BBB20 #RedeBBB \n\n https://t.co/mjJCzGIb0Y",
+        "Gi falando pra Ivy n\u00e3o falar com o Guilherme agora porque ela pode sair como vil\u00e3, e Thelminha confirmou, e disse que tem gente na casa que n\u00e3o vai se justificar para ela, e sim para o brasil e fazer cena. #bbb20 #foraguilhermeabusivo",
+        "Vao deixar um abusivo la pra foder mais ainda o psicol\u00f3gico da garota. Realmente alguns participantes n\u00e3o merecem os adms e nem a torcida que tem. #ForaGuilhermeAbusivo #bbb20",
+        "A Manu estava um pouco tristinha agora a tarde e foi consolada pela Mari e a Thelma. #BBB20\nhttps://t.co/uh8Rqo2JYK",
+        "S\u00c9RIO O GUILHERME TEM QUE SAIR AT\u00c9 QUANDO TERMINOU DE VOTAR HOJE A GABI SAIU CHORANDO VCS TEM NO\u00c7\u00c3O DO QUANTO ESSE ESCROTO TA FODENDO O PSICOL\u00d3GICO DESSA MENINA???? ELE TEM QUE SAIR AGORA PYONG SAI DEPOIS\n\n#BBB20\n https://t.co/fygIZSCkCu",
+        "\"desculpa tiago, eu te desrespeitei mas n\u00e3o pe\u00e7o tanta desculpas assim\" HAHAHAHHA SOCORRO #BBB20 https://t.co/Z9HhOM5iSu",
+        "Gabi: ''Ele disse que ia pedir pra sair ontem''\nRafa: ''Voc\u00ea sabe que ele n\u00e3o ia sair, n\u00e9? Isso \u00e9 press\u00e3o psicol\u00f3gica''\nGabi: ''Ele soltou sem querer''\nRafa: ''Gabi, o Gui n\u00e3o \u00e9 t\u00e3o inocente assim'' \n\nE A RAFA FAZ TUDOOOOOOO #BBB20 https://t.co/TeKe2WhIsp",
+        "A Ivy disse pra Thelma que ia chamar algu\u00e9m da xepa pro cinema, mas foi e chamou a Rafa e o Pyong kkkkkk coitada da Thelma, s\u00e9rio #BBB20",
+        "Gente, \u00e0s 17h vai rolar um mutir\u00e3o Ranu com o @ManuGavassiInfo \n\nVamos todos participar! N\u00e3o podemos perder o foco #ForaGuilherme #BBB20",
+        "O neg\u00f3cio \u00e9 Votar #ForaGui Pq o cara t\u00e1 fazendo uma press\u00e3o danada na Gabriela\nO Pyong errou, mas n\u00e3o erra todo dia, reconheceu o erro e j\u00e1 t\u00e1 tudo certo, ele n\u00e3o enche ningu\u00e9m mais, agora o #ForaGuilhermeAbusivo faz todo dia press\u00e3o na Gabizinha \n#BBB20 https://t.co/gP0nYHOk8P",
+        "@juanjuniorh BORA VOTAR #ForaPyongAssediador \n\nhttps://t.co/jf7cwgtEHP",
+        "Guilherme seguindo ela pra conferir que ela n\u00e3o t\u00e1 fazendo nada que ELE n\u00e3o queira, meio que intimidando ela.\n\n #BBB20 #RedeBBB https://t.co/isGYcTssDt",
+        "se a gizelly n\u00e3o ganhar eu topo fazer uma vaquinha pra dar o milh\u00e3o e meio pra ela #bbb20  https://t.co/jUobqpbQJe",
+        "Meu Deus eu n\u00e3o tinha visto que todas eram #foraguilherme \ud83d\ude31\ud83d\ude31\ud83d\ude31\ud83d\ude31 como assim gente??? E toda a movimenta\u00e7\u00e3o no come\u00e7o pra tirar o Petrix n\u00e3o se aplica agora pq?????????? #BBB20 #ForaPyongGuilhermeSaiDepois",
+        "@anita42261195 @HadsonNery @LucasBGallina Pseh , tem que sair #ForaGuilhermeAbusivo #ForaGuilhermePyongSaiDepois #BBB2O20 #BBB20",
+        "#BBB20 Prescisa falar mais alguma coisa?????\nJaneiro           /        um m\u00eas depois https://t.co/joQnNmM7Is\n#ForaGuilhermeAbusivo https://t.co/SCVsrrQXnZ",
+        "\u201cGizelly \u00e9 uma das participantes mais aut\u00eanticas e centradas no #BBB20, vivendo intensamente, jogando limpo l\u00e1 dentro, al\u00e9m de ser uma respeitada ju\u00edza no estado do Esp\u00edrito Santo. Precisamos de mulheres fortes como ela no jogo!\u201d \u2014 Lady Gaga para Vogue. https://t.co/aODJrIugMS",
+        "Rafa: \u201cvoc\u00ea t\u00e1 vendo a postura corporal da Gabi?\u201d \n\nManu: \u201cto\u201d\n\nRafa: \u201cvoc\u00ea t\u00e1 percebendo a mesma coisa que eu?\u201d \n\nManu: \u201caham\u201d \n\nA postura corporal na qual elas se referem \u00e9 postura de uma pessoa Oprimida, quem j\u00e1 passou sabe e se identifica #BBB20 #ForaGuilhermeAbusivo https://t.co/JyKgzWuK9q",
+        "MANO EU AMO DEMAIS\nHAHAHAHAHAHAHHAJAHA",
+        "oi @BiaAndradeOfc s\u00f3 pra deixar claro o porqu\u00ea da manoela ter se afastado de voc\u00ea, e pe\u00e7o por gentileza que voc\u00ea supere e pare de falar bosta com o nome dela, obrigada! beijos e sucesso, bi #BBB20 https://t.co/Wr950V1C3q",
+        "Pyong errou, pediu desculpas e n\u00e3o repetiu. \nGuilherme est\u00e1 a dias torturando a Gabi psicologicamente, isso deixa s\u00e9rias sequelas. \nA milit\u00e2ncia de voc\u00eas \u00e9 real ou \u00e9 s\u00f3 ran\u00e7o do Pyong? \n#ForaGui #ForaGuilhermeAbusivo #BBB20",
+        "Quem diria q essas duas seriam amigas dentro do bbb, meu RANU \u00e9 real, nunca vi tanta sincronia \ud83d\ude2d\u2764\ufe0f #teamrafa #TeamManu #BBB20 https://t.co/rtYtHdRck2",
+        "Bora votar pra o #GuilhermeAbusivo sair do #bbb20",
+        "Gizelly chorando achando que vai sair pq tem muita gente que n\u00e3o gosta dela e Ivy perguntando quem n\u00e3o gosta dela e ela: \"a m\u00e3e do Hadson\" EU AMO ESSA MULHER KKKKKKKKKKKKKKKKKKK #BBB20 https://t.co/EUFUTgI7hp",
+        "Felipe Neto jantando uma idiota qualquer foi o melhor ato da noite p mim #BBB20 https://t.co/OOor7VTzNE",
+        "Como a gente estava um tempo atr\u00e1s! \ud83d\ude02 #TeamFelipe #TeamPrior #RedeBBB #BBB20 https://t.co/jEAWOroBA8",
+        "tweet de aprecia\u00e7\u00e3o do discurso da gizelly #BBB20 https://t.co/5rbWrSEHi3",
+        "Um esclarecimento sobre pq eu sou #ForaGuilherme :\n\n- Alvos do Guilherme se retornar: Manu, Rafa, Gizelly;\n\n- Alvos do Pyong se voltar: Victor Hugo\n\nInfelizmente jogaram dois sujos no pared\u00e3o juntos e eu t\u00f4 escolhendo tirar aquele que pode prejudicar minhas favs, s\u00f3 isso #BBB20",
+        "isso aqui \u00e9 t\u00e3o real",
+        "Eu amo tanto",
+        "Rafa e Manu: \"Gabi, n\u00e3o se sinta culpada por nada!\" #BBB20\n\n* minutos depois *\n\nBabu: \"Quem colocou o Gui no pared\u00e3o foi voc\u00ea!\"\nhttps://t.co/XKNBDVYeQo",
+        "Rafa: \u201cvoc\u00ea t\u00e1 vendo a postura corporal da Gabi?\u201d \n\nManu: \u201cto\u201d\n\nRafa: \u201cvoc\u00ea t\u00e1 percebendo a mesma coisa que eu?\u201d \n\nManu: \u201caham\u201d \n\nA postura corporal na qual elas se referem \u00e9 postura de uma pessoa Oprimida, quem j\u00e1 passou sabe e se identifica #BBB20 #ForaGuilhermeAbusivo https://t.co/JyKgzWuK9q",
+        "Gizelly \u00e9 muito fofa #bbb20",
+        "#BBB20 Na pr\u00f3xima aten\u00e7\u00e3o que o Daniel tomar, o Big Boss tem que falar assim com ele https://t.co/C8cbDfmc40",
+        "@UOLBBB N\u00e3o vi o tweet dela... Apagou? Finalmente um pouco de sensatez dessa mo\u00e7a. #BBB20",
+        "N\u00e3o votar em Guilherme \u00e9 manter uma mulher em estado de TORTURA MENTAL confinada em uma casa. Inevitavelmente Pyong vai sair em seguida, mas o dano causado a Gabi nessa semana vai estar na m\u00e3o de todos que n\u00e3o votaram no traste do Guilherme. \n\n#BBB20 #BBB2O20 #ForaGuilheme https://t.co/IrQRLi7fzc",
+        "\u00c9 piolho",
+        "Tatuagem da Rafa \u2764\ufe0f #FeedBBB #BBB20 https://t.co/bev7AAOcnD",
+        "Rafa pra Manu: \"Eu o amo, mas j\u00e1 temos tr\u00eas semanas com ele aqui. Se o Prior estivesse errando na mesma propor\u00e7\u00e3o que o Daniel n\u00f3s estar\u00edamos passando a m\u00e3o na cabe\u00e7a dele?\" eita #BBB20",
+        "SE VCS N TIRAREM ESTE HOMEM EU VO FICA PUTA",
+        "Pyong: \u201cO Guilherme quis insinuar que fiz a mesma coisa que o Petrix, olha como ele \u00e9 escroto e sujo.\u201d\n\nu\u00e9, mas n\u00e3o foi? \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f\n#BBB20  \nhttps://t.co/K6cLxMt6ej",
+        "Vamos de #ForaGuilherme com for\u00e7a e com talento #BBB20",
+        "Como eu queria ter visto os sensatos proteger Emilly quando elas sofria todos aqueles abusos dentro do BBB17 \n#BBB20 \n\nEMILLY MERECE RESPEITO",
+        "gente o Pyong pode ter feio muita coisa dentro da casa, mais ele movimento o jogo ainda.....\n\no Guilherme \u00e9 uma Planta que n\u00e3o faz nada bora tirar ele  #BBB20 https://t.co/083LvCyGYv",
+        "eu me vejo muito na gizelly quando ela fala de ser: intensa \u2022 um furac\u00e3o \u2022 insegura \u2022 sincera \n\nEU TODINHO!! #BBB20 https://t.co/Kn8gkdExsN",
+        "Saiu a minha coluna no site do @votalhada \ud83d\ude18\u270c\ud83c\udffc\n\n#BBB20 #RedeBBB #Paredao",
+        "eu odeio TODOS eles que prior elimine um por um com rejei\u00e7\u00e3o",
+        "Pyong \"Eu ja pedi desculpas e ele (Gui) disse q nao ficaria mais falando nisso, e dai voltou a falar agora (do asssedio na festa).\"\nPrior: \"Mas Pyong, eu tbm ja pedi desculpas dos meus erros e vcs ficam tocando neles toda hora, usando isso. Ele so fez a mesma coisa q vcs\". #BBB20",
+        "\u00c9 n\u00edtido. \n\n\u00c9 vis\u00edvel! \n\nVamos ajudar essa garota! \n\n#ForaGuilhermeAbusivo #ForaGuilherme #BBB #BBB20 https://t.co/zWzIMNW2Dd",
+        "#BBB20 Prescisa falar mais alguma coisa?????\nJaneiro           /        um m\u00eas depois https://t.co/joQnNmM7Is\n#ForaGuilhermeAbusivo https://t.co/SCVsrrQXnZ",
+        "\u201cGizelly \u00e9 uma das participantes mais aut\u00eanticas e centradas no #BBB20, vivendo intensamente, jogando limpo l\u00e1 dentro, al\u00e9m de ser uma respeitada ju\u00edza no estado do Esp\u00edrito Santo. Precisamos de mulheres fortes como ela no jogo!\u201d \u2014 Lady Gaga para Vogue. https://t.co/aODJrIugMS",
+        "Pyong: \u201cO Guilherme quis insinuar que fiz a mesma coisa que o Petrix, olha como ele \u00e9 escroto e sujo.\u201d\n\nu\u00e9, mas n\u00e3o foi? \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f\n#BBB20  \nhttps://t.co/K6cLxMt6ej",
+        "A Manu estava um pouco tristinha agora a tarde e foi consolada pela Mari e a Thelma. #BBB20\nhttps://t.co/uh8Rqo2JYK",
+        "BBB20: Rafa passa por cirurgia \u00e0s pressas dentro do confinamento: \u201cEstou com a boca toda anestesiada\u201d; Sister se preocupa com rea\u00e7\u00e3o de Manu \u2014 assista https://t.co/J95dvxQIVm (Foto: Reprodu\u00e7\u00e3o/Globoplay) #BBB20 https://t.co/5IqqKiqGdv",
+        "O que Pyong fez foi muito s\u00e9rio, mas n\u00e3o FODEU a sa\u00fade mental de ningu\u00e9m e depois de advertido n\u00e3o reincidiu no erro.\n\nPrioridades. Se \u00e9 pra escolher, pelo menos pelo estrago dentro do #BBB20, acho o tipo de homem que Guilherme representa muito mais nocivo.\n\n#ForaGuilherme",
+        "SAII MACHO ABUSIVO DE MERDA \n\n#ForaGuilhermeAbusivo https://t.co/XRaLod4db3",
+        "\u201cGizelly \u00e9 uma das participantes mais aut\u00eanticas e centradas no #BBB20, vivendo intensamente, jogando limpo l\u00e1 dentro, al\u00e9m de ser uma respeitada ju\u00edza no estado do Esp\u00edrito Santo. Precisamos de mulheres fortes como ela no jogo!\u201d \u2014 Lady Gaga para Vogue. https://t.co/aODJrIugMS",
+        "#BBB20 Prescisa falar mais alguma coisa?????\nJaneiro           /        um m\u00eas depois https://t.co/joQnNmM7Is\n#ForaGuilhermeAbusivo https://t.co/SCVsrrQXnZ",
+        "#BBB20 Prescisa falar mais alguma coisa?????\nJaneiro           /        um m\u00eas depois https://t.co/joQnNmM7Is\n#ForaGuilhermeAbusivo https://t.co/SCVsrrQXnZ",
+        "@VemBigBrother Espero muito mesmo que o Guilherme seja eliminado, a cara desse pombo caindo no ao vivo vai ser lindo! #ForaGuilhermeAbusivo #BBB20",
+        "mais algu\u00e9m se tremeu pra n\u00e3o invadir essa casa pra tirar essa menina de perto desse doente???",
+        "N\u00e3o \u00e9 poss\u00edvel que ele tenha mais senso que a Bianca, que quer que o Pyong sa\u00eda s\u00f3 pq ele torceu pra ela sair; t\u00e1 demonstrando ser uma \u00f3tima \u201camiga\u201d da Gabi #BBB20 https://t.co/GkjrqNwRWg",
+        "Deus me livre de um Guilherme na minha vida #bbb20",
+        "A CARA DO MAX E DA FRANCINE VSF PERDI TUDOKKKKK",
+        "Enquete Pared\u00e3o BBB20: Guilherme, Pyong ou Gizelly? Quem deve ser eliminado? | BBB | Confira tudo sobre o BBB19 https://t.co/1mHLCyvXns",
+        "s\u00f3 nessa conversa com a gabi, a rafa:\n- disse q ela n deve nunca se sentir culpada por atitudes do gui\n- disse q o q gui fez foi press\u00e3o psicol\u00f3gica e q ele n \u00e9 inocente\n- disse q o gui usa at\u00e9 ela pra se isentar da pr\u00f3pria culpa\n\nrafa kalimann justa e paciente como jesus #bbb20",
+        "gizelly chorando achando que vai sair pq tem muita gente que nao gosta dela \n\nivy perguntou quem nao gosta dela e ela: \"a m\u00e3e do hadson\" \n\nKKKKKKKKKKKK #BBB20 https://t.co/ao8yXCaqAB",
+        "Sou #FORAGUILHERME pq ao contr\u00e1rio do q ele disse hoje no almo\u00e7o p Gabi, ele estava SIM presente e armando contra Mari. Sou fora Guilherme pq ele desestabiliza a Gabi. Sou fora Guilherme pq Bia levou td a culpa quando ele claramente estava afim tbm\n#BBB20\n https://t.co/FyGJelizer",
+        "#BBB20 Prescisa falar mais alguma coisa?????\nJaneiro           /        um m\u00eas depois https://t.co/joQnNmM7Is\n#ForaGuilhermeAbusivo https://t.co/SCVsrrQXnZ",
+        "Manu e Rafa est\u00e3o aconselhando a Gabi sobre seu relacionamento com o guilherme no quarto c\u00e9u, t\u00e3o acompanhando? #bbb20",
+        "Pyong \"Eu ja pedi desculpas e ele (Gui) disse q nao ficaria mais falando nisso, e dai voltou a falar agora (do asssedio na festa).\"\nPrior: \"Mas Pyong, eu tbm ja pedi desculpas dos meus erros e vcs ficam tocando neles toda hora, usando isso. Ele so fez a mesma coisa q vcs\". #BBB20",
+        "QUAL A DIFICULDADE DE ENTENDER QUE NINGU\u00c9M EST\u00c1 DEFENDENDO O ASSEDIADOR DO PYONG???? \n\nMAS O GUILHERME PRECISA SAIR PQ ELE EST\u00c1 FODENDO O PSICOL\u00d3GICO  DA GABI E N\u00c3O ESQUE\u00c7AM QUE ELE SEMPRE FEZ PARTE DO PLANO DOS ESCROTOS ENT\u00c3O ACORDEM IDIOTAS #bbb20",
+        "#BBB20 Prescisa falar mais alguma coisa?????\nJaneiro           /        um m\u00eas depois https://t.co/joQnNmM7Is\n#ForaGuilhermeAbusivo https://t.co/SCVsrrQXnZ",
+        "Discordo solenemente da postura do BBB em impedir que o caso GRAVE seja comentado no programa. Isso \u00e9 bem inacredit\u00e1vel... \u00c9 extamente como parte do p\u00fablico tem feito: \u201cshhhhh n\u00e3o lembra disso shhhhhhh\u201d.",
+        "Guilherme avisa que, se ficar, vai chamar mulher por mulher pra tirar satisfa\u00e7\u00e3o de estarem se metendo no relacionamento dele com Gabi #BBB20 #RedeBBB https://t.co/8eKRLnYP1n",
+        "Jesus uma vergonha! To vendo homens focados em tirar o Pyong, por ele ser tarado e etc, homens fazendo uma coisa que mulheres deveriam fazer, pqp, eu to envergonhada serio. #BBB20",
+        "Guilherme esta espalhando na casa toda q ele s\u00f3 estava defendendo a Bia do Pyong nas festas. E que tirou ele de cima dela no caminh\u00e3o. Vemos nesse v\u00eddeo a realidade dos fatos. Isso \u00e9 s\u00f3 uma desculpa pra justificar a merda que ele fez com a Gabi.\n#bbb20 #redebbb #foraGui https://t.co/aZIAV3TBih",
+        "Ai sei l\u00e1 gizelly tudo pra mim",
+        "Gabi: ''Ele disse que ia pedir pra sair ontem''\nRafa: ''Voc\u00ea sabe que ele n\u00e3o ia sair, n\u00e9? Isso \u00e9 press\u00e3o psicol\u00f3gica''\nGabi: ''Ele soltou sem querer''\nRafa: ''Gabi, o Gui n\u00e3o \u00e9 t\u00e3o inocente assim'' #BBB20",
+        "@globoplay @boninho t\u00e1 muito devagar o site da vota\u00e7\u00e3o voc\u00ea pode chegar obrigado #bbb20 https://t.co/z3bieJeTQ2",
+        "Eu n\u00e3o aceito ver mulher falando que o Pyong \u00e9 pior que o Guilherme. O Guilherme t\u00e1 destruindo o psicol\u00f3gico de uma pessoa doente e n\u00e3o t\u00e1 nem a\u00ed, PORRA! A Gabi qualquer hora vai ter um piripaque s\u00e9rio. #BBB20 https://t.co/EEjg00o30J",
+        "Ameii arrasou",
+        "a gizelly, coitada\n\npegou o boy lixo\nse apaixonou pela amiga\ntomou fora da amiga\nviu a amiga pegar um pamonha\nchorou pela amiga ao som de anna j\u00falia\ne agora parou no pared\u00e3o pelo boy lixo que pegou\n\nmas tudo bem o que importa \u00e9 que ela vai estar na final #bbb20",
+        "#ForaGuilhermeAbusivo #BBB20\n\nIvy: Gente se ele sair amanh\u00e3 eu n\u00e3o vou nem ter tempo de falar com ele\n\nGizelly: L\u00e1 fora voc\u00ea vai ter suficiente!\n\nComo eu amo a Gizelly!!",
+        "Gizelly: O que voc\u00ea acha de eu dar um beijo de l\u00edngua na boca do prior \nRafa : Nossa ela t\u00e1 morrendo de vontade \n#bbb20 https://t.co/fQyorWNsvO",
+        "Gabi fazendo Raio-x antes e durante do relacionamento. \u00c9 vis\u00edvel uma diferen\u00e7a na disposi\u00e7\u00e3o. \n\n #ForaGuilhermeAbusivo #BBB20\nJaneiro / Agora https://t.co/tG6QWoTJ7c",
+        "Gizelly chorando achando que vai sair pq tem muita gente que n\u00e3o gosta dela e Ivy perguntando quem n\u00e3o gosta dela e ela: \"a m\u00e3e do Hadson\" EU AMO ESSA MULHER KKKKKKKKKKKKKKKKKKK #BBB20 https://t.co/EUFUTgI7hp",
+        "Pyong errou, pediu desculpas e n\u00e3o repetiu. \nGuilherme est\u00e1 a dias torturando a Gabi psicologicamente, isso deixa s\u00e9rias sequelas. \nA milit\u00e2ncia de voc\u00eas \u00e9 real ou \u00e9 s\u00f3 ran\u00e7o do Pyong? \n#ForaGui #ForaGuilhermeAbusivo #BBB20",
+        "Pyong \"Eu ja pedi desculpas e ele (Gui) disse q nao ficaria mais falando nisso, e dai voltou a falar agora (do asssedio na festa).\"\nPrior: \"Mas Pyong, eu tbm ja pedi desculpas dos meus erros e vcs ficam tocando neles toda hora, usando isso. Ele so fez a mesma coisa q vcs\". #BBB20",
+        "Como faz pra eliminar ele e o pyong de uma vez??????????????",
+        "Rafa e Manu: \"Gabi, n\u00e3o se sinta culpada por nada!\" #BBB20\n\n* minutos depois *\n\nBabu: \"Quem colocou o Gui no pared\u00e3o foi voc\u00ea!\"\nhttps://t.co/XKNBDVYeQo",
+        "gizelly bicalho a \u00fanica participante poss\u00edvel pra fazer Tiago sorrir em rede nacional #bbb20",
+        "Pyong errou?           Gui errou ?\nSim                             sim\nSe desculpou?         Se desculpou?\nSim                              n\u00e3o \nRepetiu o erro?        Repetiu o erro?\nN\u00e3o                             sim(tds os dias)\n\nPor isso sou #ForaGuilherme\n\n#bbb20 #BBB2020 https://t.co/ZuRtkjpGhg",
+        "\u201cDiga n\u00e3o a relacionamentos abusivos\u201d (Gavassi, M. BBB20) #BBB20 #ForaGuilherme https://t.co/DV4tz9pC9a",
+        "Rafa: \u201cvoc\u00ea t\u00e1 vendo a postura corporal da Gabi?\u201d \n\nManu: \u201cto\u201d\n\nRafa: \u201cvoc\u00ea t\u00e1 percebendo a mesma coisa que eu?\u201d \n\nManu: \u201caham\u201d \n\nA postura corporal na qual elas se referem \u00e9 postura de uma pessoa Oprimida, quem j\u00e1 passou sabe e se identifica #BBB20 #ForaGuilhermeAbusivo https://t.co/JyKgzWuK9q",
+        "Deus \u00e9 mais e o nervoso q eu passava? cara louco",
+        "gente",
+        "Criticaram tanto a Boca Rosa por falar que todo mundo \u00e9 ser humano e comete erros e agora resolveram adotar o mesmo discurso pra lamber o rabo do assediador Pyong que passa o dia manipulando v\u00e1rias mulheres. Que gente pat\u00e9tica meu pai! #BBB20",
+        "ressaltando a minha fala no meu \u00faltimo v\u00eddeo: a leitura de jogo do pyong \u00e9 t\u00e3o boa que me assusta.\n\nou ele realmente \u00e9 muito inteligente ou ele estudou muito para entrar nesse programa #bbb20 https://t.co/DOFDuih4sJ",
+        "A\u00ed corta pro outro lado t\u00e1 o Prior e o Babu metendo simplesmente a comemora\u00e7\u00e3o do J\u00f4 com o Ronaldinho... Irm\u00e3o n\u00e3o tem o que pensar.",
+        "Criticaram tanto a Boca Rosa por falar que todo mundo \u00e9 ser humano e comete erros e agora resolveram adotar o mesmo discurso pra lamber o rabo do assediador Pyong que passa o dia manipulando v\u00e1rias mulheres. Que gente pat\u00e9tica meu pai! #BBB20",
+        "Rafa: \"O Daniel falou um neg\u00f3cio ali e ningu\u00e9m o questionou, a Marcela ficou calada, s\u00f3 a Thelminha falou algo. A\u00ed eu penso na posi\u00e7\u00e3o do Babu, imagina tudo que ele faz as pessoas reclamam\" \n\nN\u00e3o aguento mais amar a Rafa #BBB20",
+        "At\u00e9 o site do gshow sabe gente! #ForaPyong #ForaAssediador #BBB20 https://t.co/kz8ujcX2A0",
+        "Pyong: \u201cO Guilherme quis insinuar que fiz a mesma coisa que o Petrix, olha como ele \u00e9 escroto e sujo.\u201d\n\nu\u00e9, mas n\u00e3o foi? \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f\n#BBB20  \nhttps://t.co/K6cLxMt6ej",
+        "\u00c9 GRAVE! Ela precisa de tratamento... Ele tava tentando escapar do pared\u00e3o, e tava pedindo ajuda da NAMORADA!!! kkkkkdaskdaks \n\nO Guilherme teve umas DR'S e os PYONGUETES criaram o enredo pra tentar livrar o ASSEDIADOR que agarrou tr\u00eas mulheres!\nhttps://t.co/ddluSXDENJ",
+        "\ud83c\udfad\ud83c\udf2a MUTIR\u00c3O ROUBAMOS O COOLER INICIADO \ud83c\udfad\ud83c\udf2a\n\n\u274c O VOTO \u00c9 PRA ELIMINAR, VOTEM NO GUILHERME\n\n\ud83d\udcaa\ud83c\udffb FOCO TOTAL NO GSHOW, SEM PARAR\n\n\ud83d\udc49\ud83c\udffb META: 1.000 VOTOS\n\n\u23f0 ENVIEM OS VOTOS \u00c0S 19H PARA @gizellybicalho_\n\n\ud83d\udcbb LINK: https://t.co/KdqnVtLlxK #BBB20 https://t.co/G4sAkNFCW2",
+        "O p\u00e9ssimo desse pared\u00e3o \u00e9\n2 potenciais assediadores l\u00e1 dentro.\nQuem ficar vai se achar o rei da verdade\nTinha que ser elimina\u00e7\u00e3o dupla.\nT\u00f4 bem dividida, mas n\u00e3o quero nunca que a Gizelly saia!\n#BBB20",
+        "\"Thelma \u00e9 uma das melhores participantes desse #BBB20. Ela demonstra firmeza, \u00e9 sensata, est\u00e1 jogando limpo e \u00e9 forte! Al\u00e9m disso ela \u00e9 uma \u00f3tima m\u00e9dica e passista de uma escola de samba, merece sim esse pr\u00eamio!\" \u2014 Rihanna para Vouge. https://t.co/oqknMdBzda",
+        "Vitor Hugo parece aquelas dona de casa louca que n\u00e3o aguento ficar sem fazer nada. A\u00ed ele n\u00e3o pode ver uma vergonha amarrotada que j\u00e1 quer passar. #bbb #bbb20 #redebbb https://t.co/B7yrUxpB3U",
+        "elimina os dois e fica tudo certo #bbb20 https://t.co/hth70OFVra",
+        "Prior no BBB:\n-O Daniel \u00e9 muito chato, n\u00e3o gosto desse maluco!\n-Meu voto hoje vai na mari.\n-Quem eu quero que v\u00e1 para o pared\u00e3o comigo \u00e9 a Gizelly.\n\nO c\u00e9rebro do prior:\n\n#BBB20 https://t.co/OBcAwptums",
+        "\u201cEu n\u00e3o sou machista. Sempre cuidei das mulheres. Cuidei de voc\u00ea b\u00eabada... Voc\u00ea se sente influenci\u00e1vel aqui?\u201d EMBUSTE DO CARALHO BOTANDO CULPA NELA E DEIXANDO ELA LOUCA #BBB20 #ForaGuilherne https://t.co/xGCEVL3ZzW",
+        "tweet de aprecia\u00e7\u00e3o do discurso da gizelly #BBB20 https://t.co/5rbWrSEHi3",
+        "Socorro! Pyong falando que Guilherme vai sair pela hist\u00f3ria com a Bianca, e Guilherme rebatendo dizendo que o Pyong vai sair pois assim como Petrix ele \u00e9 assediador. \nMENTIU??? N\u00e3o ent\u00e3o vamos de \n#ForaPyong \n#ForaPyomg \n#BBB20 https://t.co/kDmr4cQqDu",
+        "ai gizelly se tem uma coisa que bel\u00e9m do par\u00e1 odeia \u00e9 o hadson pode ficar tranquila kkkkk #BBB20\nhttps://t.co/WR83VOW0jg",
+        "\u00c9 n\u00edtido. \n\n\u00c9 vis\u00edvel! \n\nVamos ajudar essa garota! \n\n#ForaGuilhermeAbusivo #ForaGuilherme #BBB #BBB20 https://t.co/zWzIMNW2Dd",
+        "Podia ser eu falando,mas \u00e9 minha amiga Gabi.Vou mais longe, o efeito Guilherme na vida de uma mulher \u00e9 muito mais duradouro, mal\u00e9fico e perigoso do que um b\u00eabado tentando te beijar ou passando a m\u00e3o em nossa bunda. Esses a gente d\u00e1 um tapa e manda \u00e0 merda, os Guilhermes nos matam",
+        "mais algu\u00e9m se tremeu pra n\u00e3o invadir essa casa pra tirar essa menina de perto desse doente???",
+        "Podia ser eu falando,mas \u00e9 minha amiga Gabi.Vou mais longe, o efeito Guilherme na vida de uma mulher \u00e9 muito mais duradouro, mal\u00e9fico e perigoso do que um b\u00eabado tentando te beijar ou passando a m\u00e3o em nossa bunda. Esses a gente d\u00e1 um tapa e manda \u00e0 merda, os Guilhermes nos matam",
+        "Esse v\u00eddeo \u00e9 maravilhoso kkk \n\u201cA m\u00e3e do Hadson me odeia. Bel\u00e9m do Par\u00e1! Florian\u00f3polis me odeia. Os s\u00f3cios da pizzaria do Prior...\u201d \ud83d\ude02 #BBB20 https://t.co/vfipuB0e29",
+        "Pyong: \u201cO Guilherme quis insinuar que fiz a mesma coisa que o Petrix, olha como ele \u00e9 escroto e sujo.\u201d\n\nu\u00e9, mas n\u00e3o foi? \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f\n#BBB20  \nhttps://t.co/K6cLxMt6ej",
+        "Para quem vai seu voto nesse PARED\u00c3O\n\nGuilherme - RT\ud83d\udd01\n\nPyong - FAV\u2763\ufe0f\n\n#BBB20 \n#BBB2O20 \n#ForaGuilhermePyongSaiDepois\n#ForaPyongGuilhermeSaiDepois https://t.co/iBRM6FRpnR",
+        "FORA GUILHERME CARALHOOO #BBB20",
+        "Guilherme disse que se voltar do pared\u00e3o vai chamar todas as mulheres da casa, uma a uma, pra perguntar o motivo delas terem se intrometido no relacionamento dele com Gabi\nMeio abusiva e sem no\u00e7\u00e3o essa atitude n\u00e9? #BBB20 #RedeBBB https://t.co/akerVhOqrB",
+        "E a aula de empatia e sororidade da Rafa continua: Ao contr\u00e1rio das pr\u00f3prias \"amigas\", que colocaram na cabe\u00e7a da Gabi que a culpa de tudo era dela, Rafa conversa com a Gabi e d\u00e1 um show de sensatez. #BBB20\n\n https://t.co/oFdSJYj7M0",
+        "pyong \u00e9 mto debochado kkkkkkkkkkkkkkkkkkkkkkkk",
+        "Pyong errou, pediu desculpas e n\u00e3o repetiu. \nGuilherme est\u00e1 a dias torturando a Gabi psicologicamente, isso deixa s\u00e9rias sequelas. \nA milit\u00e2ncia de voc\u00eas \u00e9 real ou \u00e9 s\u00f3 ran\u00e7o do Pyong? \n#ForaGui #ForaGuilhermeAbusivo #BBB20",
+        "\u00c9 por isso que como prioridade temos que tirar o Guilherme! #ForaGuilherne #BBB20 #BBB2O20 #BBB https://t.co/vFtLf4nud7",
+        "Mulheres percebem quando outras mulheres est\u00e3o sob press\u00e3o psicol\u00f3gica e em situa\u00e7\u00f5es abusivas\nManu e Rafa comentam sobre a postura corporal da Gabi. \nE eu acho lindo mulheres que se preocupam com outras mulheres. \n#BBB #BBB20 https://t.co/oivXiYpfwU",
+        "PRIORidades: garantir o almocinho gostoso \ud83e\udd23 #BBB20 #RedeBBB https://t.co/aVmyvDCKeY",
+        "N\u00f3s temos uma menina que nesse momento est\u00e1 sofrendo v\u00e1rios abusos ao vivo pelo c\u00f4njuge dela. Uma menina que est\u00e1 sem seus rem\u00e9dios para tratar sua doen\u00e7a psicol\u00f3gica. \nA guria que est\u00e1 escutando coisas como: \"- Olha o que voc\u00ea me faz fazer?\" #ForaGuilhermeAbusivo #BBB20 https://t.co/aBUwQo80Rc",
+        "as \u00fanicas duas certezas que a gente tem nessa vida \u00e9 a morte e que a gizelly volta desse pared\u00e3o\n\n#bbb20\nhttps://t.co/04DtH2v09C",
+        "Se at\u00e9 o perfil da Gabi \u00e9 #ForaPyong quem somos n\u00f3s pra discordar #bbb20 #PYONGASSEDIADOR https://t.co/ZvewUmxqim",
+        "\u201cO Pyong tem fam\u00edlia.\u201d\n\nA Suzane Ritchtofen tamb\u00e9m tinha \n\n#BBB20",
+        "Parece que Babu deu a entender pra Gabi que se Guilherme sair ela \u00e9 a culpada \ud83e\udd2e\nRafa ficou revoltada. \n\n#BBB #BBB20 https://t.co/6VvZ1W4psk",
+        "O que eu senti vendo essa cena, n\u00e3o d\u00e1 nem pra descrever. Que medo!! \n#BBB20 #ForaGuilherme #ForaGuilhermeAbusivo https://t.co/GTLGncYzUX",
+        "mais algu\u00e9m se tremeu pra n\u00e3o invadir essa casa pra tirar essa menina de perto desse doente???",
+        "O pior \u00e9 que tem gente que entende isso como amor e cuidado,\u00e9  s\u00f3 olhar alguns coment\u00e1rios e s\u00e3o coment\u00e1rios de mulheres, ou seja, tem tantas meninas sendo abusadas psicologicamente, achando que \u00e9 amor. TRISTE!",
+        "Eu sou #ForaGuilherme, sabe pq? \n\nEle e Pyong erraram muito, porem Pyong admitiu seu erro, se sentiu mal, pediu desculpas. \n\nGuilherme continua errando e nao admite NADA do que ele faz.\n\nSomos todos humanos e erramos: o foda eh persistir no erro #bbb20",
+        "Gizelly chorando achando que vai sair pq tem muita gente que n\u00e3o gosta dela e Ivy perguntando quem n\u00e3o gosta dela e ela: \"a m\u00e3e do Hadson\" EU AMO ESSA MULHER KKKKKKKKKKKKKKKKKKK #BBB20 https://t.co/EUFUTgI7hp",
+        "e a rafa sendo uma mulher incr\u00edvel novamente #bbb20 https://t.co/F6SluoXtxq",
+        "Gabi fazendo Raio-x antes e durante do relacionamento. \u00c9 vis\u00edvel uma diferen\u00e7a na disposi\u00e7\u00e3o. \n\n #ForaGuilhermeAbusivo #BBB20\nJaneiro / Agora https://t.co/tG6QWoTJ7c",
+        "o pyong vai sair de qualquer jeito, o guilherme vai se pagar de santo e ngm mais vai votar nesse imbecil",
+        "Brasileiro \u00e9 muito fudido mesmo, a gente tem q decidir quem \u00e9 pior pra poder tirar sendo que oq a gente queria mesmo era que os dois sa\u00edssem #ForaPyong #ForaGuilherme #BBB20",
+        "Se ele fosse como mostra na casa, estaria com ele at\u00e9 hoje\".BBB20: Ex de Gui Napolitano alfineta o brother: \"Se ele fosse como mostra na casa, estaria com ele at\u00e9 hoje\" https://t.co/yXFMPox5HH",
+        "\"deixa eu respirar um pouquinho gui\" pra mim \u00e9 um pedido de socorro #BBB20 https://t.co/7A33QaxxK0",
+        "Acho que fodeu sim, da mulher dele que t\u00e1 aqui fora vendo isso td",
+        "A beleza da Ivy meu pai, pra mim a mais linda da edi\u00e7\u00e3o! #BBB20 https://t.co/EtOXTPCtTV",
+        "Gizelly chorando achando que vai sair pq tem muita gente que n\u00e3o gosta dela e Ivy perguntando quem n\u00e3o gosta dela e ela: \"a m\u00e3e do Hadson\" EU AMO ESSA MULHER KKKKKKKKKKKKKKKKKKK #BBB20 https://t.co/EUFUTgI7hp",
+        "Ningu\u00e9m t\u00e1 passando pano pro pyong pq t\u00e1 votando no guilherme s\u00f3 que o pyong vai est\u00e1 em outros pared\u00f5es e o Guilherme t\u00e1 destruindo a sa\u00fade mental da Gabi agora. NINGUEM esqueceu que o pyong ASS\u00c9DIOU as meninas no pr\u00f3ximo ele vai sair.\n#bbb20 https://t.co/VbzwkBVeNs",
+        "Ent\u00e3o \u00e9 isso.  Primeiro #ForaGuilhermeAbusivo #ForaGuilhermePyongSaiDepois #BBB20 https://t.co/EIG6IJmF1n",
+        "Rafa: \"O Daniel falou um neg\u00f3cio ali e ningu\u00e9m o questionou, a Marcela ficou calada, s\u00f3 a Thelminha falou algo. A\u00ed eu penso na posi\u00e7\u00e3o do Babu, imagina tudo que ele faz as pessoas reclamam\" \n\nN\u00e3o aguento mais amar a Rafa #BBB20",
+        "N\u00f3s temos uma menina que nesse momento est\u00e1 sofrendo v\u00e1rios abusos ao vivo pelo c\u00f4njuge dela. Uma menina que est\u00e1 sem seus rem\u00e9dios para tratar sua doen\u00e7a psicol\u00f3gica. \nA guria que est\u00e1 escutando coisas como: \"- Olha o que voc\u00ea me faz fazer?\" #ForaGuilhermeAbusivo #BBB20 https://t.co/aBUwQo80Rc",
+        "eu espero q vcs lembrem-se nesse pared\u00e3o q o pyong assediou 5 MULHERES nesse bbb e quando o gui foi expor isso foi cortado ao vivo. alcool n\u00e3o justifica ass\u00e9dio. ass\u00e9dio vai contra td aquilo que a gente e as favs do bem que vcs torcem acredita, esse pared\u00e3o \u00e9 #ForaPyong! #BBB20 https://t.co/xGLLdbt7um",
+        "\u00c9 \u00e9 agora em?? Elas v\u00e3o fazer de tudo pra salvar esse peda\u00e7o de coc\u00f4 e voc\u00eas a\u00ed. Sinceramente se esse cara n\u00e3o sair espero que voc\u00eas tomem no olho no cu",
+        "J\u00e1 pode come\u00e7ar o mutir\u00e3o da noite??? Quem vem??\n#BBB20  #TeamGizelly https://t.co/5YCZEGc5ji",
+        "\ud83d\udea8 MUTIR\u00c3O \"RESPEITA AS MINAS, RAPAZ\" INICIADO \ud83d\udea8 \n\n \u27a1\ufe0f #ForaPyong #BBB20\n\n\u274c FOCO TOTAL NO GSHOW, SEM PARAR!\n\n\ud83c\udfaf META: 1000 VOTOS.\n\n\u23f0 ENVIEM OS VOTOS \u00c0S 03H\n\n\u26a0 O VOTO \u00c9 PRA ELIMINAR, VOTEM NO PYONG!\n\n\ud83d\udcbb https://t.co/N9e3J25mmz https://t.co/JatSu46GAd",
+        "Nenhuma pessoa com cora\u00e7\u00e3o pode votar na Gi! #BBB20",
+        "#BBB20 Na pr\u00f3xima aten\u00e7\u00e3o que o Daniel tomar, o Big Boss tem que falar assim com ele https://t.co/C8cbDfmc40",
+        "a Ivy \"Vitorr, depois vc n\u00e3o vai abrir o boc\u00e3o pro Gui n\u00e3o n\u00e9?\" KKKK #BBB20 https://t.co/us9TVEIurK",
+        "Voc\u00eas v\u00e3o ficar feliz em ver isso todo dia ate o guilherme ir pra um outro pared\u00e3o? #ForaGui #ForaGuilhermeAbusivo #BBB20 https://t.co/9Hb5s56ImA",
+        "Gizelly chorando achando que vai sair pq tem muita gente que n\u00e3o gosta dela e Ivy perguntando quem n\u00e3o gosta dela e ela: \"a m\u00e3e do Hadson\" EU AMO ESSA MULHER KKKKKKKKKKKKKKKKKKK #BBB20 https://t.co/EUFUTgI7hp",
+        "Rafa: \"O Daniel falou um neg\u00f3cio ali e ningu\u00e9m o questionou, a Marcela ficou calada, s\u00f3 a Thelminha falou algo. A\u00ed eu penso na posi\u00e7\u00e3o do Babu, imagina tudo que ele faz as pessoas reclamam\" \n\nN\u00e3o aguento mais amar a Rafa #BBB20",
+        "Fogo no parquinho \ud83d\udd25 por\u00e9m  n\u00e3o  mentiu !!! \n#ForaGuilherne",
+        "Guilherme reclama de Ivy na hora do voto: ela falou ao vivo \"EU COMO MULHER\", essa frase soa como se eu tivesse tido uma atitude machista. Vc sabe como isso pode soar l\u00e1 fora? Pro feminismo... Eu nunca desrespeitei ningu\u00e9m aqui dentro, eu nunca fui machista. #BBB20 #RedeBBB https://t.co/zBud5Hhkgg",
+        "ela \u00e9 muito linda meu deus",
+        "Babu canalha, entrou com discurso feminista decorado, mas n\u00e3o passa de macho escroto. A culpa \u00e9 sempre da mulher, que \u00f3dio! #ForaGuilhermeAbusivo #babucanalha #foraguilherme #BBB20",
+        "\u201cGizelly \u00e9 uma das participantes mais aut\u00eanticas e centradas no #BBB20, vivendo intensamente, jogando limpo l\u00e1 dentro, al\u00e9m de ser uma respeitada ju\u00edza no estado do Esp\u00edrito Santo. Precisamos de mulheres fortes como ela no jogo!\u201d \u2014 Lady Gaga para Vogue. https://t.co/aODJrIugMS",
+        "O neg\u00f3cio \u00e9 Votar #ForaGui Pq o cara t\u00e1 fazendo uma press\u00e3o danada na Gabriela\nO Pyong errou, mas n\u00e3o erra todo dia, reconheceu o erro e j\u00e1 t\u00e1 tudo certo, ele n\u00e3o enche ningu\u00e9m mais, agora o #ForaGuilhermeAbusivo faz todo dia press\u00e3o na Gabizinha \n#BBB20 https://t.co/gP0nYHOk8P",
+        "Prior no BBB:\n-O Daniel \u00e9 muito chato, n\u00e3o gosto desse maluco!\n-Meu voto hoje vai na mari.\n-Quem eu quero que v\u00e1 para o pared\u00e3o comigo \u00e9 a Gizelly.\n\nO c\u00e9rebro do prior:\n\n#BBB20 https://t.co/OBcAwptums",
+        "Gizelly chorando achando que vai sair pq tem muita gente que n\u00e3o gosta dela e Ivy perguntando quem n\u00e3o gosta dela e ela: \"a m\u00e3e do Hadson\" EU AMO ESSA MULHER KKKKKKKKKKKKKKKKKKK #BBB20 https://t.co/EUFUTgI7hp",
+        "Voc\u00eas tem no\u00e7\u00e3o do qu\u00e3o forte \u00e9 isso? Eu to bem triste, torcendo e votando muito para que o Guilherme saia #bbb20 https://t.co/yRocXa4ruB",
+        "QUAL A DIFICULDADE DE ENTENDER QUE NINGU\u00c9M EST\u00c1 DEFENDENDO O ASSEDIADOR DO PYONG???? \n\nMAS O GUILHERME PRECISA SAIR PQ ELE EST\u00c1 FODENDO O PSICOL\u00d3GICO  DA GABI E N\u00c3O ESQUE\u00c7AM QUE ELE SEMPRE FEZ PARTE DO PLANO DOS ESCROTOS ENT\u00c3O ACORDEM IDIOTAS #bbb20",
+        "N\u00e3o acredito que to vendo isso?? Pqp",
+        "QUAL A DIFICULDADE DE ENTENDER QUE NINGU\u00c9M EST\u00c1 DEFENDENDO O ASSEDIADOR DO PYONG???? \n\nMAS O GUILHERME PRECISA SAIR PQ ELE EST\u00c1 FODENDO O PSICOL\u00d3GICO  DA GABI E N\u00c3O ESQUE\u00c7AM QUE ELE SEMPRE FEZ PARTE DO PLANO DOS ESCROTOS ENT\u00c3O ACORDEM IDIOTAS #bbb20",
+        "O \"Girl Power\" que ela tanto zuou, s\u00f3 vale quando \u00e9 favor\u00e1vel a ela, chacota dona boca rosa ! \n#ForaGuilherme \n#BBB20 https://t.co/NRNURwvU3P",
+        "N\u00e3o entendi porque  voc\u00eas est\u00e3o compartilhando esse v\u00eddeo da Bianca.\nEla n\u00e3o t\u00e1 nem um pouco preocupada com a Saude metal da Gabi, que ela ajudou a destruir, e n\u00e3o foi nem um pouco amiga de verdade.\nEla ta putinha pq o Pyong torceu pra ela sair. #ForaGuilhermeAbusivo #bbb20 https://t.co/MAIicKGoha",
+        "dif\u00edcil ficar em p\u00e9 com esse peso de carregar o bbb20 nas costas",
+        "Objetivo: n\u00e3o gostar do Prior\nObst\u00e1culo: o Prior",
+        "e ai gente vcs votam em quem pra sair do #bbb20 ? https://t.co/D6HmL04qt5",
+        "que o povo do sof\u00e1 eliminem o rato de esgoto do pyong, am\u00e9m! #ForaPyong #BBB20",
+        "Eu sou #ForaGuilherme, sabe pq? \n\nEle e Pyong erraram muito, porem Pyong admitiu seu erro, se sentiu mal, pediu desculpas. \n\nGuilherme continua errando e nao admite NADA do que ele faz.\n\nSomos todos humanos e erramos: o foda eh persistir no erro #bbb20",
+        "N\u00e3o se desculpa assediador euem",
+        "Prior no BBB:\n-O Daniel \u00e9 muito chato, n\u00e3o gosto desse maluco!\n-Meu voto hoje vai na mari.\n-Quem eu quero que v\u00e1 para o pared\u00e3o comigo \u00e9 a Gizelly.\n\nO c\u00e9rebro do prior:\n\n#BBB20 https://t.co/OBcAwptums",
+        "#ForaGuilherme\nHomens abusivos n\u00e3o passar\u00e3o, para quem j\u00e1 viveu de perto essa situa\u00e7\u00e3o  n\u00e3o aceita que nenhuma mulher passe por isso!!\nEnt\u00e3o eu sou #ForaGuilhermeAbusivo.\nO Pyong pode sair na pr\u00f3xima  por seus erros, e o #bbb20 n\u00e3o viu. https://t.co/aI0cfVoSOx",
+        "No fim a Boca Rosa sempre teve raz\u00e3o: GIRL POWER \u00e9 o caralho! Tudo n\u00e3o passa de CONVENI\u00caNCIA e LACRA\u00c7\u00c3O! Nunca foi pela causa. #BBB20 @BiaAndradeOfc \u2764\ufe0f",
+        "BBB20: Hil\u00e1rio! Gizelly diz que 'tem muita gente que n\u00e3o gosta dela' e d\u00e1 os MELHORES exemplos para 'comprovar'; Vem assistir https://t.co/nHnc9u65CU (Foto: Reprodu\u00e7\u00e3o / TV Globo) https://t.co/p95IUDAg3j",
+        "Rafa e Manu: \"Gabi, n\u00e3o se sinta culpada por nada!\" #BBB20\n\n* minutos depois *\n\nBabu: \"Quem colocou o Gui no pared\u00e3o foi voc\u00ea!\"\nhttps://t.co/XKNBDVYeQo",
+        "Os homens unidos bagun\u00e7ando a cabe\u00e7a da Gabi. \u00c9 uma edi\u00e7\u00e3o que n\u00e3o tem p/ onde correr... nenhum dos homens presta. NENHUM DELES!!!\n\n#bbb20",
+        "O Pyong deve t\u00e1 \"hipnotizado\" voc\u00eas, para serem t\u00e3o burros a ponto de n\u00e3o enxergarem a mesma coisas em ambas situa\u00e7\u00f5es #ForaPyong #ForaPyongGuilhermeSaiDepois #BBB20 https://t.co/6jdOpIgpt7",
+        "Ahahahah pq? N\u00e3o tem coragem de fazer isso agora pra nao levar mais voto do que ja ta levando #BBB20",
+        "porra Pyong d\u00e1 um soco na cara dele antes de vc sair,que viado escroto,\u00f3dio",
+        "Homem sendo homem",
+        "Uma pausa nos multir\u00f5es para Babu falando TUDO que eu queria para a Gabi! \n\nAgora foco no Gshow \n\n#GuiBi #bbb20 #FicaGuilherme #FicaGui #ForaPyong #ForaPyongAssediador https://t.co/k0yK5nY79K",
+        "Gizelly chorando achando que vai sair pq tem muita gente que n\u00e3o gosta dela e Ivy perguntando quem n\u00e3o gosta dela e ela: \"a m\u00e3e do Hadson\" EU AMO ESSA MULHER KKKKKKKKKKKKKKKKKKK #BBB20 https://t.co/EUFUTgI7hp",
+        "mais algu\u00e9m se tremeu pra n\u00e3o invadir essa casa pra tirar essa menina de perto desse doente???",
+        "Gizelly chorando achando que vai sair pq tem muita gente que n\u00e3o gosta dela e Ivy perguntando quem n\u00e3o gosta dela e ela: \"a m\u00e3e do Hadson\" EU AMO ESSA MULHER KKKKKKKKKKKKKKKKKKK #BBB20 https://t.co/EUFUTgI7hp",
+        "[Alerta de gatilho]\n\nSe voc\u00eas acham que abuso psicol\u00f3gico n\u00e3o \u00e9 abuso, olha o que pode acontecer com Guilherme e Gabi 2.0. Marcos me dava calafrios na maneira como ele tratava a Emile. #BBB20 https://t.co/J3hCQFs6H6",
+        "Cara a Gi \u00e9 a melhor que tem nesse #bbb20 amo ela cara as palha\u00e7ada dela \u00e9 de outra dimens\u00e3o kkkk\ud83d\udc96",
+        "gizelly \u00e9 perfeita demais bicho #BBB20  https://t.co/2hT1Ujo8iS",
+        "eu passaria o ano votando #ForaPyomg s\u00f3 por causa desse v\u00eddeo #BBB20 https://t.co/sicoT9T3UN",
+        "E voc\u00eas ainda querem deixar o cara que t\u00e1 fazendo isso com ela na casa #ForaGuilhermeAbusivo #BBB20\nJaneiro / Agora https://t.co/ZwigQN8mTr",
+        "e ai gente vcs votam em quem pra sair do #bbb20 ? https://t.co/D6HmL04qt5",
+        "#BBB20 #ForaGuilherne \nSe esse inferno n\u00e3o sair agr VH vai ficar um nojo se achando o dono do jogo, Guilherme vai acabar de ferrar o psicol\u00f3gico da Gabi e ela vai acreditar em TUDO q ele disser. https://t.co/HaW8mdtuPf",
+        "Kkkkkkkkkkkkkkkkk como que pode ser t\u00e3o incr\u00edvel?",
+        "pyong foi lixo primeiro",
+        "Fora que foi ele quem planejou no come\u00e7o do bbb em acabar com o relacionamento das meninas!\n\nQue n\u00e3o caia no esquecimento!!\n\nO q pra vcs pesa mais?\n#ForaGuilherme #BBB2O20 #bbb202O #GuilhermeAbusivo #ForaGui #redebbb  #bbb #bbb20 #bbb2020 #redeglobo",
+        "levanta o p\u00e9 ai que a globo t\u00e1 passando pano",
+        "QUAL A DIFICULDADE DE ENTENDER QUE NINGU\u00c9M EST\u00c1 DEFENDENDO O ASSEDIADOR DO PYONG???? \n\nMAS O GUILHERME PRECISA SAIR PQ ELE EST\u00c1 FODENDO O PSICOL\u00d3GICO  DA GABI E N\u00c3O ESQUE\u00c7AM QUE ELE SEMPRE FEZ PARTE DO PLANO DOS ESCROTOS ENT\u00c3O ACORDEM IDIOTAS #bbb20",
+        "Flayslane sobre Pyong: \"N\u00e3o fa\u00e7o a menor quest\u00e3o de conviver aqui dentro\" https://t.co/YleNFMdSES #BBB20",
+        "a gizelly tem que PARAR de falar que ela \u00e9 o ORGULHO DO ESP\u00cdRITO SANTO\n\nela TEM QUE ENTENDER que ela \u00e9 o ORGULHO DO BRASIL INTEIRO\n\nque saco\n\n#bbb20 https://t.co/k8nBTjXUBo",
+        "Eu tentando entrar no cora\u00e7\u00e3o da crush #BBB20 https://t.co/KrCq0TzAG0",
+        "A BIANCA pode ser tudo, menos sensata. Ela n\u00e3o deve ser aclamada. Quer a cabe\u00e7a do Pyong, mas n\u00e3o salientou de fato o que o Guilherme esta fazendo com a Gabi. Dizer que apenas concorda com a sa\u00edda do Guilherme, \u00e9 no no m\u00ednimo med\u00edocre. #bbb20",
+        "N\u00f3s temos uma menina que nesse momento est\u00e1 sofrendo v\u00e1rios abusos ao vivo pelo c\u00f4njuge dela. Uma menina que est\u00e1 sem seus rem\u00e9dios para tratar sua doen\u00e7a psicol\u00f3gica. \nA guria que est\u00e1 escutando coisas como: \"- Olha o que voc\u00ea me faz fazer?\" #ForaGuilhermeAbusivo #BBB20 https://t.co/aBUwQo80Rc",
+        "Gabi chora e desabafa com Rafa: 'Babu falou que quem colocou o Guilherme no Pared\u00e3o foi eu' #BBB20 #RedeBBB #bbb2020 #bbb #BBBB20 #BBBB2020\n\nhttps://t.co/VCokB4sHAu",
+        "Prior n\u00e3o deixar\u00e1 de ser perseguido porque existem 11 pessoas que continuam alternando voto entre ele e Babu. Precisava esse texto todo quando bastava assumir que torce pelo Pyong e pela perman\u00eancia dele? Risos.",
+        "o pombo fala e tamb\u00e9m janta, a comida de rabo que o victor hugo deu no assedyong foi tudo.\n\nTE TOCA PYONG\n#BBB20 \n #BBB20 https://t.co/FV6S82YjPh"
+    ],
+    "timestamp": [
+        "02-Mar-2020-21:34:44.000000",
+        "02-Mar-2020-21:34:44.000000",
+        "02-Mar-2020-21:34:44.000000",
+        "02-Mar-2020-21:34:44.000000",
+        "02-Mar-2020-21:34:44.000000",
+        "02-Mar-2020-21:34:44.000000",
+        "02-Mar-2020-21:34:44.000000",
+        "02-Mar-2020-21:34:44.000000",
+        "02-Mar-2020-21:34:44.000000",
+        "02-Mar-2020-21:34:45.000000",
+        "02-Mar-2020-21:34:45.000000",
+        "02-Mar-2020-21:34:45.000000",
+        "02-Mar-2020-21:34:45.000000",
+        "02-Mar-2020-21:34:45.000000",
+        "02-Mar-2020-21:34:45.000000",
+        "02-Mar-2020-21:34:45.000000",
+        "02-Mar-2020-21:34:45.000000",
+        "02-Mar-2020-21:34:45.000000",
+        "02-Mar-2020-21:34:45.000000",
+        "02-Mar-2020-21:34:45.000000",
+        "02-Mar-2020-21:34:45.000000",
+        "02-Mar-2020-21:34:45.000000",
+        "02-Mar-2020-21:34:45.000000",
+        "02-Mar-2020-21:34:45.000000",
+        "02-Mar-2020-21:34:46.000000",
+        "02-Mar-2020-21:34:46.000000",
+        "02-Mar-2020-21:34:46.000000",
+        "02-Mar-2020-21:34:46.000000",
+        "02-Mar-2020-21:34:46.000000",
+        "02-Mar-2020-21:34:46.000000",
+        "02-Mar-2020-21:34:47.000000",
+        "02-Mar-2020-21:34:47.000000",
+        "02-Mar-2020-21:34:47.000000",
+        "02-Mar-2020-21:34:47.000000",
+        "02-Mar-2020-21:34:47.000000",
+        "02-Mar-2020-21:34:47.000000",
+        "02-Mar-2020-21:34:47.000000",
+        "02-Mar-2020-21:34:47.000000",
+        "02-Mar-2020-21:34:47.000000",
+        "02-Mar-2020-21:34:47.000000",
+        "02-Mar-2020-21:34:47.000000",
+        "02-Mar-2020-21:34:47.000000",
+        "02-Mar-2020-21:34:47.000000",
+        "02-Mar-2020-21:34:47.000000",
+        "02-Mar-2020-21:34:48.000000",
+        "02-Mar-2020-21:34:48.000000",
+        "02-Mar-2020-21:34:48.000000",
+        "02-Mar-2020-21:34:48.000000",
+        "02-Mar-2020-21:34:48.000000",
+        "02-Mar-2020-21:34:48.000000",
+        "02-Mar-2020-21:34:48.000000",
+        "02-Mar-2020-21:34:48.000000",
+        "02-Mar-2020-21:34:48.000000",
+        "02-Mar-2020-21:34:48.000000",
+        "02-Mar-2020-21:34:48.000000",
+        "02-Mar-2020-21:34:48.000000",
+        "02-Mar-2020-21:34:48.000000",
+        "02-Mar-2020-21:34:49.000000",
+        "02-Mar-2020-21:34:49.000000",
+        "02-Mar-2020-21:34:49.000000",
+        "02-Mar-2020-21:34:49.000000",
+        "02-Mar-2020-21:34:49.000000",
+        "02-Mar-2020-21:34:49.000000",
+        "02-Mar-2020-21:34:49.000000",
+        "02-Mar-2020-21:34:49.000000",
+        "02-Mar-2020-21:34:49.000000",
+        "02-Mar-2020-21:34:50.000000",
+        "02-Mar-2020-21:34:50.000000",
+        "02-Mar-2020-21:34:50.000000",
+        "02-Mar-2020-21:34:50.000000",
+        "02-Mar-2020-21:34:50.000000",
+        "02-Mar-2020-21:34:50.000000",
+        "02-Mar-2020-21:34:50.000000",
+        "02-Mar-2020-21:34:50.000000",
+        "02-Mar-2020-21:34:50.000000",
+        "02-Mar-2020-21:34:50.000000",
+        "02-Mar-2020-21:34:50.000000",
+        "02-Mar-2020-21:34:51.000000",
+        "02-Mar-2020-21:34:51.000000",
+        "02-Mar-2020-21:34:51.000000",
+        "02-Mar-2020-21:34:51.000000",
+        "02-Mar-2020-21:34:51.000000",
+        "02-Mar-2020-21:34:51.000000",
+        "02-Mar-2020-21:34:51.000000",
+        "02-Mar-2020-21:34:51.000000",
+        "02-Mar-2020-21:34:52.000000",
+        "02-Mar-2020-21:34:52.000000",
+        "02-Mar-2020-21:34:52.000000",
+        "02-Mar-2020-21:34:52.000000",
+        "02-Mar-2020-21:34:52.000000",
+        "02-Mar-2020-21:34:52.000000",
+        "02-Mar-2020-21:34:52.000000",
+        "02-Mar-2020-21:34:52.000000",
+        "02-Mar-2020-21:34:52.000000",
+        "02-Mar-2020-21:34:52.000000",
+        "02-Mar-2020-21:34:52.000000",
+        "02-Mar-2020-21:34:52.000000",
+        "02-Mar-2020-21:34:53.000000",
+        "02-Mar-2020-21:34:53.000000",
+        "02-Mar-2020-21:34:53.000000",
+        "02-Mar-2020-21:34:53.000000",
+        "02-Mar-2020-21:34:53.000000",
+        "02-Mar-2020-21:34:53.000000",
+        "02-Mar-2020-21:34:53.000000",
+        "02-Mar-2020-21:34:53.000000",
+        "02-Mar-2020-21:34:53.000000",
+        "02-Mar-2020-21:34:53.000000",
+        "02-Mar-2020-21:34:53.000000",
+        "02-Mar-2020-21:34:54.000000",
+        "02-Mar-2020-21:34:54.000000",
+        "02-Mar-2020-21:34:54.000000",
+        "02-Mar-2020-21:34:54.000000",
+        "02-Mar-2020-21:34:54.000000",
+        "02-Mar-2020-21:34:54.000000",
+        "02-Mar-2020-21:34:54.000000",
+        "02-Mar-2020-21:34:54.000000",
+        "02-Mar-2020-21:34:54.000000",
+        "02-Mar-2020-21:34:54.000000",
+        "02-Mar-2020-21:34:54.000000",
+        "02-Mar-2020-21:34:54.000000",
+        "02-Mar-2020-21:34:54.000000",
+        "02-Mar-2020-21:34:55.000000",
+        "02-Mar-2020-21:34:55.000000",
+        "02-Mar-2020-21:34:55.000000",
+        "02-Mar-2020-21:34:55.000000",
+        "02-Mar-2020-21:34:55.000000",
+        "02-Mar-2020-21:34:55.000000",
+        "02-Mar-2020-21:34:55.000000",
+        "02-Mar-2020-21:34:55.000000",
+        "02-Mar-2020-21:34:55.000000",
+        "02-Mar-2020-21:34:55.000000",
+        "02-Mar-2020-21:34:55.000000",
+        "02-Mar-2020-21:34:55.000000",
+        "02-Mar-2020-21:34:55.000000",
+        "02-Mar-2020-21:34:55.000000",
+        "02-Mar-2020-21:34:56.000000",
+        "02-Mar-2020-21:34:56.000000",
+        "02-Mar-2020-21:34:56.000000",
+        "02-Mar-2020-21:34:56.000000",
+        "02-Mar-2020-21:34:56.000000",
+        "02-Mar-2020-21:34:56.000000",
+        "02-Mar-2020-21:34:56.000000",
+        "02-Mar-2020-21:34:56.000000",
+        "02-Mar-2020-21:34:56.000000",
+        "02-Mar-2020-21:34:56.000000",
+        "02-Mar-2020-21:34:56.000000",
+        "02-Mar-2020-21:34:56.000000",
+        "02-Mar-2020-21:34:56.000000",
+        "02-Mar-2020-21:34:56.000000",
+        "02-Mar-2020-21:34:57.000000",
+        "02-Mar-2020-21:34:57.000000",
+        "02-Mar-2020-21:34:57.000000",
+        "02-Mar-2020-21:34:57.000000",
+        "02-Mar-2020-21:34:57.000000",
+        "02-Mar-2020-21:34:57.000000",
+        "02-Mar-2020-21:34:57.000000",
+        "02-Mar-2020-21:34:57.000000",
+        "02-Mar-2020-21:34:57.000000",
+        "02-Mar-2020-21:34:57.000000",
+        "02-Mar-2020-21:34:57.000000",
+        "02-Mar-2020-21:34:57.000000",
+        "02-Mar-2020-21:34:58.000000",
+        "02-Mar-2020-21:34:58.000000",
+        "02-Mar-2020-21:34:58.000000",
+        "02-Mar-2020-21:34:58.000000",
+        "02-Mar-2020-21:34:58.000000",
+        "02-Mar-2020-21:34:58.000000",
+        "02-Mar-2020-21:34:58.000000",
+        "02-Mar-2020-21:34:58.000000",
+        "02-Mar-2020-21:34:58.000000",
+        "02-Mar-2020-21:34:58.000000",
+        "02-Mar-2020-21:34:58.000000",
+        "02-Mar-2020-21:34:58.000000",
+        "02-Mar-2020-21:34:58.000000",
+        "02-Mar-2020-21:34:58.000000",
+        "02-Mar-2020-21:34:59.000000",
+        "02-Mar-2020-21:34:59.000000",
+        "02-Mar-2020-21:34:59.000000",
+        "02-Mar-2020-21:34:59.000000",
+        "02-Mar-2020-21:34:59.000000",
+        "02-Mar-2020-21:34:59.000000",
+        "02-Mar-2020-21:34:59.000000",
+        "02-Mar-2020-21:34:59.000000",
+        "02-Mar-2020-21:34:59.000000",
+        "02-Mar-2020-21:34:59.000000",
+        "02-Mar-2020-21:34:59.000000",
+        "02-Mar-2020-21:34:59.000000",
+        "02-Mar-2020-21:35:00.000000",
+        "02-Mar-2020-21:35:00.000000",
+        "02-Mar-2020-21:35:00.000000",
+        "02-Mar-2020-21:34:59.000000",
+        "02-Mar-2020-21:34:59.000000",
+        "02-Mar-2020-21:35:00.000000",
+        "02-Mar-2020-21:35:00.000000",
+        "02-Mar-2020-21:35:00.000000",
+        "02-Mar-2020-21:35:00.000000",
+        "02-Mar-2020-21:34:59.000000",
+        "02-Mar-2020-21:35:00.000000",
+        "02-Mar-2020-21:35:00.000000",
+        "02-Mar-2020-21:35:00.000000",
+        "02-Mar-2020-21:34:57.000000",
+        "02-Mar-2020-21:35:00.000000",
+        "02-Mar-2020-21:35:00.000000",
+        "02-Mar-2020-21:35:01.000000",
+        "02-Mar-2020-21:35:01.000000",
+        "02-Mar-2020-21:35:01.000000",
+        "02-Mar-2020-21:35:01.000000",
+        "02-Mar-2020-21:35:01.000000",
+        "02-Mar-2020-21:35:01.000000",
+        "02-Mar-2020-21:35:01.000000",
+        "02-Mar-2020-21:35:01.000000",
+        "02-Mar-2020-21:35:01.000000",
+        "02-Mar-2020-21:35:01.000000",
+        "02-Mar-2020-21:35:01.000000",
+        "02-Mar-2020-21:35:01.000000",
+        "02-Mar-2020-21:35:01.000000",
+        "02-Mar-2020-21:35:02.000000",
+        "02-Mar-2020-21:35:02.000000",
+        "02-Mar-2020-21:35:02.000000",
+        "02-Mar-2020-21:35:02.000000",
+        "02-Mar-2020-21:35:02.000000",
+        "02-Mar-2020-21:35:02.000000",
+        "02-Mar-2020-21:35:02.000000",
+        "02-Mar-2020-21:35:02.000000",
+        "02-Mar-2020-21:35:02.000000",
+        "02-Mar-2020-21:35:02.000000",
+        "02-Mar-2020-21:35:02.000000",
+        "02-Mar-2020-21:35:03.000000",
+        "02-Mar-2020-21:35:03.000000",
+        "02-Mar-2020-21:35:03.000000",
+        "02-Mar-2020-21:35:03.000000",
+        "02-Mar-2020-21:35:03.000000",
+        "02-Mar-2020-21:35:03.000000",
+        "02-Mar-2020-21:35:03.000000",
+        "02-Mar-2020-21:35:03.000000",
+        "02-Mar-2020-21:35:03.000000",
+        "02-Mar-2020-21:35:03.000000",
+        "02-Mar-2020-21:35:03.000000",
+        "02-Mar-2020-21:35:03.000000",
+        "02-Mar-2020-21:35:04.000000",
+        "02-Mar-2020-21:35:04.000000",
+        "02-Mar-2020-21:35:04.000000",
+        "02-Mar-2020-21:35:04.000000",
+        "02-Mar-2020-21:35:04.000000",
+        "02-Mar-2020-21:35:04.000000",
+        "02-Mar-2020-21:35:04.000000",
+        "02-Mar-2020-21:35:04.000000",
+        "02-Mar-2020-21:35:04.000000",
+        "02-Mar-2020-21:35:04.000000",
+        "02-Mar-2020-21:35:04.000000",
+        "02-Mar-2020-21:35:04.000000",
+        "02-Mar-2020-21:35:04.000000",
+        "02-Mar-2020-21:35:04.000000",
+        "02-Mar-2020-21:35:04.000000",
+        "02-Mar-2020-21:35:04.000000",
+        "02-Mar-2020-21:35:04.000000",
+        "02-Mar-2020-21:35:05.000000",
+        "02-Mar-2020-21:35:05.000000",
+        "02-Mar-2020-21:35:05.000000",
+        "02-Mar-2020-21:35:05.000000",
+        "02-Mar-2020-21:35:05.000000",
+        "02-Mar-2020-21:35:05.000000",
+        "02-Mar-2020-21:35:05.000000",
+        "02-Mar-2020-21:35:05.000000",
+        "02-Mar-2020-21:35:05.000000",
+        "02-Mar-2020-21:35:05.000000",
+        "02-Mar-2020-21:35:05.000000",
+        "02-Mar-2020-21:35:05.000000",
+        "02-Mar-2020-21:35:06.000000",
+        "02-Mar-2020-21:35:06.000000",
+        "02-Mar-2020-21:35:06.000000",
+        "02-Mar-2020-21:35:06.000000",
+        "02-Mar-2020-21:35:06.000000",
+        "02-Mar-2020-21:35:06.000000",
+        "02-Mar-2020-21:35:06.000000",
+        "02-Mar-2020-21:35:06.000000",
+        "02-Mar-2020-21:35:06.000000",
+        "02-Mar-2020-21:35:06.000000",
+        "02-Mar-2020-21:35:06.000000",
+        "02-Mar-2020-21:35:06.000000",
+        "02-Mar-2020-21:35:06.000000",
+        "02-Mar-2020-21:35:06.000000",
+        "02-Mar-2020-21:35:07.000000",
+        "02-Mar-2020-21:35:07.000000",
+        "02-Mar-2020-21:35:07.000000",
+        "02-Mar-2020-21:35:07.000000",
+        "02-Mar-2020-21:35:07.000000",
+        "02-Mar-2020-21:35:07.000000",
+        "02-Mar-2020-21:35:07.000000",
+        "02-Mar-2020-21:35:07.000000",
+        "02-Mar-2020-21:35:07.000000",
+        "02-Mar-2020-21:35:07.000000",
+        "02-Mar-2020-21:35:07.000000",
+        "02-Mar-2020-21:35:07.000000",
+        "02-Mar-2020-21:35:07.000000",
+        "02-Mar-2020-21:35:07.000000",
+        "02-Mar-2020-21:35:08.000000",
+        "02-Mar-2020-21:35:07.000000",
+        "02-Mar-2020-21:35:08.000000",
+        "02-Mar-2020-21:35:08.000000",
+        "02-Mar-2020-21:35:08.000000",
+        "02-Mar-2020-21:35:08.000000",
+        "02-Mar-2020-21:35:08.000000",
+        "02-Mar-2020-21:35:08.000000",
+        "02-Mar-2020-21:35:08.000000",
+        "02-Mar-2020-21:35:08.000000",
+        "02-Mar-2020-21:35:08.000000",
+        "02-Mar-2020-21:35:08.000000",
+        "02-Mar-2020-21:35:08.000000",
+        "02-Mar-2020-21:35:08.000000",
+        "02-Mar-2020-21:35:08.000000",
+        "02-Mar-2020-21:35:08.000000",
+        "02-Mar-2020-21:35:08.000000",
+        "02-Mar-2020-21:35:08.000000",
+        "02-Mar-2020-21:35:08.000000",
+        "02-Mar-2020-21:35:09.000000",
+        "02-Mar-2020-21:35:09.000000",
+        "02-Mar-2020-21:35:09.000000",
+        "02-Mar-2020-21:35:09.000000",
+        "02-Mar-2020-21:35:09.000000",
+        "02-Mar-2020-21:35:09.000000",
+        "02-Mar-2020-21:35:09.000000",
+        "02-Mar-2020-21:35:09.000000",
+        "02-Mar-2020-21:35:09.000000",
+        "02-Mar-2020-21:35:10.000000",
+        "02-Mar-2020-21:35:10.000000",
+        "02-Mar-2020-21:35:10.000000",
+        "02-Mar-2020-21:35:10.000000",
+        "02-Mar-2020-21:35:10.000000",
+        "02-Mar-2020-21:35:10.000000",
+        "02-Mar-2020-21:35:10.000000",
+        "02-Mar-2020-21:35:10.000000",
+        "02-Mar-2020-21:35:10.000000",
+        "02-Mar-2020-21:35:10.000000",
+        "02-Mar-2020-21:35:10.000000",
+        "02-Mar-2020-21:35:10.000000",
+        "02-Mar-2020-21:35:10.000000",
+        "02-Mar-2020-21:35:11.000000",
+        "02-Mar-2020-21:35:11.000000",
+        "02-Mar-2020-21:35:11.000000",
+        "02-Mar-2020-21:35:11.000000",
+        "02-Mar-2020-21:35:11.000000",
+        "02-Mar-2020-21:35:11.000000",
+        "02-Mar-2020-21:35:11.000000",
+        "02-Mar-2020-21:35:11.000000",
+        "02-Mar-2020-21:35:11.000000",
+        "02-Mar-2020-21:35:11.000000",
+        "02-Mar-2020-21:35:11.000000",
+        "02-Mar-2020-21:35:11.000000",
+        "02-Mar-2020-21:35:11.000000",
+        "02-Mar-2020-21:35:11.000000",
+        "02-Mar-2020-21:35:11.000000",
+        "02-Mar-2020-21:35:12.000000",
+        "02-Mar-2020-21:35:12.000000",
+        "02-Mar-2020-21:35:12.000000",
+        "02-Mar-2020-21:35:12.000000",
+        "02-Mar-2020-21:35:12.000000",
+        "02-Mar-2020-21:35:12.000000",
+        "02-Mar-2020-21:35:12.000000",
+        "02-Mar-2020-21:35:12.000000",
+        "02-Mar-2020-21:35:12.000000",
+        "02-Mar-2020-21:35:12.000000",
+        "02-Mar-2020-21:35:12.000000",
+        "02-Mar-2020-21:35:12.000000",
+        "02-Mar-2020-21:35:13.000000",
+        "02-Mar-2020-21:35:13.000000",
+        "02-Mar-2020-21:35:13.000000",
+        "02-Mar-2020-21:35:13.000000",
+        "02-Mar-2020-21:35:13.000000",
+        "02-Mar-2020-21:35:13.000000",
+        "02-Mar-2020-21:35:13.000000",
+        "02-Mar-2020-21:35:13.000000",
+        "02-Mar-2020-21:35:13.000000",
+        "02-Mar-2020-21:35:13.000000",
+        "02-Mar-2020-21:35:13.000000",
+        "02-Mar-2020-21:35:13.000000",
+        "02-Mar-2020-21:35:13.000000",
+        "02-Mar-2020-21:35:13.000000",
+        "02-Mar-2020-21:35:13.000000",
+        "02-Mar-2020-21:35:13.000000",
+        "02-Mar-2020-21:35:13.000000",
+        "02-Mar-2020-21:35:14.000000",
+        "02-Mar-2020-21:35:14.000000",
+        "02-Mar-2020-21:35:14.000000",
+        "02-Mar-2020-21:35:14.000000",
+        "02-Mar-2020-21:35:14.000000",
+        "02-Mar-2020-21:35:14.000000",
+        "02-Mar-2020-21:35:14.000000",
+        "02-Mar-2020-21:35:14.000000",
+        "02-Mar-2020-21:35:14.000000",
+        "02-Mar-2020-21:35:14.000000",
+        "02-Mar-2020-21:35:14.000000",
+        "02-Mar-2020-21:35:14.000000",
+        "02-Mar-2020-21:35:15.000000",
+        "02-Mar-2020-21:35:15.000000",
+        "02-Mar-2020-21:35:15.000000",
+        "02-Mar-2020-21:35:15.000000",
+        "02-Mar-2020-21:35:15.000000",
+        "02-Mar-2020-21:35:15.000000",
+        "02-Mar-2020-21:35:15.000000",
+        "02-Mar-2020-21:35:15.000000",
+        "02-Mar-2020-21:35:15.000000",
+        "02-Mar-2020-21:35:15.000000",
+        "02-Mar-2020-21:35:15.000000",
+        "02-Mar-2020-21:35:15.000000",
+        "02-Mar-2020-21:35:15.000000",
+        "02-Mar-2020-21:35:16.000000",
+        "02-Mar-2020-21:35:16.000000",
+        "02-Mar-2020-21:35:16.000000",
+        "02-Mar-2020-21:35:16.000000",
+        "02-Mar-2020-21:35:16.000000",
+        "02-Mar-2020-21:35:16.000000",
+        "02-Mar-2020-21:35:16.000000",
+        "02-Mar-2020-21:35:16.000000",
+        "02-Mar-2020-21:35:16.000000",
+        "02-Mar-2020-21:35:16.000000",
+        "02-Mar-2020-21:35:16.000000",
+        "02-Mar-2020-21:35:16.000000",
+        "02-Mar-2020-21:35:16.000000",
+        "02-Mar-2020-21:35:17.000000",
+        "02-Mar-2020-21:35:17.000000",
+        "02-Mar-2020-21:35:17.000000",
+        "02-Mar-2020-21:35:17.000000",
+        "02-Mar-2020-21:35:17.000000",
+        "02-Mar-2020-21:35:17.000000",
+        "02-Mar-2020-21:35:17.000000",
+        "02-Mar-2020-21:35:17.000000",
+        "02-Mar-2020-21:35:17.000000",
+        "02-Mar-2020-21:35:17.000000",
+        "02-Mar-2020-21:35:18.000000",
+        "02-Mar-2020-21:35:18.000000",
+        "02-Mar-2020-21:35:18.000000",
+        "02-Mar-2020-21:35:18.000000",
+        "02-Mar-2020-21:35:18.000000",
+        "02-Mar-2020-21:35:18.000000",
+        "02-Mar-2020-21:35:18.000000",
+        "02-Mar-2020-21:35:19.000000",
+        "02-Mar-2020-21:35:19.000000",
+        "02-Mar-2020-21:35:19.000000",
+        "02-Mar-2020-21:35:19.000000",
+        "02-Mar-2020-21:35:19.000000",
+        "02-Mar-2020-21:35:19.000000",
+        "02-Mar-2020-21:35:19.000000",
+        "02-Mar-2020-21:35:19.000000",
+        "02-Mar-2020-21:35:19.000000",
+        "02-Mar-2020-21:35:19.000000",
+        "02-Mar-2020-21:35:19.000000",
+        "02-Mar-2020-21:35:19.000000",
+        "02-Mar-2020-21:35:19.000000",
+        "02-Mar-2020-21:35:19.000000",
+        "02-Mar-2020-21:35:19.000000",
+        "02-Mar-2020-21:35:20.000000",
+        "02-Mar-2020-21:35:20.000000",
+        "02-Mar-2020-21:35:20.000000",
+        "02-Mar-2020-21:35:20.000000",
+        "02-Mar-2020-21:35:20.000000",
+        "02-Mar-2020-21:35:20.000000",
+        "02-Mar-2020-21:35:20.000000",
+        "02-Mar-2020-21:35:20.000000",
+        "02-Mar-2020-21:35:20.000000",
+        "02-Mar-2020-21:35:20.000000",
+        "02-Mar-2020-21:35:20.000000",
+        "02-Mar-2020-21:35:20.000000",
+        "02-Mar-2020-21:35:20.000000",
+        "02-Mar-2020-21:35:20.000000",
+        "02-Mar-2020-21:35:21.000000",
+        "02-Mar-2020-21:35:21.000000",
+        "02-Mar-2020-21:35:21.000000",
+        "02-Mar-2020-21:35:21.000000",
+        "02-Mar-2020-21:35:21.000000",
+        "02-Mar-2020-21:35:21.000000",
+        "02-Mar-2020-21:35:22.000000",
+        "02-Mar-2020-21:35:22.000000",
+        "02-Mar-2020-21:35:22.000000",
+        "02-Mar-2020-21:35:22.000000",
+        "02-Mar-2020-21:35:22.000000",
+        "02-Mar-2020-21:35:22.000000",
+        "02-Mar-2020-21:35:22.000000",
+        "02-Mar-2020-21:35:22.000000",
+        "02-Mar-2020-21:35:22.000000",
+        "02-Mar-2020-21:35:22.000000",
+        "02-Mar-2020-21:35:22.000000",
+        "02-Mar-2020-21:35:22.000000",
+        "02-Mar-2020-21:35:22.000000",
+        "02-Mar-2020-21:35:23.000000",
+        "02-Mar-2020-21:35:23.000000",
+        "02-Mar-2020-21:35:23.000000",
+        "02-Mar-2020-21:35:23.000000",
+        "02-Mar-2020-21:35:23.000000",
+        "02-Mar-2020-21:35:23.000000",
+        "02-Mar-2020-21:35:23.000000",
+        "02-Mar-2020-21:35:23.000000",
+        "02-Mar-2020-21:35:23.000000",
+        "02-Mar-2020-21:35:23.000000",
+        "02-Mar-2020-21:35:23.000000",
+        "02-Mar-2020-21:35:23.000000",
+        "02-Mar-2020-21:35:23.000000",
+        "02-Mar-2020-21:35:23.000000",
+        "02-Mar-2020-21:35:23.000000",
+        "02-Mar-2020-21:35:23.000000",
+        "02-Mar-2020-21:35:23.000000"
+    ],
+    "hashtags": [
+        [],
+        [
+            "BBB20"
+        ],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [
+            "ForaPyongAssediador",
+            "forapyong",
+            "bbb20"
+        ],
+        [
+            "bbb20"
+        ],
+        [
+            "BBB",
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20",
+            "ForaGuilherme"
+        ],
+        [
+            "ForaGuilhermeAbusivo",
+            "ForaGuilhermePyongSaiDepois",
+            "BBB20"
+        ],
+        [
+            "BBB20",
+            "ForaGuilherme",
+            "gicela"
+        ],
+        [
+            "bbb20"
+        ],
+        [
+            "ForaPyong",
+            "BBB20"
+        ],
+        [
+            "BBB20"
+        ],
+        [
+            "BBB20"
+        ],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "bbb20"
+        ],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "ForaPyong",
+            "ForaAssediador"
+        ],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [
+            "TeamFelipe",
+            "TeamPrior",
+            "RedeBBB",
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [
+            "ForaGuilheme",
+            "ForaGuilhermeAbusivo",
+            "bbb20",
+            "redebbb"
+        ],
+        [
+            "bbb20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20",
+            "RedeBBB",
+            "ForaPyong",
+            "ForaGuilherne"
+        ],
+        [],
+        [],
+        [
+            "ForaAssediador",
+            "BBB20"
+        ],
+        [],
+        [
+            "GuiBi",
+            "bbb20"
+        ],
+        [
+            "BBB20",
+            "ForaGuilhermeAbusivo",
+            "ForaGuilheme"
+        ],
+        [],
+        [
+            "BBB20",
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20",
+            "ForaGuilherne"
+        ],
+        [
+            "BBB20"
+        ],
+        [
+            "BBB20",
+            "ForaPyongAssediador",
+            "ForaPyongGuilhermeSaiDepois",
+            "ForaPyong"
+        ],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [
+            "bbb20",
+            "ForaGuilhermeAbusivo"
+        ],
+        [
+            "bbb20"
+        ],
+        [
+            "bbb20"
+        ],
+        [],
+        [],
+        [],
+        [
+            "BBB20",
+            "ForaGuilherme"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "bbb20"
+        ],
+        [
+            "BBB20"
+        ],
+        [
+            "BBB20"
+        ],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20",
+            "ForaPyong"
+        ],
+        [
+            "ForaGuilherme",
+            "ForaGuilhermeAbusivo",
+            "ForaGui",
+            "BBB20"
+        ],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [
+            "ForaGuilhermeAbusivo",
+            "ForaGuilhermePyongSaiDepois",
+            "BBB20"
+        ],
+        [],
+        [
+            "ForaPyongAssediador"
+        ],
+        [
+            "bbb20"
+        ],
+        [
+            "bbb20"
+        ],
+        [
+            "BBB20",
+            "ForaGuilherme"
+        ],
+        [
+            "ForaGuilhermeAbusivo",
+            "ForaGuilhermePyongSaiDepois",
+            "BBB20"
+        ],
+        [
+            "bbb20"
+        ],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [
+            "BBB20",
+            "ForaPyongAssediador",
+            "ForaPyongGuilhermeSaiDepois",
+            "ForaPyong"
+        ],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [
+            "bbb20"
+        ],
+        [],
+        [],
+        [
+            "ForaPyong",
+            "Foraassediador",
+            "BBB20"
+        ],
+        [],
+        [],
+        [
+            "BBB20",
+            "foraguilherme"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "ForaPyongAssediador"
+        ],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20",
+            "TeamPrior"
+        ],
+        [
+            "ForaPyongGuilhermeSaiDepois"
+        ],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [
+            "BBB20",
+            "ForaGuilherme",
+            "ForaGuilhermeAbusivo"
+        ],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [
+            "bbb20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBB20",
+            "ForaGuilhermePyongSaiDepois"
+        ],
+        [],
+        [],
+        [
+            "FeedBBB",
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "bbb20"
+        ],
+        [],
+        [
+            "BBB2O20",
+            "BBB20aovivo",
+            "BBB2O",
+            "bbb20",
+            "RedeBBB"
+        ],
+        [],
+        [],
+        [
+            "ForaGuilhermeAbusivo",
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [
+            "ForaGuilherme"
+        ],
+        [],
+        [
+            "FORAPYONG",
+            "ForaPyongGuilhermeSaiDepois",
+            "Gshow",
+            "ForaPyong",
+            "FORAPYONG"
+        ],
+        [
+            "BBB20",
+            "ForaPyong"
+        ],
+        [
+            "bbb20"
+        ],
+        [
+            "bbb20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [
+            "ForaGui"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [
+            "BBB20",
+            "ForaGui",
+            "ForaGuilherme",
+            "ForaGuilhermeAbusivo"
+        ],
+        [
+            "GuiBi",
+            "bbb20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [
+            "ForaGuilhermeAbusivo",
+            "BBB2020",
+            "BBB20"
+        ],
+        [],
+        [
+            "bbb20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [
+            "bbb20"
+        ],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBB20",
+            "BBB20"
+        ],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [
+            "BBB",
+            "BBB20"
+        ],
+        [
+            "bbb20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "bbb20"
+        ],
+        [],
+        [
+            "ForaGuilheme"
+        ],
+        [
+            "BBB20"
+        ],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [
+            "BBB20",
+            "ForaGuilhermeAbusivo",
+            "ForaGuilherme",
+            "BBB2O20",
+            "BBB2O20"
+        ],
+        [],
+        [
+            "ForaGuilhermeAbusivo",
+            "bbb20"
+        ],
+        [
+            "ForaGuilherme"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBB20",
+            "ForaGuilhermeAbusivo",
+            "GuilhermeAbusivo"
+        ],
+        [
+            "bbb20",
+            "ForaGuilhermeAbusivo"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [
+            "GuilhermeExpulso",
+            "bbb",
+            "bbb20"
+        ],
+        [],
+        [],
+        [
+            "bbb20",
+            "redebbb"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [
+            "bbb20"
+        ],
+        [],
+        [],
+        [],
+        [
+            "bbb20"
+        ],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [
+            "bbb20"
+        ],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBB20",
+            "ForaGuilherne"
+        ],
+        [],
+        [],
+        [
+            "ForaGuilherme",
+            "forapyong",
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "ForaGui"
+        ],
+        [
+            "ForaPyongAssediador"
+        ],
+        [
+            "BBB20"
+        ],
+        [
+            "bbb20"
+        ],
+        [
+            "foraguilherme"
+        ],
+        [
+            "ForaGuilhermeAbusivo",
+            "ForaGuilhermePyongSaiDepois",
+            "BBB2O20",
+            "BBB20"
+        ],
+        [
+            "BBB20"
+        ],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            "teamrafa",
+            "TeamManu"
+        ],
+        [
+            "GuilhermeAbusivo",
+            "bbb20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [
+            "TeamFelipe",
+            "TeamPrior",
+            "RedeBBB",
+            "BBB20"
+        ],
+        [
+            "BBB20"
+        ],
+        [
+            "ForaGuilherme"
+        ],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "bbb20"
+        ],
+        [
+            "BBB20"
+        ],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [
+            "FeedBBB",
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [
+            "ForaGuilherme",
+            "BBB20"
+        ],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [
+            "BBB20",
+            "RedeBBB",
+            "Paredao"
+        ],
+        [],
+        [],
+        [
+            "ForaGuilhermeAbusivo",
+            "ForaGuilherme",
+            "BBB",
+            "BBB20"
+        ],
+        [
+            "BBB20"
+        ],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [
+            "ForaGuilhermeAbusivo"
+        ],
+        [
+            "BBB20"
+        ],
+        [
+            "BBB20"
+        ],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [
+            "bbb20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            "FORAGUILHERME"
+        ],
+        [
+            "BBB20"
+        ],
+        [
+            "bbb20"
+        ],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "bbb20"
+        ],
+        [],
+        [],
+        [],
+        [
+            "ForaGuilhermeAbusivo",
+            "BBB20"
+        ],
+        [],
+        [
+            "ForaGuilhermeAbusivo",
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [
+            "bbb20"
+        ],
+        [],
+        [
+            "BBB20",
+            "ForaGuilherme"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "ForaPyong",
+            "ForaAssediador",
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "bbb20"
+        ],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [
+            "ForaGuilhermeAbusivo",
+            "ForaGuilherme",
+            "BBB",
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBB20",
+            "BBB2O20",
+            "ForaGuilhermePyongSaiDepois"
+        ],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            "ForaGuilherne",
+            "BBB20",
+            "BBB2O20",
+            "BBB"
+        ],
+        [],
+        [
+            "BBB20",
+            "RedeBBB"
+        ],
+        [],
+        [
+            "bbb20"
+        ],
+        [
+            "ForaPyong",
+            "bbb20",
+            "PYONGASSEDIADOR"
+        ],
+        [
+            "BBB20"
+        ],
+        [
+            "BBB",
+            "BBB20"
+        ],
+        [
+            "BBB20",
+            "ForaGuilherme",
+            "ForaGuilhermeAbusivo"
+        ],
+        [],
+        [],
+        [
+            "ForaGuilherme"
+        ],
+        [],
+        [
+            "bbb20"
+        ],
+        [
+            "ForaGuilhermeAbusivo",
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [
+            "ForaGuilhermeAbusivo",
+            "ForaGuilhermePyongSaiDepois",
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBB20",
+            "TeamGizelly"
+        ],
+        [
+            "ForaPyong",
+            "BBB20"
+        ],
+        [
+            "BBB20"
+        ],
+        [
+            "BBB20"
+        ],
+        [
+            "BBB20"
+        ],
+        [
+            "ForaGui",
+            "ForaGuilhermeAbusivo",
+            "BBB20"
+        ],
+        [],
+        [],
+        [
+            "ForaGuilherne"
+        ],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [
+            "ForaGui"
+        ],
+        [],
+        [],
+        [
+            "bbb20"
+        ],
+        [],
+        [],
+        [],
+        [
+            "ForaGuilherme",
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [
+            "bbb20"
+        ],
+        [
+            "ForaPyong",
+            "BBB20"
+        ],
+        [
+            "ForaGuilherme"
+        ],
+        [],
+        [],
+        [
+            "ForaGuilherme"
+        ],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [
+            "GuiBi",
+            "bbb20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            "bbb20"
+        ],
+        [
+            "BBB20"
+        ],
+        [
+            "ForaPyomg",
+            "BBB20"
+        ],
+        [
+            "ForaGuilhermeAbusivo",
+            "BBB20"
+        ],
+        [
+            "bbb20"
+        ],
+        [
+            "BBB20",
+            "ForaGuilherne"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [
+            "BBB20",
+            "RedeBBB",
+            "bbb2020"
+        ],
+        [],
+        [
+            "BBB20",
+            "BBB20"
+        ]
+    ],
+    "mentions": [
+        [
+            "manuchambinho"
+        ],
+        [
+            "ManuGavassiInfo"
+        ],
+        [
+            "fanntwitta"
+        ],
+        [
+            "ltbohemian"
+        ],
+        [
+            "iamimiamim"
+        ],
+        [
+            "lucioaraujo_"
+        ],
+        [],
+        [
+            "rolealeatorio"
+        ],
+        [
+            "Dantinhas"
+        ],
+        [
+            "Gabrielaafag"
+        ],
+        [
+            "Mari_hsmatos"
+        ],
+        [
+            "ThaygraT"
+        ],
+        [
+            "gigifuracx"
+        ],
+        [
+            "cleytu"
+        ],
+        [
+            "BBB18Twitando"
+        ],
+        [],
+        [
+            "olucassalles"
+        ],
+        [
+            "ManuGavassiInfo"
+        ],
+        [
+            "rickcomenta"
+        ],
+        [
+            "bicmuller"
+        ],
+        [
+            "paulohvcf"
+        ],
+        [],
+        [
+            "PriAlcantara"
+        ],
+        [],
+        [],
+        [
+            "luxcasb"
+        ],
+        [
+            "olucassalles"
+        ],
+        [],
+        [
+            "tunrare"
+        ],
+        [
+            "felipeprior"
+        ],
+        [
+            "TeamGiovanneBR"
+        ],
+        [],
+        [
+            "srtalycia_"
+        ],
+        [
+            "luizpennaaa"
+        ],
+        [
+            "Itspedrito"
+        ],
+        [
+            "digithato"
+        ],
+        [
+            "vaidesmaiar"
+        ],
+        [
+            "VemBigBrother"
+        ],
+        [
+            "twitamaria"
+        ],
+        [
+            "fkadanillo"
+        ],
+        [
+            "nightoflowers"
+        ],
+        [
+            "PortalRunik"
+        ],
+        [
+            "PeterMr"
+        ],
+        [
+            "Gabriel74716272"
+        ],
+        [
+            "anittaplay"
+        ],
+        [
+            "rodzeiro"
+        ],
+        [
+            "GabiGuie"
+        ],
+        [
+            "RafaFalco5"
+        ],
+        [
+            "PeterMr"
+        ],
+        [
+            "luscazou"
+        ],
+        [
+            "rickcomenta"
+        ],
+        [
+            "NinguemVendo"
+        ],
+        [
+            "trajaza"
+        ],
+        [
+            "bocarosaofc15"
+        ],
+        [
+            "marvelcited"
+        ],
+        [
+            "HugoGloss"
+        ],
+        [],
+        [],
+        [
+            "PriorSincero_"
+        ],
+        [
+            "aquafiish"
+        ],
+        [],
+        [],
+        [
+            "GiovanaAlves77"
+        ],
+        [
+            "marcyta28",
+            "UOLBBB"
+        ],
+        [
+            "juleno_14"
+        ],
+        [
+            "Dantinhas"
+        ],
+        [
+            "PyongLeeTV"
+        ],
+        [
+            "twitamaria"
+        ],
+        [
+            "alphab4dboy"
+        ],
+        [
+            "AmigaBabu"
+        ],
+        [
+            "bbb"
+        ],
+        [
+            "alphab4dboy"
+        ],
+        [
+            "liaclarkoficial"
+        ],
+        [
+            "jmoftIana"
+        ],
+        [],
+        [],
+        [
+            "soeiro_david"
+        ],
+        [],
+        [],
+        [
+            "thelminha_assis"
+        ],
+        [
+            "ZAMENZA"
+        ],
+        [],
+        [
+            "RealitysComment"
+        ],
+        [
+            "cmilasfirst"
+        ],
+        [
+            "trajaza"
+        ],
+        [
+            "arreagastic"
+        ],
+        [
+            "lucaooo66"
+        ],
+        [
+            "ltbohemian"
+        ],
+        [
+            "rafaelkjls"
+        ],
+        [
+            "PyongLeeTV"
+        ],
+        [
+            "Dantinhas"
+        ],
+        [
+            "younlala"
+        ],
+        [
+            "HIGURASHI921",
+            "VemBigBrother"
+        ],
+        [],
+        [
+            "ThaygraT"
+        ],
+        [
+            "twitamaria"
+        ],
+        [],
+        [
+            "PriAlcantara"
+        ],
+        [
+            "crisayonara"
+        ],
+        [
+            "s_aramoreira"
+        ],
+        [
+            "ThaygraT"
+        ],
+        [
+            "Diskisaa"
+        ],
+        [
+            "srtalycia_"
+        ],
+        [
+            "PeterMr"
+        ],
+        [
+            "iury_freitas_"
+        ],
+        [
+            "bocarosaofc15"
+        ],
+        [],
+        [
+            "milekatlen"
+        ],
+        [
+            "2hotcabello"
+        ],
+        [
+            "fefemfonseca"
+        ],
+        [],
+        [
+            "thefuckbigshoe"
+        ],
+        [
+            "PyongLeeTV"
+        ],
+        [],
+        [
+            "httpsnabrina",
+            "siteptbr"
+        ],
+        [],
+        [
+            "DeCaraPraLua"
+        ],
+        [
+            "justbejessy"
+        ],
+        [],
+        [
+            "MurgurumComenta"
+        ],
+        [],
+        [
+            "luucasbrasil"
+        ],
+        [
+            "feIipecrvg"
+        ],
+        [],
+        [
+            "VemBigBrother"
+        ],
+        [
+            "sad_steh"
+        ],
+        [
+            "PeterMr"
+        ],
+        [
+            "BBBBaile"
+        ],
+        [
+            "VemBigBrother"
+        ],
+        [
+            "iamimiamim"
+        ],
+        [
+            "StephoYoung"
+        ],
+        [
+            "PriAlcantara"
+        ],
+        [
+            "marixareal"
+        ],
+        [
+            "MarioAguiar10",
+            "SEEUVIEUFALO"
+        ],
+        [
+            "whomath"
+        ],
+        [
+            "revin_neil"
+        ],
+        [
+            "portalprior"
+        ],
+        [
+            "LUZHEN16y"
+        ],
+        [
+            "rodzeiro"
+        ],
+        [
+            "twerkearp"
+        ],
+        [
+            "felipeneto"
+        ],
+        [
+            "PortalBBB20",
+            "Comentaa_Lucas"
+        ],
+        [
+            "whindersson"
+        ],
+        [
+            "VemBigBrother"
+        ],
+        [
+            "thefuckbigshoe"
+        ],
+        [
+            "luucasbrasil"
+        ],
+        [
+            "srtalycia_"
+        ],
+        [
+            "geocaarol"
+        ],
+        [
+            "fkadanillo"
+        ],
+        [
+            "arreagastic"
+        ],
+        [
+            "ManuGavassiInfo"
+        ],
+        [
+            "srtalycia_"
+        ],
+        [
+            "trajaza"
+        ],
+        [
+            "Christi44021749"
+        ],
+        [],
+        [],
+        [
+            "felipeneto"
+        ],
+        [
+            "alphab4dboy"
+        ],
+        [],
+        [
+            "dorafigueiredo"
+        ],
+        [
+            "OT4_Diley"
+        ],
+        [
+            "_cercadinho"
+        ],
+        [
+            "MaraTellesReal"
+        ],
+        [
+            "AcessoKalimann"
+        ],
+        [
+            "luucasbrasil"
+        ],
+        [
+            "srtalycia_"
+        ],
+        [
+            "babsmsantoss"
+        ],
+        [
+            "rodzeiro"
+        ],
+        [],
+        [],
+        [],
+        [
+            "Dantinhas"
+        ],
+        [
+            "ltbohemian"
+        ],
+        [
+            "Casimiro"
+        ],
+        [
+            "Itspedrito"
+        ],
+        [
+            "PeterMr"
+        ],
+        [],
+        [],
+        [],
+        [
+            "Igermangabriel"
+        ],
+        [
+            "marixareal"
+        ],
+        [
+            "pysamagi"
+        ],
+        [
+            "akardashianlost"
+        ],
+        [
+            "luucasbrasil"
+        ],
+        [],
+        [
+            "rafaelkjls"
+        ],
+        [
+            "iury_freitas_"
+        ],
+        [
+            "CentralPrior"
+        ],
+        [
+            "Nanda_Loren"
+        ],
+        [
+            "gabimarketeira"
+        ],
+        [
+            "DDelpupo",
+            "portalprior"
+        ],
+        [
+            "lucaooo66"
+        ],
+        [
+            "becahmaciel"
+        ],
+        [
+            "forumpandlr"
+        ],
+        [],
+        [
+            "eulaurakeller"
+        ],
+        [
+            "NandaCampos0"
+        ],
+        [
+            "Dantinhas"
+        ],
+        [
+            "thiagdf"
+        ],
+        [
+            "sayuri__lily"
+        ],
+        [
+            "GabiGuie"
+        ],
+        [],
+        [
+            "futtmais"
+        ],
+        [
+            "Mariana_AssisR"
+        ],
+        [
+            "luucasbrasil"
+        ],
+        [
+            "rodpocket"
+        ],
+        [
+            "maggimaju"
+        ],
+        [
+            "justkcabeyo"
+        ],
+        [],
+        [],
+        [
+            "HugoGloss"
+        ],
+        [],
+        [
+            "eujoanito"
+        ],
+        [
+            "srtalycia_"
+        ],
+        [
+            "otaviano"
+        ],
+        [
+            "iury_freitas_"
+        ],
+        [],
+        [
+            "twitamaria"
+        ],
+        [
+            "luscazou"
+        ],
+        [],
+        [
+            "gabimarketeira"
+        ],
+        [
+            "fanntwitta"
+        ],
+        [
+            "Dantinhas"
+        ],
+        [],
+        [
+            "MaraTellesReal"
+        ],
+        [
+            "analista_bbb",
+            "rafaspellman",
+            "BadWolf_Anjos",
+            "VanessaSilvah99"
+        ],
+        [],
+        [
+            "iury_freitas_"
+        ],
+        [
+            "PriAlcantara"
+        ],
+        [
+            "PeterMr"
+        ],
+        [
+            "PeterMr"
+        ],
+        [
+            "cadelinhadarafk"
+        ],
+        [
+            "hipsterpetras"
+        ],
+        [
+            "nathansalim"
+        ],
+        [
+            "trajaza"
+        ],
+        [
+            "jnhuhh"
+        ],
+        [],
+        [
+            "bIoodintears"
+        ],
+        [
+            "thelminha_assis",
+            "gizellybicalho_"
+        ],
+        [
+            "sofleyprotect"
+        ],
+        [],
+        [],
+        [
+            "Nanda_Loren"
+        ],
+        [
+            "iury_freitas_"
+        ],
+        [
+            "GabiLamira",
+            "kamilemb",
+            "luscazou"
+        ],
+        [
+            "felipeneto"
+        ],
+        [
+            "PeterMr"
+        ],
+        [],
+        [
+            "MeloFelip"
+        ],
+        [
+            "xmaicow"
+        ],
+        [
+            "_6iovanna"
+        ],
+        [
+            "gabimarketeira"
+        ],
+        [
+            "fkadanillo"
+        ],
+        [
+            "enquetesbbb__20"
+        ],
+        [
+            "PeterMr"
+        ],
+        [
+            "Gabriel74716272"
+        ],
+        [
+            "thiagdf"
+        ],
+        [
+            "PeterMr"
+        ],
+        [
+            "cmilasfirst"
+        ],
+        [
+            "cleytu"
+        ],
+        [
+            "paulohvcf"
+        ],
+        [
+            "PeterMr"
+        ],
+        [
+            "srtalycia_"
+        ],
+        [
+            "palomamtfe"
+        ],
+        [
+            "supportestrela"
+        ],
+        [
+            "hipsterpetras"
+        ],
+        [
+            "jnhuhh"
+        ],
+        [],
+        [
+            "VITORHOL"
+        ],
+        [
+            "DeCaraPraLua"
+        ],
+        [
+            "MainyMedeiros"
+        ],
+        [
+            "srtalycia_"
+        ],
+        [
+            "fkadanillo"
+        ],
+        [
+            "rafaelkjls"
+        ],
+        [
+            "VeroFratello"
+        ],
+        [
+            "PeterMr"
+        ],
+        [
+            "victorhugers"
+        ],
+        [],
+        [
+            "lolbiaa"
+        ],
+        [
+            "rodzeiro"
+        ],
+        [
+            "VemBigBrother"
+        ],
+        [
+            "LourencoKamyla"
+        ],
+        [
+            "rickcomenta"
+        ],
+        [
+            "snow_bruna",
+            "leticiaisabelaa"
+        ],
+        [
+            "MaraTellesReal"
+        ],
+        [],
+        [
+            "JoaoComentaBBB"
+        ],
+        [
+            "ManuGavassiInfo"
+        ],
+        [
+            "sopekind"
+        ],
+        [
+            "justkcabeyo"
+        ],
+        [
+            "SelenaLover2011"
+        ],
+        [],
+        [
+            "rafakalimann_",
+            "ManuGavassiInfo"
+        ],
+        [
+            "NandaCampos0"
+        ],
+        [
+            "juanjuniorh"
+        ],
+        [
+            "thiagdf"
+        ],
+        [
+            "rodpocket"
+        ],
+        [
+            "kxtykhalil"
+        ],
+        [
+            "anita42261195",
+            "HadsonNery",
+            "LucasBGallina"
+        ],
+        [
+            "thefuckbigshoe"
+        ],
+        [
+            "fkadanillo"
+        ],
+        [
+            "alphab4dboy"
+        ],
+        [],
+        [
+            "justkcabeyo",
+            "BiaAndradeOfc"
+        ],
+        [
+            "TayHosana"
+        ],
+        [
+            "coquinhalol"
+        ],
+        [],
+        [
+            "srtalycia_"
+        ],
+        [
+            "raCRF"
+        ],
+        [
+            "felipeprior"
+        ],
+        [
+            "cmilasfirst"
+        ],
+        [
+            "ParcialReal"
+        ],
+        [],
+        [],
+        [
+            "fanntwitta"
+        ],
+        [
+            "alphab4dboy"
+        ],
+        [
+            "gleicidamasceno"
+        ],
+        [
+            "IzaCost94538997"
+        ],
+        [
+            "UOLBBB"
+        ],
+        [
+            "FZigfried"
+        ],
+        [],
+        [
+            "AcessoKalimann"
+        ],
+        [
+            "rodzeiro"
+        ],
+        [],
+        [
+            "luucasbrasil"
+        ],
+        [
+            "vaidesmaiar"
+        ],
+        [
+            "analiaa16a"
+        ],
+        [
+            "EsseDiegoLuiz"
+        ],
+        [
+            "sugwrl"
+        ],
+        [
+            "votalhada"
+        ],
+        [],
+        [
+            "PeterMr"
+        ],
+        [
+            "Dantinhas"
+        ],
+        [
+            "thefuckbigshoe"
+        ],
+        [
+            "fkadanillo"
+        ],
+        [
+            "luucasbrasil"
+        ],
+        [
+            "ManuGavassiInfo"
+        ],
+        [
+            "HugoGloss"
+        ],
+        [
+            "marixareal"
+        ],
+        [
+            "rafavmirand"
+        ],
+        [
+            "fkadanillo"
+        ],
+        [
+            "thefuckbigshoe"
+        ],
+        [
+            "thefuckbigshoe"
+        ],
+        [
+            "HIGURASHI921",
+            "VemBigBrother"
+        ],
+        [
+            "PriAlcantara"
+        ],
+        [
+            "heliocesarb"
+        ],
+        [
+            "LiviaRegly"
+        ],
+        [],
+        [],
+        [
+            "allthatjjess"
+        ],
+        [
+            "manilegion"
+        ],
+        [
+            "MichelyComenta"
+        ],
+        [
+            "thefuckbigshoe"
+        ],
+        [
+            "GabiMartinsOF"
+        ],
+        [
+            "PeterMr"
+        ],
+        [
+            "nightoflowers"
+        ],
+        [
+            "thefuckbigshoe"
+        ],
+        [
+            "felipeneto"
+        ],
+        [
+            "VemBigBrother"
+        ],
+        [
+            "littlehny"
+        ],
+        [
+            "1VlogDe2"
+        ],
+        [],
+        [
+            "gabimarketeira"
+        ],
+        [
+            "globoplay",
+            "boninho"
+        ],
+        [
+            "ifeelchanges"
+        ],
+        [],
+        [
+            "LwithP"
+        ],
+        [],
+        [],
+        [
+            "thiagdf"
+        ],
+        [
+            "srtalycia_"
+        ],
+        [
+            "TayHosana"
+        ],
+        [
+            "PeterMr"
+        ],
+        [],
+        [
+            "fanntwitta"
+        ],
+        [
+            "aquafiish"
+        ],
+        [
+            "Mirian97814025"
+        ],
+        [
+            "Mari_hsmatos"
+        ],
+        [
+            "alphab4dboy"
+        ],
+        [],
+        [],
+        [
+            "DanPimpao"
+        ],
+        [
+            "crisayonara"
+        ],
+        [
+            "Casimiro"
+        ],
+        [
+            "DanPimpao"
+        ],
+        [
+            "rodzeiro"
+        ],
+        [
+            "jpsiilvaf"
+        ],
+        [
+            "luucasbrasil"
+        ],
+        [],
+        [
+            "gizellybicalho_"
+        ],
+        [
+            "canaldasbee"
+        ],
+        [
+            "byerxss"
+        ],
+        [
+            "AmanheciCansado"
+        ],
+        [
+            "cleytu"
+        ],
+        [
+            "paulohvcf"
+        ],
+        [
+            "alexandrismos"
+        ],
+        [
+            "cmilasfirst"
+        ],
+        [
+            "VITORHOL"
+        ],
+        [
+            "starkrogwers"
+        ],
+        [
+            "Dantinhas"
+        ],
+        [
+            "DeCaraPraLua"
+        ],
+        [
+            "PriAlcantara"
+        ],
+        [
+            "DeCaraPraLua"
+        ],
+        [
+            "vaidesmaiar"
+        ],
+        [
+            "luucasbrasil"
+        ],
+        [
+            "nacao_prior"
+        ],
+        [
+            "thomassantanas"
+        ],
+        [
+            "tvfoco"
+        ],
+        [
+            "siteptbr"
+        ],
+        [],
+        [
+            "TayHosana"
+        ],
+        [
+            "euronysilvaa"
+        ],
+        [
+            "Dantinhas"
+        ],
+        [
+            "VemBigBrother"
+        ],
+        [
+            "iury_freitas_"
+        ],
+        [
+            "arreagastic"
+        ],
+        [
+            "Swimmingcool2"
+        ],
+        [
+            "olucassalles"
+        ],
+        [
+            "Dantinhas"
+        ],
+        [
+            "geocaarol"
+        ],
+        [
+            "PriAlcantara"
+        ],
+        [],
+        [
+            "Nanda_Loren"
+        ],
+        [
+            "srtalycia_"
+        ],
+        [
+            "palomamtfe"
+        ],
+        [
+            "thiagdf"
+        ],
+        [],
+        [],
+        [],
+        [
+            "rafaelkjls"
+        ],
+        [],
+        [
+            "MainyMedeiros"
+        ],
+        [
+            "srtalycia_"
+        ],
+        [
+            "jenifferport9"
+        ],
+        [
+            "ThaygraT"
+        ],
+        [
+            "rodzeiro"
+        ],
+        [
+            "iury_freitas_"
+        ],
+        [
+            "iamimiamim"
+        ],
+        [],
+        [
+            "BicalhoProject"
+        ],
+        [
+            "laneeoficial"
+        ],
+        [
+            "DivaDepressao"
+        ],
+        [
+            "IzaCost94538997"
+        ],
+        [
+            "RealitysComment"
+        ],
+        [
+            "talitavas1"
+        ],
+        [
+            "srtalycia_"
+        ],
+        [
+            "rodzeiro"
+        ],
+        [
+            "PsychBugr3"
+        ],
+        [
+            "VemBigBrother"
+        ],
+        [],
+        [
+            "bbbels"
+        ],
+        [
+            "fkadanillo"
+        ],
+        [
+            "NandaCampos0"
+        ],
+        [
+            "paulohvcf"
+        ],
+        [
+            "srtalycia_"
+        ],
+        [
+            "bia_bernardes"
+        ],
+        [
+            "nightoflowers"
+        ],
+        [],
+        [
+            "nightoflowers"
+        ],
+        [
+            "PsychBugr3"
+        ],
+        [
+            "imitta3"
+        ],
+        [
+            "rickcomenta"
+        ],
+        [],
+        [
+            "rolealeatorio"
+        ],
+        [],
+        [
+            "Nanda_Loren"
+        ],
+        [],
+        [
+            "paulohvcf"
+        ],
+        [],
+        [
+            "shicomentei"
+        ],
+        [
+            "HugoGloss"
+        ],
+        [
+            "fanntwitta"
+        ],
+        [
+            "Yeojin54020502"
+        ],
+        [
+            "vilakinho"
+        ],
+        [],
+        [
+            "dixxquell"
+        ],
+        [],
+        [
+            "GabiGuie"
+        ],
+        [
+            "srtalycia_"
+        ],
+        [
+            "PriAlcantara"
+        ],
+        [
+            "srtalycia_"
+        ],
+        [
+            "danielbovolento"
+        ],
+        [],
+        [
+            "rafaelkjls"
+        ],
+        [
+            "raphaelfassini"
+        ],
+        [
+            "cavallomanco"
+        ],
+        [
+            "rolealeatorio"
+        ],
+        [
+            "NinguemVendo"
+        ],
+        [],
+        [],
+        [],
+        [
+            "isabissochi"
+        ],
+        [
+            "nightoflowers"
+        ],
+        [
+            "UOLBBB"
+        ],
+        [
+            "arreagastic"
+        ],
+        [
+            "VeroFratello"
+        ],
+        [
+            "Shellinnha"
+        ],
+        [
+            "iury_freitas_"
+        ],
+        [
+            "DivulgaParcial"
+        ],
+        [
+            "itolindoo"
+        ],
+        [
+            "luscazou"
+        ]
+    ]
+}

@@ -1,0 +1,2216 @@
+{
+    "name": "teste",
+    "created_at": "Wed-Mar--4-12:54:01-2020",
+    "id_str": [
+        "1235247004445552640",
+        "1235247005217284103",
+        "1235247005036773376",
+        "1235247005435383808",
+        "1235247006043590656",
+        "1235247005934465026",
+        "1235247006358081536",
+        "1235247006907617281",
+        "1235247006777561090",
+        "1235247007163392001",
+        "1235247007725473793",
+        "1235247007800930304",
+        "1235247007842938881",
+        "1235247008111263746",
+        "1235247008199344128",
+        "1235247008581111821",
+        "1235247008484593666",
+        "1235247009231245313",
+        "1235247009428365313",
+        "1235247009663258630",
+        "1235247010510450688",
+        "1235247010556637184",
+        "1235247011177299968",
+        "1235247011022147587",
+        "1235247011366133760",
+        "1235247011622006795",
+        "1235247011861012485",
+        "1235247011865202688",
+        "1235247011869446146",
+        "1235247012024635392",
+        "1235247012225912833",
+        "1235247012632809474",
+        "1235247014033620992",
+        "1235247014268604417",
+        "1235247014352506880",
+        "1235247014398566400",
+        "1235247014465728513",
+        "1235247014763474944",
+        "1235247015266836480",
+        "1235247016294387715",
+        "1235247016390922240",
+        "1235247016629985285",
+        "1235247017099702274",
+        "1235247016663560193",
+        "1235247017200431105",
+        "1235247017397538822",
+        "1235247017766596609",
+        "1235247018064437249",
+        "1235247018404179969",
+        "1235247018706186241",
+        "1235247018689409024",
+        "1235247019243057152",
+        "1235247019465334786",
+        "1235247019498844161",
+        "1235247019897368577",
+        "1235247020618797061",
+        "1235247020769767424",
+        "1235247020501274625",
+        "1235247020606197760",
+        "1235247020870381568",
+        "1235247021566590976",
+        "1235247022086803461",
+        "1235247022132867080",
+        "1235247022753615872",
+        "1235247022892101640",
+        "1235247023521230850",
+        "1235247023609262080",
+        "1235247023839997952",
+        "1235247025538707456",
+        "1235247026570498049",
+        "1235247026813759493",
+        "1235247026700419072",
+        "1235247026893475840",
+        "1235247027073802241",
+        "1235247027136712704",
+        "1235247027795226629",
+        "1235247028566925312",
+        "1235247028751552512",
+        "1235247028982165504",
+        "1235247029187735552",
+        "1235247029774929921",
+        "1235247029573607428",
+        "1235247030605418497",
+        "1235247031288987649",
+        "1235247031796617217",
+        "1235247031863717888",
+        "1235247032123699202",
+        "1235247033125986304",
+        "1235247033541373952",
+        "1235247033977581568",
+        "1235247034535473152",
+        "1235247034682281989",
+        "1235247035508494336",
+        "1235247035844096000",
+        "1235247036246700034",
+        "1235247036762640384",
+        "1235247037228208128",
+        "1235247038129938432",
+        "1235247038012542977",
+        "1235247038280986625",
+        "1235247038562021378",
+        "1235247038922715136",
+        "1235247039019126784",
+        "1235247039082098689",
+        "1235247039501471747",
+        "1235247040181006344",
+        "1235247040101261312",
+        "1235247040982110208",
+        "1235247041632251911",
+        "1235247043700019200",
+        "1235247043888795655",
+        "1235247043825799168",
+        "1235247044023013381",
+        "1235247043997728769",
+        "1235247043997773830",
+        "1235247044547301376",
+        "1235247044706668545",
+        "1235247045256065025",
+        "1235247045071556608",
+        "1235247045721587714",
+        "1235247046799523844",
+        "1235247047223234565",
+        "1235247047273480192",
+        "1235247047881748483",
+        "1235247048179490816",
+        "1235247048162766854",
+        "1235247048120823811",
+        "1235247048452120581",
+        "1235247048426999813",
+        "1235247048921960457",
+        "1235247048900960258",
+        "1235247049697906689",
+        "1235247049702072320",
+        "1235247050717106176",
+        "1235247050880622592",
+        "1235247050838675456",
+        "1235247051170029568",
+        "1235247051472072704",
+        "1235247051581075459",
+        "1235247051694395392",
+        "1235247052189204480",
+        "1235247053191761921",
+        "1235247052952678401",
+        "1235247052793286656",
+        "1235247053443342337",
+        "1235247054559096833",
+        "1235247054437437444",
+        "1235247054441635840",
+        "1235247054777176064",
+        "1235247055406272512",
+        "1235247055829970947",
+        "1235247056278761472",
+        "1235247056345849856",
+        "1235247056572342274",
+        "1235247056874336258",
+        "1235247057079848960",
+        "1235247057780305920",
+        "1235247058451386382",
+        "1235247058883416071",
+        "1235247059030114306",
+        "1235247059424481288",
+        "1235247059348922369",
+        "1235247059428659206",
+        "1235247059491573760",
+        "1235247059458027526",
+        "1235247060292689922",
+        "1235247060280119298",
+        "1235247060481384448",
+        "1235247061605527554",
+        "1235247062289178624",
+        "1235247064260513792",
+        "1235247064294076416",
+        "1235247064570834956",
+        "1235247065355161601",
+        "1235247065996898304",
+        "1235247066412134400",
+        "1235247066491871235",
+        "1235247066764451840",
+        "1235247066928091142",
+        "1235247066944811008",
+        "1235247068144447494",
+        "1235247068530253824",
+        "1235247068886847488",
+        "1235247069415251968",
+        "1235247070027579392",
+        "1235247070203781121",
+        "1235247070996500481",
+        "1235247071407607809",
+        "1235247071353069570",
+        "1235247072200269825",
+        "1235247073165008897",
+        "1235247073286594560",
+        "1235247074045763584",
+        "1235247074192633857",
+        "1235247075278888961",
+        "1235247076121944064",
+        "1235247077409648641",
+        "1235247077631889409",
+        "1235247077761875971",
+        "1235247078646984704",
+        "1235247079099961345",
+        "1235247079150292997",
+        "1235247079410237441",
+        "1235247079917793281",
+        "1235247080362463233",
+        "1235247080333086720",
+        "1235247080320438280",
+        "1235247080391798789",
+        "1235247080928616451",
+        "1235247081314488320",
+        "1235247082660823042",
+        "1235247083197730816",
+        "1235247083935932416",
+        "1235247083805913089",
+        "1235247083810099200",
+        "1235247084690976769",
+        "1235247084888088583",
+        "1235247085307514887",
+        "1235247085366149121",
+        "1235247085626290178",
+        "1235247085831827457",
+        "1235247086016303104",
+        "1235247086733611008",
+        "1235247086699978752",
+        "1235247086649651202",
+        "1235247087073275908",
+        "1235247087664746496",
+        "1235247087828242433",
+        "1235247087698182145",
+        "1235247088067366915",
+        "1235247088398671874",
+        "1235247089073999872",
+        "1235247088939696129",
+        "1235247089380184064",
+        "1235247089493385217",
+        "1235247091645116416",
+        "1235247091980603398",
+        "1235247092546842632",
+        "1235247092857262083",
+        "1235247093528383488",
+        "1235247093691842560",
+        "1235247093838753792",
+        "1235247094081998848",
+        "1235247094560174085",
+        "1235247094702759936",
+        "1235247094920892417",
+        "1235247095352905728",
+        "1235247095403118592",
+        "1235247095768059904",
+        "1235247095780700160",
+        "1235247095898087426",
+        "1235247096065904643",
+        "1235247096623661056",
+        "1235247097152229376",
+        "1235247097542299649",
+        "1235247097663893517",
+        "1235247098100158465",
+        "1235247099748519938",
+        "1235247099777818624",
+        "1235247099677233153",
+        "1235247100373471239",
+        "1235247100348248068",
+        "1235247100662820866",
+        "1235247100440571905",
+        "1235247100541235201",
+        "1235247101698879496",
+        "1235247101925351424",
+        "1235247101946335236",
+        "1235247102596452352",
+        "1235247102395117570",
+        "1235247102906847235",
+        "1235247103078617088",
+        "1235247103141703683",
+        "1235247103254974464",
+        "1235247103988969472",
+        "1235247104332832768",
+        "1235247104525770752",
+        "1235247104878170112",
+        "1235247104920039424",
+        "1235247105259851778",
+        "1235247105687478272",
+        "1235247106073522178",
+        "1235247107327635456",
+        "1235247107386355713",
+        "1235247107042353152",
+        "1235247107956670468",
+        "1235247108342546432",
+        "1235247108275482629",
+        "1235247108917207041",
+        "1235247109114392577",
+        "1235247109173108736",
+        "1235247109831610371",
+        "1235247110251040770",
+        "1235247110276157440",
+        "1235247110251065347",
+        "1235247110209052673",
+        "1235247110498521089",
+        "1235247110578155527",
+        "1235247110989238273",
+        "1235247111471616000",
+        "1235247112222388224"
+    ],
+    "text": [
+        "A CARA DO PRIOR PRO PESSOAL SE ABRA\u00c7ANDO E CANTANDO GOSPEL #BBB20 #redeBBB https://t.co/eZVzVqbU7s",
+        "Depois de elimina\u00e7\u00e3o de Guilherme, Gabi promete: \"Eu vou ser uma nova pessoa, vou voltar a ser quem eu era, com o mesmo brilho no olhar\" \u2192 https://t.co/I4eayD0sMU #RedeBBB #BBB20 https://t.co/p4Uss0UXuq",
+        "O Prior, sem querer, t\u00e1 desmascarando o Victor Hugo pra Gizelly, isso n\u00e3o tem pre\u00e7o!! #bbb20 \n#PomboFalso https://t.co/M7v9oIx9sV",
+        "Babu: \u201cMILITAR \u00e9 o seguinte, N\u00c3O \u00c9 AFASTAR AS PESSOAS, \u00c9 JUNTAR E AGREGAR IDEIA. N\u00e3o \u00e9 o que elas fazem, elas USAM PRA ATACAR. Isso, s\u00f3 cria um apartheid, segrega\u00e7\u00e3o, elas est\u00e3o chutando quem n\u00e3o est\u00e1 com elas.\u201d\n\nBABU ESCLARENDO A CABE\u00c7A DE PRIOR SOBRE AS MENINAS. #bbb20 https://t.co/8WDvJUgZqJ",
+        "Marcela: \u201cTraria o Babu pro vip pra arrumar a cozinha\u201d \u201cEle n\u00e3o t\u00e1 merecendo n\u00e3o\u201d fada racista e prepotente que chama n\u00e9? #BBB20 \n\n https://t.co/iYO6kCRJTj",
+        "BABU NAO E ESCRAVO \n\nNOJO DESSE POVO https://t.co/dr8ki3WWah",
+        "\u25aaPopularidade 7 semana \n\n\u25aa vote no seu favorito. \n\n\u25aa #BBB20",
+        "a sensatez!!!",
+        "Pessoas que cresceram a vida toda com tudo em m\u00e3os n\u00e3o v\u00e3o entender nunca um homem que sabe o valor da comida discutir por ela, e a partir disso ridicularizam sempre que podem a conduta dele. Esse \u00e9 o retrato de quem voc\u00eas escolhem como favoritos: militantes sim, racistas mais.",
+        "Uma hora vendo Gizelly e Prior conversando... s\u00e9rio, foi um momento bem bacana. Ainda desmascararam o VH #BBB20",
+        "Babu pra Thelma\n\n\"Vc \u00e9 uma mulher q admiro muito e s\u00f3 consigo imaginar as barreiras q vc enfrentou para conquistar as coisas na sua vida e tem todo o meu respeito, por isso que a sua opini\u00e3o tem peso para mim\"\n\n#BBB20",
+        "\"A Flay \u00e9 uma oportunista. Ela se aproveita de qlq oportunidade. Vc acha mesmo que ela t\u00e1 feliz?\" (Gi lend\u00e1ria) #BBB20 https://t.co/LWF1sCGX7j",
+        "mais uma morte pra conta da flayslaine #bbb20 https://t.co/YUeo6mv2NB",
+        "Que \u00f3dio mlk vtnc",
+        "Gizelly: \u201cMinha psic\u00f3loga fala que \u00e9 dif\u00edcil pra voc\u00eas homens tamb\u00e9m, n\u00e3o \u00e9 f\u00e1cil desconstruir.\u201d\nFelipe: \u201cExatamente e pra mim t\u00e1 mais dif\u00edcil ainda, voc\u00eas n\u00e3o ajudam a desconstruir ningu\u00e9m assim, voc\u00eas me julgam:\u201d #BBB20",
+        "Gizelly: \"E sua m\u00e3e vai aparecer quando? Eu t\u00f4 ansiosa pra conhecer ela...Babu, voc\u00ea viu que ontem eu te dei biscoito em rede nacional?\"\nPrior: \"Quando eu sair daqui as meninas v\u00e3o todas querer provar o meu beijo\"\n\nKKKKKKKKKKKKKKKKKKKKKKK\n\n#BBB20 https://t.co/7rHjpHyBnQ",
+        "Vou consultar @caroolcirqueira, nossa psic\u00f3loga linda antes de comentar esse v\u00eddeo, conte o que acha ?",
+        "Gizelly: \u201cMinha psic\u00f3loga fala que \u00e9 dif\u00edcil pra voc\u00eas homens tamb\u00e9m, n\u00e3o \u00e9 f\u00e1cil desconstruir.\u201d\nFelipe: \u201cExatamente e pra mim t\u00e1 mais dif\u00edcil ainda, voc\u00eas n\u00e3o ajudam a desconstruir ningu\u00e9m assim, voc\u00eas me julgam:\u201d #BBB20",
+        "Babu pra Thelma\n\n\"Vc \u00e9 uma mulher q admiro muito e s\u00f3 consigo imaginar as barreiras q vc enfrentou para conquistar as coisas na sua vida e tem todo o meu respeito, por isso que a sua opini\u00e3o tem peso para mim\"\n\n#BBB20",
+        "Mds to amando essa conversa da Gizelly e Prior #BBB20",
+        "Prior realmente acredita que ele t\u00e1 certo mesmo com todos os amigos dele eliminado. Ele insiste em tentar justificar as merdas que ele fala, falando mais merda. #BBB20",
+        "thelma n\u00e3o est\u00e1 no top 5 da marcela pena q a lenda estar\u00e1 da final mesmo assim  #BBB20 https://t.co/hqe7DBPBEl",
+        "Cen\u00e1rio 1:Pyong fica. Quarto branco.Ele e Prior v\u00e3o. Para choque geral, os dois ficam amigos e saem de m\u00e3os dadas de l\u00e1, formando uma alian\u00e7a inusitada. Cen\u00e1rio 2: Pyong e Prior v\u00e3o para o quarto branco. Acontece o primeiro assassinato ao vivo da hist\u00f3ria da TV brasileira. #BBB20",
+        "Marcela fazendo um coment\u00e1rio absurdo sobre o Babu: ''Traria o Babu pro vip pra arrumar a cozinha''. #bbb20  https://t.co/zKZqZaiKvo",
+        "Pessoas que cresceram a vida toda com tudo em m\u00e3os n\u00e3o v\u00e3o entender nunca um homem que sabe o valor da comida discutir por ela, e a partir disso ridicularizam sempre que podem a conduta dele. Esse \u00e9 o retrato de quem voc\u00eas escolhem como favoritos: militantes sim, racistas mais.",
+        "Esse grup\u00e3o quer o Babu como cozinheiro e faxineiro da cozinha, q paia nojentos #BBB20",
+        "Parab\u00e9ns passou no teste da malha\u00e7\u00e3o",
+        "Voc\u00eas tem no\u00e7\u00e3o que foram 416 MILH\u00d5ES DE VOTOS e a Gizelly N\u00c3O recebeu nem 1% de rejei\u00e7\u00e3o? essa mulher j\u00e1 conquistou a internet e agora t\u00e1 conquistando o sof\u00e1, GIZELLY VOC\u00ca N\u00c3O \u00c9 S\u00d3 O ORGULHO DO ESP\u00cdRITO SANTO, \u00c9 DO BRASIL INTEIRO #BBB20 https://t.co/w3oO4tSs5Y",
+        "martinho lutero se preparando pra escrever as 95 teses contra a igreja cat\u00f3lica em 1517 https://t.co/9KS83pmIxj",
+        "o ross ta diferente",
+        "Marcela -- hoje eu tenho que agradecer o Brasil por ter deixado minha Deusa da justi\u00e7a aqui \ud83d\udc69\ud83c\udffc\u200d\u2695\ufe0f\ud83d\udc69\ud83c\udffd\u200d\u2696\n#BBBB20\n#gicela #bbb20 https://t.co/rLac5E8ozZ",
+        "n\u00e3o \u00e9 s\u00f3 o prior que ta sonhando",
+        "vou fazer de tudo pra ser amiga da manu e da rafa quando elas sa\u00edrem #BBB20",
+        "o ross ta diferente",
+        "martinho lutero se preparando pra escrever as 95 teses contra a igreja cat\u00f3lica em 1517",
+        "Ces lembram quando o Hadson falou que ia deixar as mulheres na xepa pra passarem fome e rolou toooooda uma revolta no Twitter? \nEnt\u00e3o, a fada sensata t\u00e1 fazendo PIOR. E agora? #bbb20",
+        "martinho lutero se preparando pra escrever as 95 teses contra a igreja cat\u00f3lica em 1517",
+        "Marcela fazendo um coment\u00e1rio absurdo sobre o Babu: ''Traria o Babu pro vip pra arrumar a cozinha''. #bbb20  https://t.co/zKZqZaiKvo",
+        "as coisas mudaram = n\u00e3o precisa mais da companhia dela como quando precisava quando era insegura, tinha medo dos famosos e de se expor porque agora ela \u00e9 famosa e thelma n\u00e3o https://t.co/qtwSZk6w51",
+        "Raio X lindo e animado \ud83e\udd70\ud83d\udc9c",
+        "a vontade de espancar a marcela, a ivy e o daniel q ru tenho \u00e9 surreal, se eu tivesse essa chance aposto q eu ia virar o pr\u00f3prio buda ia esvair td de ruim dentro de mim",
+        "eu votaria no guilherme mil vezes de novo #bbb20  https://t.co/lwlVQx3FSu",
+        "Eu s\u00f3 abro m\u00e3o da Gizelly se ela matar algu\u00e9m ali dentro e dependendo de quem for eu ainda passo pano, me identifico muito com ela e vou proteger at\u00e9 o fim! #BBB20 #1Furaconer https://t.co/KEfbaHrxMo",
+        "\u00c9 isso. E acho engra\u00e7ado que reclamam da milit\u00e2ncia seletiva mas torcem pro prior, que al\u00e9m de mis\u00f3gino e violento tamb\u00e9m \u00e9 assediador, que beijou gente desacordada e foi expulso de jogos universit\u00e1rios por ass\u00e9dio. Nenhum homem daquela casa \u00e9 santo \ud83e\udd37\ud83c\udffb\u200d\u2640\ufe0f #bbb20 por mim saem todos",
+        "Babu: \u201cMILITAR \u00e9 o seguinte, N\u00c3O \u00c9 AFASTAR AS PESSOAS, \u00c9 JUNTAR E AGREGAR IDEIA. N\u00e3o \u00e9 o que elas fazem, elas USAM PRA ATACAR. Isso, s\u00f3 cria um apartheid, segrega\u00e7\u00e3o, elas est\u00e3o chutando quem n\u00e3o est\u00e1 com elas.\u201d\n\nBABU ESCLARENDO A CABE\u00c7A DE PRIOR SOBRE AS MENINAS. #bbb20 https://t.co/8WDvJUgZqJ",
+        "o ross ta diferente",
+        "A GIZELLY PASSANDO A COLA EU TO PASSANDO MAL KKKKKKKKKKKKKKKKKKKKK #BBB20 https://t.co/itwZ54B2xF",
+        "O branco ativista e o negro raivoso: o #BBB \u00e9 um retrato de receptividades\n\nArtigo do nosso novo parceiro de conte\u00fado @listapreta \n\nhttps://t.co/irQaX6D2Ag\n#Thelma #babu #bbb20 https://t.co/HlW8hHljea",
+        "o ross ta diferente",
+        "\u2018Na Maria faz tudo na Globo!",
+        "o ross ta diferente",
+        "o rafael portugal \u00e9 o funcion\u00e1rio que passa o dia no twitter vendo oq a gente ta achando pra ir meter a boca em rede nacional e falar tudo kkkkkkkkkk e ele faz TUDO #BBB20 #BBBB2O\nhttps://t.co/M3zy57E458",
+        "Cala a boca pra falar da minha campe\u00e3 Babu!\ud83c\udf2a @gizellybicalho_",
+        "Gizelly desestabilizando Prior completamente KKKKKKKKKKKK #BBB #BBB20 https://t.co/s91iafT7Gw",
+        "Babu: \u201cMILITAR \u00e9 o seguinte, N\u00c3O \u00c9 AFASTAR AS PESSOAS, \u00c9 JUNTAR E AGREGAR IDEIA. N\u00e3o \u00e9 o que elas fazem, elas USAM PRA ATACAR. Isso, s\u00f3 cria um apartheid, segrega\u00e7\u00e3o, elas est\u00e3o chutando quem n\u00e3o est\u00e1 com elas.\u201d\n\nBABU ESCLARENDO A CABE\u00c7A DE PRIOR SOBRE AS MENINAS. #bbb20 https://t.co/8WDvJUgZqJ",
+        "E BOM DIA relembrando que ontem prior disse que nao aceita ouvir que \u00e9 machista vindo de uma menina que n\u00e3o sabe fritar um ovo... \n\ndif\u00edcil n\u00e9 galera? bom dia.\n\n#BBB #BBB20 https://t.co/3FJb5UWv3l",
+        "Guilherme trocando o nome da Gabi pelo da Bianca kkkkkkkkkkkkkkkkkkkk meu deus ele nem disfar\u00e7a #bbb20 https://t.co/FCRfUsIscJ",
+        "Babu: \u201cMILITAR \u00e9 o seguinte, N\u00c3O \u00c9 AFASTAR AS PESSOAS, \u00c9 JUNTAR E AGREGAR IDEIA. N\u00e3o \u00e9 o que elas fazem, elas USAM PRA ATACAR. Isso, s\u00f3 cria um apartheid, segrega\u00e7\u00e3o, elas est\u00e3o chutando quem n\u00e3o est\u00e1 com elas.\u201d\n\nBABU ESCLARENDO A CABE\u00c7A DE PRIOR SOBRE AS MENINAS. #bbb20 https://t.co/8WDvJUgZqJ",
+        "Macho defendendo macho e tentando colocar mulher de maluca. A hist\u00f3ria se repete porque eles sempre acham que tem a raz\u00e3o. Se algum homem ganhar esse bbb, todo exemplo de feminismo que a gente viu nessa edi\u00e7\u00e3o vai por \u00e1gua a baixo. Esse cara n\u00e3o \u00e9 v\u00edtima!",
+        "o ross ta diferente",
+        "o ross ta diferente",
+        "O Babu falando pra Thelma que muitas vezes tem medo de se posicionar porque o grup\u00e3o est\u00e1 sempre definindo o que \u00e9 certo e o que \u00e9 errado, que qualquer posicionamento diferente \u00e9 motivo de cr\u00edticas e julgamentos. #BBB20",
+        "Uma boate transmitiu a elimina\u00e7\u00e3o do Guilherme, ao som de Man Down!!! Algu\u00e9m sabe onde fica a boate!??? #MachosAbusivosNaoPassarao #BBB20 #mandown https://t.co/agGnIaniBf",
+        "Ontem ap\u00f3s a elimina\u00e7\u00e3o, Daniel decidiu colecionar mais um absurdo: ''Eu n\u00e3o vejo a imagem do Babu aqui no VIP, vejo l\u00e1 (xepa)''. Quanta ignor\u00e2ncia desse mimado e Marcela ainda riu do que ele falou. #bbb20 https://t.co/UYlgBmVpxL",
+        "Marcela deixou Gizelly, Pyong e Thelma na sala e foi pra cozinha com Mari e Flay. Gizelly e Pyong estranharam\n\nGizelly: Eu ein, n\u00e3o to entendendo a Marcela mais n\u00e3o \nPyong: Tamb\u00e9m n\u00e3o \n\nUFFAAAA ACORDARAM!!!! N\u00c3O ESTAMOS ENTENDENDO FAZ TR\u00caS SEMANAS #BBB20",
+        "Eu sempre shippei gizelly e prior, mas vou fingir que n\u00e3o #BBB20",
+        "que merdinha essa marcela hein vsf",
+        "thelma n\u00e3o est\u00e1 no top 5 da marcela pena q a lenda estar\u00e1 da final mesmo assim  #BBB20 https://t.co/hqe7DBPBEl",
+        "martinho lutero se preparando pra escrever as 95 teses contra a igreja cat\u00f3lica em 1517",
+        "t\u00e1 rolando um estresse generalizado entre Felipe, Manu e Rafa! #BBB20 #RedeBBB https://t.co/qLI6vlGyht",
+        "Est\u00e3o descobrindo quem \u00e9 VH.\n\nEu t\u00f4 amando \n\n#BBB20",
+        "Pelo amor de deus babu ven\u00e7a a prova do l\u00edder e coloque o sabugo no pared\u00e3o \n\u00c9 tudo que eu te pe\u00e7o",
+        "#fadasensatanaoracistassim\n#danielracista\n#bbb20\nBabu n\u00e3o \u00e9 escravo seus escrotos https://t.co/V2r5x8i3rG",
+        "Guilherme levando li\u00e7\u00e3o de moral de \n\nLORO JOSE\n\nessa aliena\u00e7\u00e3o que o Brasil nos proporciona \u00e9 simplesmente tudo #bbb20",
+        "\u00c9 meio surreal o que esse BBB t\u00e1 fazendo n\u00e9? Vou pega esse v\u00eddeo de exemplo, mas tem muitos outros, amigos se reunindo em bar, casa, at\u00e9 em festa pra ver elimina\u00e7\u00e3o e comemorar, faz tempo que n\u00e3o se via isso, o Boninho deve t\u00e1 soltando fogos https://t.co/1s7bw69sCY #BBB20",
+        "martinho lutero se preparando pra escrever as 95 teses contra a igreja cat\u00f3lica em 1517",
+        "nas boates do Esp\u00edrito Santo, a elimina\u00e7\u00e3o do Guilherme foi nesse pique #bbb20 https://t.co/zuZxHwK2Mg",
+        "Marcela: \u201cTraria o Babu pro vip pra arrumar a cozinha\u201d \u201cEle n\u00e3o t\u00e1 merecendo n\u00e3o\u201d fada racista e prepotente que chama n\u00e9? #BBB20 \n\n https://t.co/iYO6kCRJTj",
+        "o rafael portugal \u00e9 o funcion\u00e1rio que passa o dia no twitter vendo oq a gente ta achando pra ir meter a boca em rede nacional e falar tudo kkkkkkkkkk e ele faz TUDO #BBB20 #BBBB2O\nhttps://t.co/M3zy57E458",
+        "E depois dizem que o jogo n\u00e3o \u00e9 de cartas marcadas. https://t.co/DnXumcwwjG",
+        "Eu acho que tem muito embasamento quando o babu diz que sente olhares racistas de algumas pessoas da casa quando eu vejo cenas como essa:",
+        "Eu amo a @BiaAndradeOfc e esse v\u00eddeo s\u00f3 reflete o que ela sofre sempre sozinha, os bastidores do que ningu\u00e9m v\u00ea. As pessoas julgam sem responsabilidade alguma! O #bbb20 so me fez admirar ainda mais essa mulher FODA. BIANCA NOSSO ORGULHO",
+        "Pessoas que cresceram a vida toda com tudo em m\u00e3os n\u00e3o v\u00e3o entender nunca um homem que sabe o valor da comida discutir por ela, e a partir disso ridicularizam sempre que podem a conduta dele. Esse \u00e9 o retrato de quem voc\u00eas escolhem como favoritos: militantes sim, racistas mais.",
+        "Ontem ap\u00f3s a elimina\u00e7\u00e3o, Daniel decidiu colecionar mais um absurdo: ''Eu n\u00e3o vejo a imagem do Babu aqui no VIP, vejo l\u00e1 (xepa)''. Quanta ignor\u00e2ncia desse mimado e Marcela ainda riu do que ele falou. #bbb20 https://t.co/UYlgBmVpxL",
+        "Sim. (porque t\u00e3o cagando pra vota\u00e7\u00e3o)\n\nUma fake news baixa passando pela sua timeline. Marcela explicou ontem que entendeu o ass\u00e9dio do Pyong como um ci\u00fame de amizade, como o que a Gizelly sente por ela. E que ficou preocupada com a Sammy aqui fora. V\u00eddeo no pr\u00f3ximo tweet.\n#BBB20 https://t.co/kTcuzd2M0r",
+        "escrota da porra",
+        "eita",
+        "Quem t\u00e1 l\u00e1 dentro n\u00e3o tem no\u00e7\u00e3o do quanto a Thelminha \u00e9 forte aqui fora. \n\nUm pared\u00e3o com Thelma x Daniel seria perfeito. Thelminha ia destro\u00e7ar o rato, q iria sair com recorde de rejei\u00e7\u00e3o\n\nMarcela entraria em choque e ainda tentaria se reaproximar da Thelma por interesse #bbb20 https://t.co/4gA1R6RbnA",
+        "a gabi com o guilherme / a gabi sem o guilherme\n\npoucas horas e j\u00e1 vemos o resultado\nobrigada brasil\n#bbb20 https://t.co/khjJX2ixuE",
+        "era o que acontecia com dourado em rela\u00e7\u00e3o a homofobia, ele come\u00e7ou a se desconstruir com algumas atitudes que n\u00e3o eram legais dentro do programa e prosseguiu fora",
+        "as finalistas vai ser essas tr\u00eas e acabou #BBB20 https://t.co/t99YTDyYiT",
+        "Gizelly e prior perceberam  o VH agora.\n\nPYONG FAZ TUDO J\u00c1 TINHA SACADO A DO VH FAZ TEMPO! AINDA DISSE QUE VH \u00c9 O PR\u00d3XIMO, mas geral falando que ele \u00e9 arrogante.\n\n#BBB20 \nVH FOFOQUEIRO ENTRE TODOS J\u00c1 \u00c9 REAL!!!",
+        "A gente passa 5 anos estudando pra vir um idiota que fez um curso de 1 ano com um outro idiota qualquer pra dizer que hipnose cura depress\u00e3o, VH pela primeira vez foi sensato na fala dele pq ele \u00e9 PSIC\u00d3LOGO, se foi surto foi um surto de sensatez.",
+        "Se o Daniel for pro pared\u00e3o ele sai cara, ningu\u00e9m aguenta mais",
+        "REP\u00d3RTER: das \u00faltimas 9 edi\u00e7\u00f5es 7 foram ganhadoras mulheres, algum palpite do motivo Ana Maria?\nANA MARIA (rindo ironicamente): olha, motivos pra dar eu tenho v\u00e1rios m\u00e1s perante o entrevistado de hoje na mesa \u00e9 melhor eu me abster da resposta.\nSCR ANA MARIA KKK\n#BBB20 #MaisVoce https://t.co/l2Dv6mQhz3",
+        "OLHA O RAFAEL PORTUGAL KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK\n#BBB20 https://t.co/tDsUkWEcqz",
+        "Se isso n\u00e3o for racismo n\u00e3o sei oq \u00e9\n\n\"O lugar do babu n\u00e3o \u00e9 no vip \u00e9 na xepa\"\n\n\"Babu t\u00e1 no vip s\u00f3 pra lavar lou\u00e7a e cozinhar\"\n\n\"De onde ele vem, ser\u00e1 que brigam por comida todo dia?\"\n\nBABU NAO \u00c9 ESCRAVO\n\n#BBB20",
+        "LIBERTAMOS UMA MULHER DO MACHO OPRESSOR!!!!! #BBB20 https://t.co/75GEvE6QfZ",
+        "martinho lutero se preparando pra escrever as 95 teses contra a igreja cat\u00f3lica em 1517",
+        "Gizelly teve 0,67% dos votos, MEU DEUS, foi a m\u00e3e do Hadson e o s\u00f3cio do Prior #bbb20",
+        "Thelma explicando pro Babu todos os motivos, al\u00e9m do relacionamento dele com Gabi, de Guilherme ter sa\u00eddo:\n#BBB20 https://t.co/F7I6fXxJ7k",
+        "VICTOR HUGO: \"O Gui n\u00e3o se despediu de mim pra n\u00e3o magoar a Gabi, mas ele t\u00e1 me esperando l\u00e1 fora\" #BBB20 #RedeBBB \n\nPLEASE, ALGU\u00c9M PARA ESSA GAY https://t.co/AFzUrN7kCB",
+        "Victor Hugo sendo desmascarado pela Gizelly e o Prior AMEI #bbb20",
+        "A gente passa 5 anos estudando pra vir um idiota que fez um curso de 1 ano com um outro idiota qualquer pra dizer que hipnose cura depress\u00e3o, VH pela primeira vez foi sensato na fala dele pq ele \u00e9 PSIC\u00d3LOGO, se foi surto foi um surto de sensatez.",
+        "Bom Dia, Pyongers! \nOs f\u00e3s do Prior est\u00e3o putos no Facebook porque eles juravam que eliminariam o Pyong. Kkkkk \n#BBB20",
+        "Daniel e Ivy revelam que Thelma \u00e9 uma de suas pr\u00f3ximas op\u00e7\u00f5es de voto, mesmo nunca tendo tido nenhum confronto direto com a sister. E vamos de Thelma x Daniel pra ver o loirinho massacrado #BBB20 #RedeBBB20 https://t.co/5zSFjhzOow",
+        "Pessoas que cresceram a vida toda com tudo em m\u00e3os n\u00e3o v\u00e3o entender nunca um homem que sabe o valor da comida discutir por ela, e a partir disso ridicularizam sempre que podem a conduta dele. Esse \u00e9 o retrato de quem voc\u00eas escolhem como favoritos: militantes sim, racistas mais. https://t.co/NLotPvg5IB",
+        "pyong perfeito explicando o jogo sujo do guilherme e falando pra gabi que ela n\u00e3o tem culpa de nada, enquanto os outros como a flay , mari, babu, vh e prior colocam culpa na menina e defendendo o guilherme. \n\n#BBB20 https://t.co/htFVvpaANI",
+        "Bota a Marcela e o Daniel no quarto branco. Eles n\u00e3o queriam ficar sozinhos? #bbb20",
+        "Continua a conversa, sobre negritude, sobre uma tal m\u00fasica que algu\u00e9m cantou \"daquele lado\", e sobre feminismo. #bbb20 https://t.co/R8StXDSt9r",
+        "Prior e Gizelly na pr\u00f3xima festa #BBB20 https://t.co/BNepttbrf3",
+        "FAKE! O Brasil s\u00f3 tem 220 milh\u00f5es de pessoas, como que fizeram 311 milh\u00f5es de votos?",
+        "Guilherme levando li\u00e7\u00e3o de moral de \n\nLORO JOSE\n\nessa aliena\u00e7\u00e3o que o Brasil nos proporciona \u00e9 simplesmente tudo #bbb20",
+        "Poder\u00edamos subir essa p Babu e outra p Marcella, j\u00e1 pedi v\u00e1rias vezes aqui, mas nossa torcida n\u00e3o \u00e9 unida, todos falam, mas ngm se importa de fato, somos uma torcida grande, se todos se unissem, subir\u00edamos essas duas TAGS rapidinho, sem esfor\u00e7o nenhum! #bbb20",
+        "\u201ceu decidi que n\u00e3o vou ficar mais triste, porque eu tenho amigos, tenho grama sint\u00e9tica, tenho minha ador\u00e1vel xepa com iguarias incr\u00edveis tipo leite em p\u00f3 com rapadura\u201d KKKKKKKKKKKKKKKK sinceramente manoela eu te amo ENTENDA #BBB20 https://t.co/aWAVtRhEMv",
+        "Prior e Babu n\u00e3o tem mais bolachas e est\u00e3o com fome, Pyong da o pacote inteiro pros dois comerem. \" Vcs podem comer quanto quiserem pode comer at\u00e9 acabar\"\nEssa \u00e9 a diferen\u00e7a entre quem erra e de quem \u00e9 ruim, errar \u00e9 do ser humano, homem ou mulher todos erramos\n#bbb20 https://t.co/9NlD0uPSJG",
+        "o rafael portugal \u00e9 o funcion\u00e1rio que passa o dia no twitter vendo oq a gente ta achando pra ir meter a boca em rede nacional e falar tudo kkkkkkkkkk e ele faz TUDO #BBB20 #BBBB2O\nhttps://t.co/M3zy57E458",
+        "Resumo da discuss\u00e3o:\n\nPrior: Ela pode ter prejudicado ele, sim\n\nMeninas: CARA, ISSO \u00c9 PERIGOSO, N\u00c3O FALA ISSO!\n\nPrior: Falar o qu\u00ea?\n\nMeninas: Falou que a Gabi pode ter prejudicado o Gui.\n\nPrior: EU NUNCA DISSE ISSO! #BBB20",
+        "o ross ta diferente",
+        "@rafaportugalc pode avisar kkkkkkkk",
+        "Ontem ap\u00f3s a elimina\u00e7\u00e3o, Daniel decidiu colecionar mais um absurdo: ''Eu n\u00e3o vejo a imagem do Babu aqui no VIP, vejo l\u00e1 (xepa)''. Quanta ignor\u00e2ncia desse mimado e Marcela ainda riu do que ele falou. #bbb20 https://t.co/UYlgBmVpxL",
+        "o ross ta diferente",
+        "FAKE! O Brasil s\u00f3 tem 220 milh\u00f5es de pessoas, como que fizeram 311 milh\u00f5es de votos?",
+        "Pra mim, gizelly e Thelma saindo de perto da Marcela, Daniel, Ivy e pyong! V\u00e3o ganhar mais destaques e ir pra final! #BBB20",
+        "Daniel e Ivy v\u00e3o ter que ralar muito pra derrubar a Thelma. \ud83d\ude09\n\n#BBB20 https://t.co/AjBu3LO2cz",
+        "Gizelly: \"Do mesmo jeito que voc\u00ea pode andar sem camisa, eu posso andar com decote\u201d \n\nNA CARA SIM GIZELLY PODE ESTRAGAR O VEL\u00d3RIO #BBB20 https://t.co/YhUpVL0Vh9",
+        "OLHA O RAFAEL PORTUGAL KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK\n#BBB20 https://t.co/tDsUkWEcqz",
+        "Babu pra Thelma: \"...Se voc\u00ea como mulher achou isso um ato machista, te pe\u00e7o desculpa.\"\nThelma: \"\u00c9 o que eu te falei, as vezes a gente esquece de pensar o outro lado, entendeu. Esquece de olhar o outro lado.\" #BBB20 https://t.co/JWOql1H3HL",
+        "Pessoas que cresceram a vida toda com tudo em m\u00e3os n\u00e3o v\u00e3o entender nunca um homem que sabe o valor da comida discutir por ela, e a partir disso ridicularizam sempre que podem a conduta dele. Esse \u00e9 o retrato de quem voc\u00eas escolhem como favoritos: militantes sim, racistas mais.",
+        "Marcela: \u201cTraria o Babu pro vip pra arrumar a cozinha\u201d \u201cEle n\u00e3o t\u00e1 merecendo n\u00e3o\u201d fada racista e prepotente que chama n\u00e9? #BBB20 \n\n https://t.co/iYO6kCRJTj",
+        "KKKKKKKKKK essa cara \u00e9 rid\u00edculo pqp",
+        "O que a Marcela lembra sobre o ass\u00e9dio do Pyong. \n\nEla deixa claro que interpretou como um ci\u00fame de amizade e que se fosse um desconhecido teria outra atitude. Sua preocupada era com a Sammy. \n\nPAREM DE CULPAR A V\u00cdTIMA. \n\n#BBB20 https://t.co/UxwNkzz3mQ",
+        "Cont.: \"Eu falei pelo contr\u00e1rio cara, a Gabi tem que t\u00e1 respeitando muito o Guilherme por ele n\u00e3o ter feito nada e do mesmo jeito que o Guilherme tava respeitando muito a Gabi...\"\nGizelly: \"Vou te falar uma coisa, Prior. Era muito estranho a rela\u00e7\u00e3o dele com a Bianca.\" #BBB20 https://t.co/LvQ73fFXvg",
+        "Marcela fazendo um coment\u00e1rio absurdo sobre o Babu: ''Traria o Babu pro vip pra arrumar a cozinha''. #bbb20  https://t.co/zKZqZaiKvo",
+        "Marcela: \u201cTraria o Babu pro vip pra arrumar a cozinha\u201d \u201cEle n\u00e3o t\u00e1 merecendo n\u00e3o\u201d fada racista e prepotente que chama n\u00e9? #BBB20 \n\n https://t.co/iYO6kCRJTj",
+        "que imagem bizarra. esse cara \u00e9 doente. #BBB20 https://t.co/BuwAgYe0s9",
+        "Depois da sa\u00edda do Guilherme, a Gabi tava se sentindo bem melhor, estava sorrindo. Isso \u00e9 o que acontece quando uma pessoa t\u00f3xica em todos os sentidos sai da sua vida. #BBB20",
+        "Thelma sempre acreditou e nunca questionou as meninas sobre o plano dos machos, mesmo sem ter informa\u00e7\u00f5es de fora. Que \u00e9 sensata, sem medo de se posicionar, que esmurrou o macho escroto, que \u00e9 amiga de verdade. Sim, voc\u00ea t\u00e1 no meu p\u00f3dio e pode contar comigo pra tudo \u2764 #BBB20 https://t.co/RJORhC4k2G",
+        "mano??? s\u00f3 se queima",
+        "Nao acredito que quem teve q botar ele no lugar foi a figura do nosso folclore louro jos\u00e9",
+        "Gizelly e Prior descobrindo as mentiras do VH hahahahahaha \n\n#BBB20",
+        "\"Ela era minha op\u00e7\u00e3o de p\u00f3dio mas as coisas mudam.\" Gente?? Bastou o salsicha chegar pra Marcela mudar todas as prioridades n\u00e9? Dizer que prefere a Ivy na final com ela do que a Thelma que fechou com ela desde o in\u00edcio? Que escroto isso!\n\n#BBB20",
+        "martinho lutero se preparando pra escrever as 95 teses contra a igreja cat\u00f3lica em 1517",
+        "Edit: como um relacionamento abusivo apaga seu brilho https://t.co/RePSefvkUq",
+        "Guilherme sendo eliminado ao som de man down numa boate do Esp\u00edrito Santo \u00e9 TUDO que eu precisava ver hoje \n #bbb20 https://t.co/p7D1zjY1fG",
+        "Victor Hugo sendo desmascarado por Prior, Gizelly, Thelma, Pyong e Babu. #BBB20 \n\nPruuu!! At\u00e9 que fim perceberam que a planta, al\u00e9m de leva e tr\u00e1s, distorce as conversas da galera. #RedeBBB https://t.co/ACjzaD4ISY",
+        "Um crossover dessa hist\u00f3ria e da hist\u00f3ria do frango da @laurinhalero \u00e9 s\u00f3 oq eu pe\u00e7o",
+        "FAKE! O Brasil s\u00f3 tem 220 milh\u00f5es de pessoas, como que fizeram 311 milh\u00f5es de votos?",
+        "Eu vejo um cara tentando conversar e duas pessoas fazendo deboche da cara dele como se a opini\u00e3o dele n valesse de nada",
+        "Victor Hugo: \"O Gui n\u00e3o se despediu de mim pra n\u00e3o magoar a Gabi, mas ele t\u00e1 me esperando l\u00e1 fora\"\n\nKKKKKKKKKKKKKKKKKKKKKKKKKKK #BBB20 https://t.co/eRQbvptMwe",
+        "Victor Hugo: \"O Gui n\u00e3o se despediu de mim pra n\u00e3o magoar a Gabi, mas ele t\u00e1 me esperando l\u00e1 fora\"\n\nKKKKKKKKKKKKKKKKKKKKKKKKKKK #BBB20 https://t.co/eRQbvptMwe",
+        "Guilherme sendo eliminado ao som de man down numa boate do Esp\u00edrito Santo \u00e9 TUDO que eu precisava ver hoje \n #bbb20 https://t.co/p7D1zjY1fG",
+        "Pessoas que cresceram a vida toda com tudo em m\u00e3os n\u00e3o v\u00e3o entender nunca um homem que sabe o valor da comida discutir por ela, e a partir disso ridicularizam sempre que podem a conduta dele. Esse \u00e9 o retrato de quem voc\u00eas escolhem como favoritos: militantes sim, racistas mais.",
+        "Repassem esse video....a doutora Marcela dizendo um absurdo desse!!\n\nBABU N\u00c3O \u00c9 ESCRAVO",
+        "Por que Babu \u00e9 tido como \"dif\u00edcil\" e \"ranzinza\", sendo exclu\u00eddo do principal grupo da casa, e Daniel \u00e9 visto como \"atrapalhado\" e \"engra\u00e7adinho\" quando faz a casa perder estalecas, diminuindo o poder de compra de comida?\nA palavra \u00e9 s\u00f3 uma: racismo. https://t.co/Wv2fS5T9MQ",
+        "Ai, amore, era s\u00f3 ele ter ficado em casa com seus 40 e sei l\u00e1 quantos anos criando os filhos dele. Foi pra porcaria do programa porque quis, se n\u00e3o sabe/n\u00e3o quer conviver com gente que ele n\u00e3o gosta \u00e9 s\u00f3 sair do Big Brother. Palha\u00e7ada. #BBB20",
+        "Babu: \u201cMILITAR \u00e9 o seguinte, N\u00c3O \u00c9 AFASTAR AS PESSOAS, \u00c9 JUNTAR E AGREGAR IDEIA. N\u00e3o \u00e9 o que elas fazem, elas USAM PRA ATACAR. Isso, s\u00f3 cria um apartheid, segrega\u00e7\u00e3o, elas est\u00e3o chutando quem n\u00e3o est\u00e1 com elas.\u201d\n\nBABU ESCLARENDO A CABE\u00c7A DE PRIOR SOBRE AS MENINAS. #bbb20 https://t.co/8WDvJUgZqJ",
+        "Babu: \"E \u00e9 o que eu t\u00f4 te falando, n\u00e3o foi nesse contexto de a mulher t\u00e1 errada, foi no contexto dos dois, eu falei 'cara, parem de ficar se expondo'.\"\nThelma: Ent\u00e3o, mas da forma como voc\u00ea falou, abre precedente pra tipo a mulher t\u00e1 errada, a culpa \u00e9 sua.\" #BBB20 https://t.co/ZNVOCmdgIb",
+        "Em rela\u00e7\u00e3o a Marcela \nPra mim agora ela s\u00f3 tem 2 trabalhos:\n\n- sair do bbb\n- e levar esse macho junto  #BBB20 https://t.co/0afUcXQSqJ",
+        "e cabe ao babu ser o proximo lider",
+        "Nao acredito que a Ana Maria representou o twitter inteiro apenas com um olhar #bbb20 https://t.co/FIzUAifwoW",
+        "O Q me incomoda no Babu \u00e9 q o bonito do prior tem a mesma situa\u00e7\u00e3o financeira q Manu e nem por isso \u00e9 julgado por Babu.\nJ\u00e1 a Manu \u00e9 chamada de patricinha por ele.\n\n\u00c9 isso q me incomoda.\nFim!\n#BBB20",
+        "o rafael portugal \u00e9 o funcion\u00e1rio que passa o dia no twitter vendo oq a gente ta achando pra ir meter a boca em rede nacional e falar tudo kkkkkkkkkk e ele faz TUDO #BBB20 #BBBB2O\nhttps://t.co/M3zy57E458",
+        "@duuhads6 Eu acho que ele n\u00e3o estava procurando favoritismo, acho que ele est\u00e1 se despedindo na verdade. Uma oportunidade de divulgar o trabalho tb. Espero q ele n\u00e3o saia agora #foraguilherme #bbb20",
+        "Prior: \u201cDaniel, voc\u00ea t\u00e1 quase dando uma moto pro bbb de tanta estaleca que vc perdeu\u201d \n\nKkkk eu e td mundo concorda com o Prior #bbb20\n\n https://t.co/5aGLi7Py4z",
+        "REP\u00d3RTER: das \u00faltimas 9 edi\u00e7\u00f5es 7 foram ganhadoras mulheres, algum palpite do motivo Ana Maria?\nANA MARIA (rindo ironicamente): olha, motivos pra dar eu tenho v\u00e1rios m\u00e1s perante o entrevistado de hoje na mesa \u00e9 melhor eu me abster da resposta.\nSCR ANA MARIA KKK\n#BBB20 #MaisVoce https://t.co/l2Dv6mQhz3",
+        "Babu pra Thelma: \"...Se voc\u00ea como mulher achou isso um ato machista, te pe\u00e7o desculpa.\"\nThelma: \"\u00c9 o que eu te falei, as vezes a gente esquece de pensar o outro lado, entendeu. Esquece de olhar o outro lado.\" #BBB20 https://t.co/JWOql1H3HL",
+        "martinho lutero se preparando pra escrever as 95 teses contra a igreja cat\u00f3lica em 1517",
+        "eu votaria no guilherme mil vezes de novo #bbb20  https://t.co/lwlVQx3FSu",
+        "Meu despertador esperando dar a hora pra me acordar #BBB20 https://t.co/AsJIV7uSin",
+        "Depois de elimina\u00e7\u00e3o de Guilherme, Gabi promete: \"Eu vou ser uma nova pessoa, vou voltar a ser quem eu era, com o mesmo brilho no olhar\" \u2192 https://t.co/I4eayD0sMU #RedeBBB #BBB20 https://t.co/p4Uss0UXuq",
+        "\"Ainda bem que eu n\u00e3o me apaixonei nesse programa\"\n\nDa\u00ed a edi\u00e7\u00e3o coloca esse gif\n\nSOCORROOO #BBB20 https://t.co/jq0dwAPCjZ",
+        "se for\u00e7ar mais, caga",
+        "Marcela dizendo que colocaria o Babu no VIP pra arrumar a cozinha.. \n #BBB20 \n\n https://t.co/RDTKqsgxHB",
+        "Prior acaba de dizer q se Gabi estava sofrendo deveria sofre calada, resolver entre os dois \nVai Brasil defende esse machista \n#BBB20 https://t.co/D3HB1DuuHl",
+        "KKKKKK MAIOR CHACOTA DO DE FERIAS COM O EX. namorou o LIPE. KKKKKKKK NAO DEVE ESPERAR MENOS\n\n#BBB20",
+        "martinho lutero se preparando pra escrever as 95 teses contra a igreja cat\u00f3lica em 1517 https://t.co/9KS83pmIxj",
+        "Babu pra Thelma: \"...Se voc\u00ea como mulher achou isso um ato machista, te pe\u00e7o desculpa.\"\nThelma: \"\u00c9 o que eu te falei, as vezes a gente esquece de pensar o outro lado, entendeu. Esquece de olhar o outro lado.\" #BBB20 https://t.co/JWOql1H3HL",
+        "N\u00e3o \u00e9 pq eu gosto da Gizelly que eu tenho que necessariamente gostar das pessoas que est\u00e3o do lado dela. Mas se for a Thelma tudo bem, o resto que lutem! #BBB20",
+        "ai obrigada BRASIL",
+        "Macho defendendo macho e tentando colocar mulher de maluca. A hist\u00f3ria se repete porque eles sempre acham que tem a raz\u00e3o. Se algum homem ganhar esse bbb, todo exemplo de feminismo que a gente viu nessa edi\u00e7\u00e3o vai por \u00e1gua a baixo. Esse cara n\u00e3o \u00e9 v\u00edtima!",
+        "Nao acredito que a Ana Maria representou o twitter inteiro apenas com um olhar #bbb20 https://t.co/FIzUAifwoW",
+        "daniel falando q n\u00e3o consegue ver a imagem do babu no vip \n\npq ser\u00e1 n\u00e9? Esse grupinho \u00e9 nojento",
+        "Prior acaba de dizer q se Gabi estava sofrendo deveria sofre calada, resolver entre os dois \nVai Brasil defende esse machista \n#BBB20 https://t.co/D3HB1DuuHl",
+        "Pessoas que cresceram a vida toda com tudo em m\u00e3os n\u00e3o v\u00e3o entender nunca um homem que sabe o valor da comida discutir por ela, e a partir disso ridicularizam sempre que podem a conduta dele. Esse \u00e9 o retrato de quem voc\u00eas escolhem como favoritos: militantes sim, racistas mais.",
+        "A gente passa 5 anos estudando pra vir um idiota que fez um curso de 1 ano com um outro idiota qualquer pra dizer que hipnose cura depress\u00e3o, VH pela primeira vez foi sensato na fala dele pq ele \u00e9 PSIC\u00d3LOGO, se foi surto foi um surto de sensatez.",
+        "Gizelly: \"Do mesmo jeito que voc\u00ea pode andar sem camisa, eu posso andar com decote\u201d \n\nNA CARA SIM GIZELLY PODE ESTRAGAR O VEL\u00d3RIO #BBB20 https://t.co/YhUpVL0Vh9",
+        "Tudo que eu quero \u00e9 um pared\u00e3o duplo sendo ele Thelma x Daniel. Com o Tiago perguntando o todos quem eles preferem que fique \n #BBB20 https://t.co/yqyUEGlbFa",
+        "A conversa de Thelma com Babu mais cedo e de Gizelly com Babu e Prior agora foram muito boas para eles todos como pessoas e para o jogo. Gosto da Gizelly mais solta, longe da Marcela. E esse movimento pode mudar a vis\u00e3o do Babu sobre ela, que n\u00e3o \u00e9 boa. #BBB20",
+        "Daniel: \u201c Eu quero ir pro pared\u00e3o com a thelma.\u201d \n\nTwitter: \n #BBB20 https://t.co/7O2Thh4XCS",
+        "O jeito que a Ana Maria fala \u201cA\u00c9??\u201d E d\u00e1 uma risada debochada \u00e9 DIFERENTE\n\nTUDO PRA MIM Obrigada \u00edcone por transformar um caf\u00e9 da manh\u00e3 em janta #MaisVoce #BBB20 https://t.co/z6t2TuEk8c",
+        "O Daniel s\u00f3 vai para o pared\u00e3o com a indica\u00e7\u00e3o do l\u00edder porque a casa ainda n\u00e3o acordou para a chatice desse guri no programa. O l\u00edder tem que ser algu\u00e9m que n\u00e3o gosta do Daniel. #bbb20 https://t.co/gkHmnj8xz2",
+        "Ivy: \"Thelminha porque eu acho ela um pouco mais apagadinha do jeitinho dela\"\nMarcela: \"Ela era minha op\u00e7\u00e3o de p\u00f3dio, mas as coisas mudam\"\n\nComo essa Marcela \u00e9 previs\u00edvel, hein?! Surreal! E os vidraceiros continuam com essa persegui\u00e7\u00e3o a Thelma #BBB20\nhttps://t.co/LSCuPhlySP",
+        "Ainda bem q esse l\u00edder j\u00e1 acaba amanh\u00e3 \ud83d\ude4f Acho q nem vou torcer pra Gizelly pegar, prefiro a Thelma. Quero a Gi longe desse quarto com certas pessoas\n#BBB20",
+        "Ivy chamando a Thelma de apagadinha. E a Marcela falando que ela era p\u00f3dio dela mas as coisas mudam.\n\n\u00c9 aquilo n\u00e9.. Thelma n\u00e3o \u00e9 puxa saco de ningu\u00e9m #BBB20",
+        "\u201cquando a gente come\u00e7ou a torcer pro prior?\u201d\n\neu nao sei vcs mas eu nunca!!! #bbb20",
+        "Marcela: \u201cTraria o Babu pro vip pra arrumar a cozinha\u201d \u201cEle n\u00e3o t\u00e1 merecendo n\u00e3o\u201d fada racista e prepotente que chama n\u00e9? #BBB20 \n\n https://t.co/iYO6kCRJTj",
+        "Ela \u00e9 mt maravilhosa #BBB20 #TeamGizelly ,",
+        "@hollygreen0 @vaidesmaiar Foi a \u00fanica pergunta que gostei, a do Louro Jos\u00e9 ... todas deveriam ter sido assim, uma pena, esperava mais da Ana Maria que passou pano geral #anamariabraga #bbb20",
+        "Milagre ele discutindo sem mandar ngm se fuder \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+        "Prior: Se Pyong me propusesse um jogo, toparia, n\u00e3o \u00e9 feio o q ele faz estamos num jogo, Tiago diz p fugir do pared\u00e3o! Se ele me chamar p um jogo q me livre do pared\u00e3o, vou querer. Tenho problema com ningu\u00e9m aqui! \n\nuai prior mas num \u00e9 voc\u00ea que tanto critica e julga pyong? #BBB20",
+        "nunca me senti t\u00e3o mal com uma conversa",
+        "uiii.... pega na minha xana",
+        "louro jos\u00e9 fazendo sua refei\u00e7\u00e3o ao vivo do guilherme kkkkkkkkkkk amo\n\n\u201cMAS VC N\u00c3O ACHA QUE D\u00c1 UMA FOR\u00c7ADA DE BARRAS AS VEZES N\u00c3O?\u201d\n\n#BBB20 #RedeBBB #MaisVoce https://t.co/LzDVjaqLpY",
+        "o rafael portugal \u00e9 o funcion\u00e1rio que passa o dia no twitter vendo oq a gente ta achando pra ir meter a boca em rede nacional e falar tudo kkkkkkkkkk e ele faz TUDO #BBB20 #BBBB2O\nhttps://t.co/M3zy57E458",
+        "Macho defendendo macho e tentando colocar mulher de maluca. A hist\u00f3ria se repete porque eles sempre acham que tem a raz\u00e3o. Se algum homem ganhar esse bbb, todo exemplo de feminismo que a gente viu nessa edi\u00e7\u00e3o vai por \u00e1gua a baixo. Esse cara n\u00e3o \u00e9 v\u00edtima!",
+        "que \u00f3dio dessa mulher nojenta",
+        "BABU N\u00c3O \u00c9 ESCRAVO #BBB20",
+        "esse tipo de coisa que eu falo sobre tirar do contexto... na xepa ou no vip o Babu \"comanda\" a cozinha e sempre reclama se esta desorganizado, obviamente foi nesse contexto que ela quis dizer e n\u00e3o que ele tem que arrumar por ser negro",
+        "A leveza da Boca Rosa pra lidar com os pr\u00f3prios vacilos e os vacilos dos outros \u00e9 inspiradora \ud83d\udc4f",
+        "nossa que PODRE. como que uma pessoa pode falar algo assim e achar normal? e NINGUEM diz nada???",
+        "martinho lutero se preparando pra escrever as 95 teses contra a igreja cat\u00f3lica em 1517",
+        "o rafael portugal \u00e9 o funcion\u00e1rio que passa o dia no twitter vendo oq a gente ta achando pra ir meter a boca em rede nacional e falar tudo kkkkkkkkkk e ele faz TUDO #BBB20 #BBBB2O\nhttps://t.co/M3zy57E458",
+        "que vontade de tacar fogo no Quarteto KKK",
+        "\u00e9 s\u00e9rio, t\u00e1 na hora dessa menina sair. n\u00e3o por expuls\u00e3o, ou qualquer coisa do tipo, pelo bem da sa\u00fade mental dela eu queria MUITO que ela pedisse pra sair, eu imagino a fam\u00edlia e amigos dela vendo isso, \u00e9 doentio. chega. ela precisa sair da\u00ed.",
+        "martinho lutero se preparando pra escrever as 95 teses contra a igreja cat\u00f3lica em 1517",
+        "Daniel tem atitudes que deveriam ser repensadas, ele diz:\n\n\"Thelma n\u00e3o tem cara de m\u00e9dica\"\n\n\"N\u00e3o vejo Babu no vip, s\u00f3 l\u00e1 (xepa)\"\n\n\"Ser\u00e1 que a THELMA n\u00e3o t\u00e1 se aproveitando pq sabe que voc\u00ea (Marcela) \u00e9 a favorita?\"\n\nPq ele n\u00e3o \u00e9 assim com prior que sempre briga com ele? #BBB20",
+        "Queria um pared\u00e3o\n\n Thelma x Daniel\n\nThelma x Ivy \n\nPra eles verem o quanto ela \u00e9 \"apagadinha\"\n\n#BBB20",
+        "BOM DIAAAAA vc que ainda quer completar esse \u00e1lbum \n#BBB #BBB20 https://t.co/xb2DYcLkNv",
+        "\"mAs eLE gRItOu pORRA\" Maluco n sabe oq \u00e9 passar dificuldade, racionar comida, dividir igual pra todo mundo, respeitar coletividade, gasta dinheiro por burrice\nE reclama de um xingo\nSe eu visse q tinha comido meus miojo tinha era gritado um DISGRA\u00c7A pra ele ficar surdo 3 dias",
+        "Thelma sempre acreditou e nunca questionou as meninas sobre o plano dos machos, mesmo sem ter informa\u00e7\u00f5es de fora. Que \u00e9 sensata, sem medo de se posicionar, que esmurrou o macho escroto, que \u00e9 amiga de verdade. Sim, voc\u00ea t\u00e1 no meu p\u00f3dio e pode contar comigo pra tudo \u2764 #BBB20 https://t.co/RJORhC4k2G",
+        "A gente passa 5 anos estudando pra vir um idiota que fez um curso de 1 ano com um outro idiota qualquer pra dizer que hipnose cura depress\u00e3o, VH pela primeira vez foi sensato na fala dele pq ele \u00e9 PSIC\u00d3LOGO, se foi surto foi um surto de sensatez.",
+        "Agora a hora da verdade! Gizelly entrou!\n\n#BBB20",
+        "Gizelly: \"Do mesmo jeito que voc\u00ea pode andar sem camisa, eu posso andar com decote\u201d \n\nNA CARA SIM GIZELLY PODE ESTRAGAR O VEL\u00d3RIO #BBB20 https://t.co/YhUpVL0Vh9",
+        "Ces lembram quando o Hadson falou que ia deixar as mulheres na xepa pra passarem fome e rolou toooooda uma revolta no Twitter? \nEnt\u00e3o, a fada sensata t\u00e1 fazendo PIOR. E agora? #bbb20",
+        "Concordo! O Prior andando l\u00e1 no fundo.",
+        "Gizelly: \"Do mesmo jeito que voc\u00ea pode andar sem camisa, eu posso andar com decote\u201d \n\nNA CARA SIM GIZELLY PODE ESTRAGAR O VEL\u00d3RIO #BBB20 https://t.co/YhUpVL0Vh9",
+        "Babu: \u201cMILITAR \u00e9 o seguinte, N\u00c3O \u00c9 AFASTAR AS PESSOAS, \u00c9 JUNTAR E AGREGAR IDEIA. N\u00e3o \u00e9 o que elas fazem, elas USAM PRA ATACAR. Isso, s\u00f3 cria um apartheid, segrega\u00e7\u00e3o, elas est\u00e3o chutando quem n\u00e3o est\u00e1 com elas.\u201d\n\nBABU ESCLARENDO A CABE\u00c7A DE PRIOR SOBRE AS MENINAS. #bbb20 https://t.co/8WDvJUgZqJ",
+        "martinho lutero se preparando pra escrever as 95 teses contra a igreja cat\u00f3lica em 1517",
+        "gente alguem manda a giselly parar de passar vergonha",
+        "Em rela\u00e7\u00e3o a Marcela \nPra mim agora ela s\u00f3 tem 2 trabalhos:\n\n- sair do bbb\n- e levar esse macho junto  #BBB20 https://t.co/2GcoIPeYKI",
+        "A conversa continua e quem a\u00ed t\u00e1 acompanhando? #BBB20 https://t.co/lPYpJFVmD2",
+        "Mas quando o babu vivia reclamando dos olhares de patroa/racista da marcela, todos falavam que era drama dele n\u00e9..",
+        "Prior acaba de dizer q se Gabi estava sofrendo deveria sofre calada, resolver entre os dois \nVai Brasil defende esse machista \n#BBB20 https://t.co/D3HB1DuuHl",
+        "Thelma explicando pro Babu todos os motivos, al\u00e9m do relacionamento dele com Gabi, de Guilherme ter sa\u00eddo:\n\n#BBB20\nhttps://t.co/wH7IF7C5w2",
+        "vai por mim, Florian\u00f3polis n\u00e3o te odeia. A gente tem \u00e9 vergonha do Lucas! (Tem gente legal pra caramba em floripa, eu juro!)",
+        "Resumo da discuss\u00e3o:\n\nPrior: Ela pode ter prejudicado ele, sim\n\nMeninas: CARA, ISSO \u00c9 PERIGOSO, N\u00c3O FALA ISSO!\n\nPrior: Falar o qu\u00ea?\n\nMeninas: Falou que a Gabi pode ter prejudicado o Gui.\n\nPrior: EU NUNCA DISSE ISSO! #BBB20",
+        "Thelma disse q Prior n \u00e9 nem a segunda op\u00e7\u00e3o de voto dela.\n\nu\u00e9, depois da Flay, em quem ela vota? Mari? VH? #bbb20 \n\nduvido q seja vdd...",
+        "Guilherme sendo eliminado ao som de man down numa boate do Esp\u00edrito Santo \u00e9 TUDO que eu precisava ver hoje \n #bbb20 https://t.co/p7D1zjY1fG",
+        "Nao acredito que a Ana Maria representou o twitter inteiro apenas com um olhar #bbb20 https://t.co/FIzUAifwoW",
+        "fui hipnotizada pelo pyong gra\u00e7as a deus minha depress\u00e3o foi curada \ud83d\ude4c\ud83d\ude4c\ud83d\ude4c\ud83d\ude4c\ud83d\ude4c\ud83d\ude4c\ud83d\ude4c\ud83d\ude4c\ud83d\ude4c\ud83d\ude4c\ud83d\ude4c\ud83d\ude4c",
+        "Pessoas que cresceram a vida toda com tudo em m\u00e3os n\u00e3o v\u00e3o entender nunca um homem que sabe o valor da comida discutir por ela, e a partir disso ridicularizam sempre que podem a conduta dele. Esse \u00e9 o retrato de quem voc\u00eas escolhem como favoritos: militantes sim, racistas mais. https://t.co/NLotPvg5IB",
+        "Gizelly foi cozinhar, deixou Thelma de resenha com os meninos #BBB20 #RedeBBB",
+        "#BBB20 Eu n\u00e3o aguento mais abrir o ppv e ver essas plantas irrelevantes for\u00e7ando meme e com sorrisinho no rosto, n\u00e3o vejo a hora de alguma planta daquela cair no pared\u00e3o com o Prior.. https://t.co/Np9JXP47cR",
+        "Bel\u00e9m do Par\u00e1 reagindo a Gizelly ficando \u2764 #BBB20 https://t.co/wzVcJ4OazR https://t.co/BKFYUMPDll",
+        "louro jos\u00e9 fazendo sua refei\u00e7\u00e3o ao vivo do guilherme kkkkkkkkkkk amo\n\n\u201cMAS VC N\u00c3O ACHA QUE D\u00c1 UMA FOR\u00c7ADA DE BARRAS AS VEZES N\u00c3O?\u201d\n\n#BBB20 #RedeBBB #MaisVoce https://t.co/LzDVjaqLpY",
+        "Minha final #bbb20 https://t.co/1msQhbqBBJ",
+        "gizelly falando que achava que era ela que iria sair, eu t\u00f4 rindo muito  KKKKKKKKKKKKKKKKK #BBB20 https://t.co/XC7IeV8tyG",
+        "pyong perfeito explicando o jogo sujo do guilherme e falando pra gabi que ela n\u00e3o tem culpa de nada, enquanto os outros como a flay , mari, babu, vh e prior colocam culpa na menina e defendendo o guilherme. \n\n#BBB20 https://t.co/htFVvpaANI",
+        "Pyong falando pra Thelma conversar com o Babu pra ele deixar o Prior sozinho. \"Prior acabou\" disse ele. Isso ao mesmo tempo que me d\u00f3i me deixa muito forte pra votar in\u00fameras vezes, tenho certeza de que nossa torcida nunca o deixar\u00e1 sozinho.\n\n#BBB20 #RedeBBB",
+        "Maria julia chorando quando quer comover alguem pra fazer o que ela quer",
+        "o ross ta diferente",
+        "Prior acaba de dizer q se Gabi estava sofrendo deveria sofre calada, resolver entre os dois \nVai Brasil defende esse machista \n#BBB20 https://t.co/D3HB1DuuHl",
+        "Exemplo claro em rede nacional de como um \"amor\" pode apagar seu brilho\n\n#BBB20 https://t.co/cVui087uiX",
+        "Marcela fazendo um coment\u00e1rio absurdo sobre o Babu: ''Traria o Babu pro vip pra arrumar a cozinha''. #bbb20  https://t.co/zKZqZaiKvo",
+        "fada sensata do feminismo \ud83d\ude0d",
+        "Favoritos UOL: Prior, Pyong, Rafa e Gizelly. Quem ganha? #BBB20",
+        "ele n\u00e3o deixou nada pra mim #BBB20 https://t.co/Fp8izVgoNm",
+        "t\u00e1 rolando um estresse generalizado entre Felipe, Manu e Rafa! #BBB20 #RedeBBB https://t.co/qLI6vlGyht",
+        "BABU NAO E ESCRAVO sua dondoca do diabo https://t.co/dulFjfSAOA",
+        "o rafael portugal \u00e9 o funcion\u00e1rio que passa o dia no twitter vendo oq a gente ta achando pra ir meter a boca em rede nacional e falar tudo kkkkkkkkkk e ele faz TUDO #BBB20 #BBBB2O\nhttps://t.co/M3zy57E458",
+        "FAKE! O Brasil s\u00f3 tem 220 milh\u00f5es de pessoas, como que fizeram 311 milh\u00f5es de votos?",
+        "Guilherme jogando a culpa na Gabi e nos traumas dela, por isso toda a inseguran\u00e7a. Ele n\u00e3o presta MESMO, fico muito feliz que a Gabi tenha se livrado dele l\u00e1 dentro #BBB20 #maisvoc\u00ea",
+        "eu amo a rela\u00e7\u00e3o deles. e como apesar de ser um cara de 40 anos, que poderia simplesmente dizer \"n\u00e3o vou mudar minhas id\u00e9ias pq sou um cara de outro tempo\", babu para e escuta o que thelma tem pra dizer. ele cala a boca e escuta. e \u00e9 assim que a gente aprende.",
+        "o ross ta diferente",
+        "Guilherme trocando o nome da Gabi pelo da Bianca kkkkkkkkkkkkkkkkkkkk meu deus ele nem disfar\u00e7a #bbb20 https://t.co/FCRfUsIscJ",
+        "O Daniel s\u00f3 vai para o pared\u00e3o com a indica\u00e7\u00e3o do l\u00edder porque a casa ainda n\u00e3o acordou para a chatice desse guri no programa. O l\u00edder tem que ser algu\u00e9m que n\u00e3o gosta do Daniel. #bbb20 https://t.co/gkHmnj8xz2",
+        "FAKE! O Brasil s\u00f3 tem 220 milh\u00f5es de pessoas, como que fizeram 311 milh\u00f5es de votos?",
+        "daniel: A \n\no twitter:     #BBB20  https://t.co/KhE5VoiIkB",
+        "Uma festa em rg com elimina\u00e7\u00e3o ao vivo \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d sonho",
+        "Prior acaba de dizer q se Gabi estava sofrendo deveria sofre calada, resolver entre os dois \nVai Brasil defende esse machista \n#BBB20 https://t.co/D3HB1DuuHl",
+        "Babu pra Thelma: \"...Se voc\u00ea como mulher achou isso um ato machista, te pe\u00e7o desculpa.\"\nThelma: \"\u00c9 o que eu te falei, as vezes a gente esquece de pensar o outro lado, entendeu. Esquece de olhar o outro lado.\" #BBB20 https://t.co/JWOql1H3HL",
+        "Exemplo claro em rede nacional de como um \"amor\" pode apagar seu brilho\n\n#BBB20 https://t.co/cVui087uiX",
+        "Bel\u00e9m do Par\u00e1 reagindo a Gizelly ficando \u2764 #BBB20 https://t.co/BKFYUMPDll",
+        "n\u00e3o acredito, n vi essa parte, vi apenas a flay falando bem dele na sala, porra prior",
+        "Babu pra Thelma: \"...Se voc\u00ea como mulher achou isso um ato machista, te pe\u00e7o desculpa.\"\nThelma: \"\u00c9 o que eu te falei, as vezes a gente esquece de pensar o outro lado, entendeu. Esquece de olhar o outro lado.\" #BBB20 https://t.co/JWOql1H3HL",
+        "martinho lutero se preparando pra escrever as 95 teses contra a igreja cat\u00f3lica em 1517",
+        "@forumpandlr 2\u00b0 - Marcela n\u00e3o riu da merda que o daniel falou. Ela j\u00e1 fez muita merda mas isso ela n\u00e39 fez. #BBB20",
+        "A gente passa 5 anos estudando pra vir um idiota que fez um curso de 1 ano com um outro idiota qualquer pra dizer que hipnose cura depress\u00e3o, VH pela primeira vez foi sensato na fala dele pq ele \u00e9 PSIC\u00d3LOGO, se foi surto foi um surto de sensatez.",
+        "Ontem ap\u00f3s a elimina\u00e7\u00e3o, Daniel decidiu colecionar mais um absurdo: ''Eu n\u00e3o vejo a imagem do Babu aqui no VIP, vejo l\u00e1 (xepa)''. Quanta ignor\u00e2ncia desse mimado e Marcela ainda riu do que ele falou. #bbb20 https://t.co/UYlgBmVpxL",
+        "Quem t\u00e1 l\u00e1 dentro n\u00e3o tem no\u00e7\u00e3o do quanto a Thelminha \u00e9 forte aqui fora. \n\nUm pared\u00e3o com Thelma x Daniel seria perfeito. Thelminha ia destro\u00e7ar o rato, q iria sair com recorde de rejei\u00e7\u00e3o\n\nMarcela entraria em choque e ainda tentaria se reaproximar da Thelma por interesse #bbb20 https://t.co/4gA1R6RbnA",
+        "Daniel: \u201c Eu quero ir pro pared\u00e3o com a thelma.\u201d \n\nTwitter: \n #BBB20 https://t.co/7O2Thh4XCS",
+        "Mari contando a hist\u00f3ria de quando a m\u00e3e descobriu que ela tinha perdido a virgindade.\n\n\"ALFREDO, MARIANA DEU\" EU TO MORRENDO KKKKKKKKKKK #BBB20 https://t.co/oK0jqK4nbO",
+        "A gente passa 5 anos estudando pra vir um idiota que fez um curso de 1 ano com um outro idiota qualquer pra dizer que hipnose cura depress\u00e3o, VH pela primeira vez foi sensato na fala dele pq ele \u00e9 PSIC\u00d3LOGO, se foi surto foi um surto de sensatez.",
+        "Meu filho \u00e9 a estrela dessa edi\u00e7\u00e3o e eu posso provar @felipeprior vc \u00e9 sim o dono da edi\u00e7\u00e3o o dono da porra toda aturem ou surtem porque ele \u00e9 o dono dos vts e veremos muito mais adorooo \ud83e\udd70\ud83c\udf7a#bbb20 https://t.co/lqBKDZBVfC",
+        "Guilherme trocando o nome da Gabi pelo da Bianca kkkkkkkkkkkkkkkkkkkk meu deus ele nem disfar\u00e7a #bbb20 https://t.co/FCRfUsIscJ",
+        "Eu acho a Thelma uma pessoa t\u00e3o sensacional, n\u00e3o consigo entender como esse povo consegue descartar ela assim ou n\u00e3o formar uma dupla incr\u00edvel com ela, s\u00e9rio, ela precisa voltar de um pared\u00e3o pra mostrar pra esse povo que a realidade dela aqui com o p\u00fablico \u00e9 bem diferente #BBB20",
+        "Guilherme trocando o nome da Gabi pelo da Bianca kkkkkkkkkkkkkkkkkkkk meu deus ele nem disfar\u00e7a #bbb20 https://t.co/FCRfUsIscJ",
+        "L\u00edder pode receber monstro? #BBB20",
+        "Eu aposto que a Gi e o Prior se pegam hoje na festa por inciativa da Gi e eles v\u00e3o virar o casalzinho shipp daqui do tt #BBB20",
+        "Bando de miliTONTA escrota\n\nBABU N\u00c3O \u00c9 ESCRAVO!!!!\n\n#RedeBBB #BBB20 https://t.co/jcOflVG50y",
+        "Em rela\u00e7\u00e3o a Marcela \nPra mim agora ela s\u00f3 tem 2 trabalhos:\n\n- sair do bbb\n- e levar esse macho junto  #BBB20 https://t.co/0afUcXQSqJ",
+        "Macho defendendo macho e tentando colocar mulher de maluca. A hist\u00f3ria se repete porque eles sempre acham que tem a raz\u00e3o. Se algum homem ganhar esse bbb, todo exemplo de feminismo que a gente viu nessa edi\u00e7\u00e3o vai por \u00e1gua a baixo. Esse cara n\u00e3o \u00e9 v\u00edtima!",
+        "martinho lutero se preparando pra escrever as 95 teses contra a igreja cat\u00f3lica em 1517",
+        "Pessoas que cresceram a vida toda com tudo em m\u00e3os n\u00e3o v\u00e3o entender nunca um homem que sabe o valor da comida discutir por ela, e a partir disso ridicularizam sempre que podem a conduta dele. Esse \u00e9 o retrato de quem voc\u00eas escolhem como favoritos: militantes sim, racistas mais.",
+        "s\u00f3 lembro dele falando sobre os olhares",
+        "Babu: \u201cMILITAR \u00e9 o seguinte, N\u00c3O \u00c9 AFASTAR AS PESSOAS, \u00c9 JUNTAR E AGREGAR IDEIA. N\u00e3o \u00e9 o que elas fazem, elas USAM PRA ATACAR. Isso, s\u00f3 cria um apartheid, segrega\u00e7\u00e3o, elas est\u00e3o chutando quem n\u00e3o est\u00e1 com elas.\u201d\n\nBABU ESCLARENDO A CABE\u00c7A DE PRIOR SOBRE AS MENINAS. #bbb20 https://t.co/8WDvJUgZqJ",
+        "GIZELLY ME AJUDA A TE DEFENDER POR FAVOR",
+        "Marcela, Gizelly, Manuella, Rafaella, Ivy e Thelma s\u00e3o mulheres que defenderam um ASSEDIADOR. Portanto n\u00e3o podem usar como card MACHISMO nunca mais em suas vidas! E todas as vezes que falarem ser\u00e3o invalidadas!! Elas s\u00f3 enxergam homens machistas quando conv\u00e9m! #BBB20",
+        "\u201cNa sua situa\u00e7\u00e3o com a Bianca, se fosse o contr\u00e1rio? Se fosse a Gabi tendo a mesma postura que voc\u00ea? Porque assim, temos que nos colocar no lugar do outro. Acredito que te daria inseguran\u00e7a.\u201d\n\nAna Maria 100000 x Gui 0 \n#BBB20 #MaisVoce",
+        "estava comentando ontem com a minha irma, a thelma vai ser campe\u00e3 simplesmente por ser a \u00fanica n\u00e3o ter errado e n\u00e3o ter sido cancelada. n\u00e3o tem motivo pra N\u00c3O darem o pr\u00eamio pra ela #BBB20"
+    ],
+    "timestamp": [
+        "04-Mar-2020-16:53:30.000000",
+        "04-Mar-2020-16:53:30.000000",
+        "04-Mar-2020-16:53:30.000000",
+        "04-Mar-2020-16:53:30.000000",
+        "04-Mar-2020-16:53:30.000000",
+        "04-Mar-2020-16:53:30.000000",
+        "04-Mar-2020-16:53:30.000000",
+        "04-Mar-2020-16:53:30.000000",
+        "04-Mar-2020-16:53:30.000000",
+        "04-Mar-2020-16:53:30.000000",
+        "04-Mar-2020-16:53:31.000000",
+        "04-Mar-2020-16:53:31.000000",
+        "04-Mar-2020-16:53:31.000000",
+        "04-Mar-2020-16:53:31.000000",
+        "04-Mar-2020-16:53:31.000000",
+        "04-Mar-2020-16:53:31.000000",
+        "04-Mar-2020-16:53:31.000000",
+        "04-Mar-2020-16:53:31.000000",
+        "04-Mar-2020-16:53:31.000000",
+        "04-Mar-2020-16:53:31.000000",
+        "04-Mar-2020-16:53:31.000000",
+        "04-Mar-2020-16:53:31.000000",
+        "04-Mar-2020-16:53:31.000000",
+        "04-Mar-2020-16:53:31.000000",
+        "04-Mar-2020-16:53:31.000000",
+        "04-Mar-2020-16:53:32.000000",
+        "04-Mar-2020-16:53:32.000000",
+        "04-Mar-2020-16:53:32.000000",
+        "04-Mar-2020-16:53:32.000000",
+        "04-Mar-2020-16:53:32.000000",
+        "04-Mar-2020-16:53:32.000000",
+        "04-Mar-2020-16:53:32.000000",
+        "04-Mar-2020-16:53:32.000000",
+        "04-Mar-2020-16:53:32.000000",
+        "04-Mar-2020-16:53:32.000000",
+        "04-Mar-2020-16:53:32.000000",
+        "04-Mar-2020-16:53:32.000000",
+        "04-Mar-2020-16:53:32.000000",
+        "04-Mar-2020-16:53:32.000000",
+        "04-Mar-2020-16:53:33.000000",
+        "04-Mar-2020-16:53:33.000000",
+        "04-Mar-2020-16:53:33.000000",
+        "04-Mar-2020-16:53:33.000000",
+        "04-Mar-2020-16:53:33.000000",
+        "04-Mar-2020-16:53:33.000000",
+        "04-Mar-2020-16:53:33.000000",
+        "04-Mar-2020-16:53:33.000000",
+        "04-Mar-2020-16:53:33.000000",
+        "04-Mar-2020-16:53:33.000000",
+        "04-Mar-2020-16:53:33.000000",
+        "04-Mar-2020-16:53:33.000000",
+        "04-Mar-2020-16:53:33.000000",
+        "04-Mar-2020-16:53:33.000000",
+        "04-Mar-2020-16:53:33.000000",
+        "04-Mar-2020-16:53:33.000000",
+        "04-Mar-2020-16:53:34.000000",
+        "04-Mar-2020-16:53:34.000000",
+        "04-Mar-2020-16:53:34.000000",
+        "04-Mar-2020-16:53:34.000000",
+        "04-Mar-2020-16:53:34.000000",
+        "04-Mar-2020-16:53:34.000000",
+        "04-Mar-2020-16:53:34.000000",
+        "04-Mar-2020-16:53:34.000000",
+        "04-Mar-2020-16:53:34.000000",
+        "04-Mar-2020-16:53:34.000000",
+        "04-Mar-2020-16:53:34.000000",
+        "04-Mar-2020-16:53:34.000000",
+        "04-Mar-2020-16:53:34.000000",
+        "04-Mar-2020-16:53:35.000000",
+        "04-Mar-2020-16:53:35.000000",
+        "04-Mar-2020-16:53:35.000000",
+        "04-Mar-2020-16:53:35.000000",
+        "04-Mar-2020-16:53:35.000000",
+        "04-Mar-2020-16:53:35.000000",
+        "04-Mar-2020-16:53:35.000000",
+        "04-Mar-2020-16:53:35.000000",
+        "04-Mar-2020-16:53:36.000000",
+        "04-Mar-2020-16:53:36.000000",
+        "04-Mar-2020-16:53:36.000000",
+        "04-Mar-2020-16:53:36.000000",
+        "04-Mar-2020-16:53:36.000000",
+        "04-Mar-2020-16:53:36.000000",
+        "04-Mar-2020-16:53:36.000000",
+        "04-Mar-2020-16:53:36.000000",
+        "04-Mar-2020-16:53:36.000000",
+        "04-Mar-2020-16:53:36.000000",
+        "04-Mar-2020-16:53:36.000000",
+        "04-Mar-2020-16:53:37.000000",
+        "04-Mar-2020-16:53:37.000000",
+        "04-Mar-2020-16:53:37.000000",
+        "04-Mar-2020-16:53:37.000000",
+        "04-Mar-2020-16:53:37.000000",
+        "04-Mar-2020-16:53:37.000000",
+        "04-Mar-2020-16:53:37.000000",
+        "04-Mar-2020-16:53:37.000000",
+        "04-Mar-2020-16:53:38.000000",
+        "04-Mar-2020-16:53:38.000000",
+        "04-Mar-2020-16:53:38.000000",
+        "04-Mar-2020-16:53:38.000000",
+        "04-Mar-2020-16:53:38.000000",
+        "04-Mar-2020-16:53:38.000000",
+        "04-Mar-2020-16:53:38.000000",
+        "04-Mar-2020-16:53:38.000000",
+        "04-Mar-2020-16:53:38.000000",
+        "04-Mar-2020-16:53:38.000000",
+        "04-Mar-2020-16:53:38.000000",
+        "04-Mar-2020-16:53:38.000000",
+        "04-Mar-2020-16:53:39.000000",
+        "04-Mar-2020-16:53:39.000000",
+        "04-Mar-2020-16:53:39.000000",
+        "04-Mar-2020-16:53:39.000000",
+        "04-Mar-2020-16:53:39.000000",
+        "04-Mar-2020-16:53:39.000000",
+        "04-Mar-2020-16:53:39.000000",
+        "04-Mar-2020-16:53:39.000000",
+        "04-Mar-2020-16:53:39.000000",
+        "04-Mar-2020-16:53:39.000000",
+        "04-Mar-2020-16:53:40.000000",
+        "04-Mar-2020-16:53:39.000000",
+        "04-Mar-2020-16:53:40.000000",
+        "04-Mar-2020-16:53:40.000000",
+        "04-Mar-2020-16:53:40.000000",
+        "04-Mar-2020-16:53:40.000000",
+        "04-Mar-2020-16:53:40.000000",
+        "04-Mar-2020-16:53:40.000000",
+        "04-Mar-2020-16:53:40.000000",
+        "04-Mar-2020-16:53:40.000000",
+        "04-Mar-2020-16:53:40.000000",
+        "04-Mar-2020-16:53:40.000000",
+        "04-Mar-2020-16:53:40.000000",
+        "04-Mar-2020-16:53:40.000000",
+        "04-Mar-2020-16:53:41.000000",
+        "04-Mar-2020-16:53:41.000000",
+        "04-Mar-2020-16:53:41.000000",
+        "04-Mar-2020-16:53:41.000000",
+        "04-Mar-2020-16:53:41.000000",
+        "04-Mar-2020-16:53:41.000000",
+        "04-Mar-2020-16:53:41.000000",
+        "04-Mar-2020-16:53:41.000000",
+        "04-Mar-2020-16:53:41.000000",
+        "04-Mar-2020-16:53:41.000000",
+        "04-Mar-2020-16:53:41.000000",
+        "04-Mar-2020-16:53:41.000000",
+        "04-Mar-2020-16:53:41.000000",
+        "04-Mar-2020-16:53:41.000000",
+        "04-Mar-2020-16:53:42.000000",
+        "04-Mar-2020-16:53:42.000000",
+        "04-Mar-2020-16:53:42.000000",
+        "04-Mar-2020-16:53:42.000000",
+        "04-Mar-2020-16:53:42.000000",
+        "04-Mar-2020-16:53:42.000000",
+        "04-Mar-2020-16:53:42.000000",
+        "04-Mar-2020-16:53:42.000000",
+        "04-Mar-2020-16:53:42.000000",
+        "04-Mar-2020-16:53:42.000000",
+        "04-Mar-2020-16:53:42.000000",
+        "04-Mar-2020-16:53:43.000000",
+        "04-Mar-2020-16:53:43.000000",
+        "04-Mar-2020-16:53:43.000000",
+        "04-Mar-2020-16:53:43.000000",
+        "04-Mar-2020-16:53:43.000000",
+        "04-Mar-2020-16:53:43.000000",
+        "04-Mar-2020-16:53:43.000000",
+        "04-Mar-2020-16:53:43.000000",
+        "04-Mar-2020-16:53:43.000000",
+        "04-Mar-2020-16:53:43.000000",
+        "04-Mar-2020-16:53:43.000000",
+        "04-Mar-2020-16:53:43.000000",
+        "04-Mar-2020-16:53:43.000000",
+        "04-Mar-2020-16:53:44.000000",
+        "04-Mar-2020-16:53:44.000000",
+        "04-Mar-2020-16:53:44.000000",
+        "04-Mar-2020-16:53:44.000000",
+        "04-Mar-2020-16:53:44.000000",
+        "04-Mar-2020-16:53:44.000000",
+        "04-Mar-2020-16:53:45.000000",
+        "04-Mar-2020-16:53:45.000000",
+        "04-Mar-2020-16:53:45.000000",
+        "04-Mar-2020-16:53:45.000000",
+        "04-Mar-2020-16:53:45.000000",
+        "04-Mar-2020-16:53:45.000000",
+        "04-Mar-2020-16:53:45.000000",
+        "04-Mar-2020-16:53:45.000000",
+        "04-Mar-2020-16:53:45.000000",
+        "04-Mar-2020-16:53:45.000000",
+        "04-Mar-2020-16:53:45.000000",
+        "04-Mar-2020-16:53:46.000000",
+        "04-Mar-2020-16:53:46.000000",
+        "04-Mar-2020-16:53:46.000000",
+        "04-Mar-2020-16:53:46.000000",
+        "04-Mar-2020-16:53:46.000000",
+        "04-Mar-2020-16:53:46.000000",
+        "04-Mar-2020-16:53:46.000000",
+        "04-Mar-2020-16:53:46.000000",
+        "04-Mar-2020-16:53:47.000000",
+        "04-Mar-2020-16:53:47.000000",
+        "04-Mar-2020-16:53:47.000000",
+        "04-Mar-2020-16:53:47.000000",
+        "04-Mar-2020-16:53:47.000000",
+        "04-Mar-2020-16:53:47.000000",
+        "04-Mar-2020-16:53:48.000000",
+        "04-Mar-2020-16:53:48.000000",
+        "04-Mar-2020-16:53:48.000000",
+        "04-Mar-2020-16:53:48.000000",
+        "04-Mar-2020-16:53:48.000000",
+        "04-Mar-2020-16:53:48.000000",
+        "04-Mar-2020-16:53:48.000000",
+        "04-Mar-2020-16:53:48.000000",
+        "04-Mar-2020-16:53:48.000000",
+        "04-Mar-2020-16:53:48.000000",
+        "04-Mar-2020-16:53:48.000000",
+        "04-Mar-2020-16:53:49.000000",
+        "04-Mar-2020-16:53:49.000000",
+        "04-Mar-2020-16:53:49.000000",
+        "04-Mar-2020-16:53:49.000000",
+        "04-Mar-2020-16:53:49.000000",
+        "04-Mar-2020-16:53:49.000000",
+        "04-Mar-2020-16:53:49.000000",
+        "04-Mar-2020-16:53:49.000000",
+        "04-Mar-2020-16:53:49.000000",
+        "04-Mar-2020-16:53:49.000000",
+        "04-Mar-2020-16:53:49.000000",
+        "04-Mar-2020-16:53:49.000000",
+        "04-Mar-2020-16:53:49.000000",
+        "04-Mar-2020-16:53:49.000000",
+        "04-Mar-2020-16:53:49.000000",
+        "04-Mar-2020-16:53:50.000000",
+        "04-Mar-2020-16:53:50.000000",
+        "04-Mar-2020-16:53:50.000000",
+        "04-Mar-2020-16:53:50.000000",
+        "04-Mar-2020-16:53:50.000000",
+        "04-Mar-2020-16:53:50.000000",
+        "04-Mar-2020-16:53:50.000000",
+        "04-Mar-2020-16:53:50.000000",
+        "04-Mar-2020-16:53:50.000000",
+        "04-Mar-2020-16:53:51.000000",
+        "04-Mar-2020-16:53:51.000000",
+        "04-Mar-2020-16:53:51.000000",
+        "04-Mar-2020-16:53:51.000000",
+        "04-Mar-2020-16:53:51.000000",
+        "04-Mar-2020-16:53:51.000000",
+        "04-Mar-2020-16:53:51.000000",
+        "04-Mar-2020-16:53:51.000000",
+        "04-Mar-2020-16:53:51.000000",
+        "04-Mar-2020-16:53:51.000000",
+        "04-Mar-2020-16:53:51.000000",
+        "04-Mar-2020-16:53:51.000000",
+        "04-Mar-2020-16:53:51.000000",
+        "04-Mar-2020-16:53:52.000000",
+        "04-Mar-2020-16:53:52.000000",
+        "04-Mar-2020-16:53:52.000000",
+        "04-Mar-2020-16:53:52.000000",
+        "04-Mar-2020-16:53:52.000000",
+        "04-Mar-2020-16:53:52.000000",
+        "04-Mar-2020-16:53:52.000000",
+        "04-Mar-2020-16:53:52.000000",
+        "04-Mar-2020-16:53:52.000000",
+        "04-Mar-2020-16:53:53.000000",
+        "04-Mar-2020-16:53:53.000000",
+        "04-Mar-2020-16:53:53.000000",
+        "04-Mar-2020-16:53:53.000000",
+        "04-Mar-2020-16:53:53.000000",
+        "04-Mar-2020-16:53:53.000000",
+        "04-Mar-2020-16:53:53.000000",
+        "04-Mar-2020-16:53:53.000000",
+        "04-Mar-2020-16:53:53.000000",
+        "04-Mar-2020-16:53:53.000000",
+        "04-Mar-2020-16:53:53.000000",
+        "04-Mar-2020-16:53:53.000000",
+        "04-Mar-2020-16:53:53.000000",
+        "04-Mar-2020-16:53:53.000000",
+        "04-Mar-2020-16:53:53.000000",
+        "04-Mar-2020-16:53:53.000000",
+        "04-Mar-2020-16:53:53.000000",
+        "04-Mar-2020-16:53:54.000000",
+        "04-Mar-2020-16:53:54.000000",
+        "04-Mar-2020-16:53:54.000000",
+        "04-Mar-2020-16:53:54.000000",
+        "04-Mar-2020-16:53:54.000000",
+        "04-Mar-2020-16:53:54.000000",
+        "04-Mar-2020-16:53:54.000000",
+        "04-Mar-2020-16:53:54.000000",
+        "04-Mar-2020-16:53:54.000000",
+        "04-Mar-2020-16:53:54.000000",
+        "04-Mar-2020-16:53:54.000000",
+        "04-Mar-2020-16:53:54.000000",
+        "04-Mar-2020-16:53:55.000000",
+        "04-Mar-2020-16:53:55.000000",
+        "04-Mar-2020-16:53:55.000000",
+        "04-Mar-2020-16:53:55.000000",
+        "04-Mar-2020-16:53:55.000000",
+        "04-Mar-2020-16:53:55.000000",
+        "04-Mar-2020-16:53:55.000000",
+        "04-Mar-2020-16:53:55.000000",
+        "04-Mar-2020-16:53:55.000000",
+        "04-Mar-2020-16:53:55.000000",
+        "04-Mar-2020-16:53:55.000000",
+        "04-Mar-2020-16:53:55.000000",
+        "04-Mar-2020-16:53:55.000000",
+        "04-Mar-2020-16:53:55.000000",
+        "04-Mar-2020-16:53:55.000000"
+    ],
+    "hashtags": [
+        [
+            "BBB20",
+            "redeBBB"
+        ],
+        [],
+        [
+            "bbb20",
+            "PomboFalso"
+        ],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [
+            "bbb20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "bbb20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBBB20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            "bbb20"
+        ],
+        [],
+        [],
+        [],
+        [
+            "bbb20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [
+            "BBB"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBB",
+            "BBB20"
+        ],
+        [],
+        [],
+        [
+            "bbb20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20",
+            "RedeBBB"
+        ],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "fadasensatanaoracistassim",
+            "danielracista",
+            "bbb20"
+        ],
+        [
+            "bbb20"
+        ],
+        [],
+        [],
+        [
+            "bbb20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "bbb20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "bbb20"
+        ],
+        [
+            "BBB20"
+        ],
+        [
+            "BBB20",
+            "RedeBBB"
+        ],
+        [
+            "bbb20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [
+            "bbb20"
+        ],
+        [
+            "bbb20"
+        ],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "bbb20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "bbb20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [
+            "bbb20"
+        ],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "bbb20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "bbb20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "bbb20"
+        ],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "bbb20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "bbb20"
+        ],
+        [],
+        [
+            "BBB20",
+            "TeamGizelly"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [
+            "BBB",
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [
+            "bbb20"
+        ],
+        [
+            "bbb20"
+        ],
+        [
+            "bbb20"
+        ],
+        [],
+        [],
+        [
+            "BBB20",
+            "RedeBBB"
+        ],
+        [
+            "BBB20"
+        ],
+        [
+            "BBB20"
+        ],
+        [],
+        [
+            "bbb20"
+        ],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [
+            "bbb20"
+        ],
+        [],
+        [
+            "BBB20"
+        ],
+        [
+            "BBB20"
+        ],
+        [
+            "BBB20",
+            "RedeBBB"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            "bbb20"
+        ],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [
+            "bbb20"
+        ],
+        [],
+        [
+            "bbb20"
+        ],
+        [
+            "BBB20"
+        ],
+        [
+            "BBB20"
+        ],
+        [
+            "RedeBBB",
+            "BBB20"
+        ],
+        [
+            "BBB20"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "mentions": [
+        [
+            "dainhalori"
+        ],
+        [
+            "bbb"
+        ],
+        [],
+        [
+            "StarkFreefire"
+        ],
+        [
+            "laricand0"
+        ],
+        [
+            "da_muny"
+        ],
+        [
+            "EnquetesNews"
+        ],
+        [],
+        [
+            "gcardoso_"
+        ],
+        [],
+        [
+            "PortalGabriela1"
+        ],
+        [
+            "ZAMENZA"
+        ],
+        [],
+        [],
+        [
+            "portalprior"
+        ],
+        [
+            "_naratb"
+        ],
+        [
+            "caroolcirqueira"
+        ],
+        [
+            "portalprior"
+        ],
+        [
+            "PortalGabriela1"
+        ],
+        [],
+        [
+            "srtalycia_"
+        ],
+        [
+            "raresogomez"
+        ],
+        [
+            "HugoGloss"
+        ],
+        [
+            "forumpandlr"
+        ],
+        [
+            "gcardoso_"
+        ],
+        [],
+        [],
+        [
+            "amyexemplar"
+        ],
+        [
+            "pettingduck"
+        ],
+        [
+            "favstribbiani"
+        ],
+        [],
+        [],
+        [
+            "PriAlcantara"
+        ],
+        [
+            "favstribbiani"
+        ],
+        [
+            "pettingduck"
+        ],
+        [
+            "bicmuller"
+        ],
+        [
+            "pettingduck"
+        ],
+        [
+            "forumpandlr"
+        ],
+        [
+            "veashgente"
+        ],
+        [
+            "manugavassi"
+        ],
+        [],
+        [
+            "dualipars"
+        ],
+        [
+            "malikhopeful"
+        ],
+        [],
+        [
+            "StarkFreefire"
+        ],
+        [
+            "favstribbiani"
+        ],
+        [
+            "gostosafuracao"
+        ],
+        [
+            "sitemundonegro"
+        ],
+        [
+            "favstribbiani"
+        ],
+        [
+            "DivaDepressao"
+        ],
+        [
+            "favstribbiani"
+        ],
+        [
+            "sweetgwlaxy"
+        ],
+        [
+            "gizellybicalho_"
+        ],
+        [
+            "rulianandrade_"
+        ],
+        [
+            "StarkFreefire"
+        ],
+        [
+            "Dantinhas"
+        ],
+        [
+            "SmNutella"
+        ],
+        [
+            "StarkFreefire"
+        ],
+        [
+            "mateuscarrilho"
+        ],
+        [
+            "favstribbiani"
+        ],
+        [
+            "favstribbiani"
+        ],
+        [
+            "itolindoo"
+        ],
+        [
+            "Katia_Junior"
+        ],
+        [
+            "forumpandlr"
+        ],
+        [
+            "savio097"
+        ],
+        [],
+        [],
+        [
+            "raresogomez"
+        ],
+        [
+            "pettingduck"
+        ],
+        [
+            "ntvnasredes"
+        ],
+        [
+            "QGreality"
+        ],
+        [],
+        [
+            "da_pintof"
+        ],
+        [
+            "larissajmar"
+        ],
+        [
+            "TeamGiovanneBR"
+        ],
+        [
+            "pettingduck"
+        ],
+        [
+            "notbetrue"
+        ],
+        [
+            "laricand0"
+        ],
+        [
+            "sweetgwlaxy"
+        ],
+        [
+            "itolindoo"
+        ],
+        [
+            "r4chtuita"
+        ],
+        [
+            "BarroosMilla",
+            "BiaAndradeOfc"
+        ],
+        [
+            "gcardoso_"
+        ],
+        [
+            "forumpandlr"
+        ],
+        [
+            "FakeGicela"
+        ],
+        [],
+        [
+            "hstyolf"
+        ],
+        [
+            "Bodyeletricc4"
+        ],
+        [
+            "fereally"
+        ],
+        [],
+        [
+            "dracuIan"
+        ],
+        [
+            "oiieeee88"
+        ],
+        [
+            "radfemis"
+        ],
+        [],
+        [
+            "BibiGay12"
+        ],
+        [
+            "yurioliveirasfc"
+        ],
+        [
+            "jbbolinho2"
+        ],
+        [
+            "gabiigallvao"
+        ],
+        [
+            "pettingduck"
+        ],
+        [
+            "Itspedrito"
+        ],
+        [
+            "PortalGabriela1"
+        ],
+        [
+            "euvictorduarte"
+        ],
+        [
+            "dwborx"
+        ],
+        [
+            "radfemis"
+        ],
+        [
+            "Dark5Wave"
+        ],
+        [
+            "PopZonebr"
+        ],
+        [
+            "gcardoso_"
+        ],
+        [
+            "supportestrela"
+        ],
+        [
+            "unicrnmggl"
+        ],
+        [
+            "ntvnasredes"
+        ],
+        [
+            "caffetao"
+        ],
+        [
+            "kyliemotivation"
+        ],
+        [
+            "larissajmar"
+        ],
+        [],
+        [],
+        [
+            "fofocadetudo"
+        ],
+        [
+            "sweetgwlaxy"
+        ],
+        [
+            "guilhermesousa"
+        ],
+        [
+            "favstribbiani"
+        ],
+        [
+            "rafaportugalc"
+        ],
+        [
+            "forumpandlr"
+        ],
+        [
+            "favstribbiani"
+        ],
+        [
+            "kyliemotivation"
+        ],
+        [],
+        [
+            "BraboJetix"
+        ],
+        [
+            "srtalycia_"
+        ],
+        [
+            "yurioliveirasfc"
+        ],
+        [
+            "RealitySocial"
+        ],
+        [
+            "gcardoso_"
+        ],
+        [
+            "laricand0"
+        ],
+        [],
+        [
+            "FakeGicela"
+        ],
+        [
+            "RealitySocial"
+        ],
+        [
+            "forumpandlr"
+        ],
+        [
+            "laricand0"
+        ],
+        [
+            "eulucasuriel"
+        ],
+        [
+            "priscila_phb"
+        ],
+        [
+            "srtalycia_"
+        ],
+        [],
+        [
+            "MongeHan"
+        ],
+        [
+            "RealityVisando"
+        ],
+        [
+            "PortalFlaviaV"
+        ],
+        [
+            "pettingduck"
+        ],
+        [
+            "dorafigueiredo"
+        ],
+        [
+            "beyoncherry"
+        ],
+        [
+            "valdeirpsr"
+        ],
+        [
+            "laurinhalero"
+        ],
+        [
+            "kyliemotivation"
+        ],
+        [
+            "pepe_pimentel9"
+        ],
+        [
+            "bembestaBBB"
+        ],
+        [
+            "bembestaBBB"
+        ],
+        [
+            "beyoncherry"
+        ],
+        [
+            "gcardoso_"
+        ],
+        [
+            "LeninLeninha"
+        ],
+        [
+            "patty_evo"
+        ],
+        [
+            "jadezynha"
+        ],
+        [
+            "StarkFreefire"
+        ],
+        [
+            "RealitySocial"
+        ],
+        [
+            "savio097"
+        ],
+        [],
+        [
+            "_dere01"
+        ],
+        [
+            "QGreality"
+        ],
+        [
+            "sweetgwlaxy"
+        ],
+        [
+            "CamilaMeol",
+            "duuhads6"
+        ],
+        [
+            "juunwe"
+        ],
+        [
+            "BibiGay12"
+        ],
+        [
+            "RealitySocial"
+        ],
+        [
+            "pettingduck"
+        ],
+        [
+            "dualipars"
+        ],
+        [
+            "Oaliffercostta"
+        ],
+        [
+            "bbb"
+        ],
+        [
+            "srtalycia_"
+        ],
+        [],
+        [
+            "realityyvicio"
+        ],
+        [
+            "weberchu4"
+        ],
+        [],
+        [
+            "pettingduck"
+        ],
+        [
+            "RealitySocial"
+        ],
+        [
+            "srtalycia_"
+        ],
+        [
+            "thaisdamaso"
+        ],
+        [
+            "mateuscarrilho"
+        ],
+        [
+            "_dere01"
+        ],
+        [
+            "HernaneBrocad0r"
+        ],
+        [
+            "weberchu4"
+        ],
+        [
+            "gcardoso_"
+        ],
+        [
+            "radfemis"
+        ],
+        [
+            "srtalycia_"
+        ],
+        [
+            "realitynzando"
+        ],
+        [
+            "Li_Henriques"
+        ],
+        [
+            "savio097"
+        ],
+        [
+            "lucinhasilva_"
+        ],
+        [
+            "forumpandlr"
+        ],
+        [
+            "rodzeiro"
+        ],
+        [
+            "RenataMaccor"
+        ],
+        [
+            "__VTezeira"
+        ],
+        [
+            "LwithP"
+        ],
+        [
+            "laricand0"
+        ],
+        [],
+        [
+            "hollygreen0",
+            "vaidesmaiar"
+        ],
+        [],
+        [
+            "caracostranger"
+        ],
+        [],
+        [],
+        [
+            "iamtonzera"
+        ],
+        [
+            "sweetgwlaxy"
+        ],
+        [
+            "mateuscarrilho"
+        ],
+        [
+            "whyybeyonce"
+        ],
+        [],
+        [
+            "guigza1"
+        ],
+        [
+            "chicobarney"
+        ],
+        [
+            "chez_noelle"
+        ],
+        [
+            "pettingduck"
+        ],
+        [
+            "sweetgwlaxy"
+        ],
+        [],
+        [
+            "miniendipity"
+        ],
+        [
+            "pettingduck"
+        ],
+        [],
+        [
+            "BBBBaile"
+        ],
+        [
+            "Dantinhas"
+        ],
+        [
+            "indiadeiphone"
+        ],
+        [
+            "srtalycia_"
+        ],
+        [
+            "radfemis"
+        ],
+        [],
+        [
+            "srtalycia_"
+        ],
+        [
+            "bicmuller"
+        ],
+        [
+            "LucasBGallina"
+        ],
+        [
+            "srtalycia_"
+        ],
+        [
+            "StarkFreefire"
+        ],
+        [
+            "pettingduck"
+        ],
+        [],
+        [
+            "anecesara"
+        ],
+        [],
+        [
+            "oldarthbastarde"
+        ],
+        [
+            "weberchu4"
+        ],
+        [
+            "EuComentei_"
+        ],
+        [
+            "gabiefernandes"
+        ],
+        [
+            "guilhermesousa"
+        ],
+        [],
+        [
+            "beyoncherry"
+        ],
+        [
+            "_dere01"
+        ],
+        [],
+        [
+            "gcardoso_"
+        ],
+        [],
+        [],
+        [
+            "Tina_LittleCris"
+        ],
+        [
+            "iamtonzera"
+        ],
+        [
+            "psychoquween"
+        ],
+        [
+            "cmilasphile"
+        ],
+        [
+            "supportestrela"
+        ],
+        [
+            "CorneteiroT"
+        ],
+        [],
+        [
+            "favstribbiani"
+        ],
+        [
+            "weberchu4"
+        ],
+        [
+            "olimajimin"
+        ],
+        [
+            "forumpandlr"
+        ],
+        [],
+        [
+            "SiteReality"
+        ],
+        [
+            "alvxaro"
+        ],
+        [
+            "ntvnasredes"
+        ],
+        [
+            "priortagonista"
+        ],
+        [
+            "sweetgwlaxy"
+        ],
+        [
+            "kyliemotivation"
+        ],
+        [
+            "dainhalori"
+        ],
+        [],
+        [
+            "favstribbiani"
+        ],
+        [
+            "SmNutella"
+        ],
+        [
+            "forumpandlr"
+        ],
+        [
+            "kyliemotivation"
+        ],
+        [
+            "cmilasphile"
+        ],
+        [],
+        [
+            "weberchu4"
+        ],
+        [
+            "RealitySocial"
+        ],
+        [
+            "olimajimin"
+        ],
+        [
+            "Tina_LittleCris"
+        ],
+        [],
+        [
+            "RealitySocial"
+        ],
+        [
+            "pettingduck"
+        ],
+        [
+            "forumpandlr"
+        ],
+        [
+            "radfemis"
+        ],
+        [
+            "forumpandlr"
+        ],
+        [
+            "Bodyeletricc4"
+        ],
+        [
+            "savio097"
+        ],
+        [
+            "WesComenta"
+        ],
+        [
+            "radfemis"
+        ],
+        [
+            "felipeprior"
+        ],
+        [
+            "SmNutella"
+        ],
+        [
+            "TeamGiovanneBR"
+        ],
+        [
+            "SmNutella"
+        ],
+        [],
+        [],
+        [
+            "victorlimak"
+        ],
+        [
+            "savio097"
+        ],
+        [
+            "mateuscarrilho"
+        ],
+        [
+            "pettingduck"
+        ],
+        [
+            "gcardoso_"
+        ],
+        [],
+        [
+            "StarkFreefire"
+        ],
+        [],
+        [
+            "shicomentei"
+        ],
+        [
+            "daniellafaria"
+        ],
+        []
+    ]
+}
