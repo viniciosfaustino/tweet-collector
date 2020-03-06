@@ -25,11 +25,11 @@ def save_tweets_to_file(path: str, name: str, tweets: List[str], id_only: bool =
     created_at = ctime()
     created_at = created_at.replace(' ', '-')
     if id_only:
-        data = {'name': name, 'created_at': created_at, "id_str": tweets['id_str'],
-                'hashtags': tweets['hashtags'], "mentions":  tweets['mentions']}
+        data = {'name': name, 'created_at': created_at, "user_id": tweets["user_id"], 
+                "id_str": tweets['id_str'], 'hashtags': tweets['hashtags'], "mentions":  tweets['mentions']}
     else:
-        data = {'name': name, 'created_at': created_at, "id_str": tweets['id_str'],
-                'text': tweets['text'], 'timestamp': tweets['timestamp'],
+        data = {'name': name, 'created_at': created_at, "user_id": tweets["user_id"], 
+                "id_str": tweets['id_str'], 'text': tweets['text'], 'timestamp': tweets['timestamp'],
                 'hashtags': tweets['hashtags'], "mentions":  tweets['mentions']}
     filename = name+"-"+str(created_at)+'.json'
     file = os.path.join(path, filename)
@@ -47,7 +47,7 @@ class TweetListener(tweepy.StreamListener):
         self.checkpoint_after = checkpoint_after
         self.started_at = time()
         self.timeout = timeout
-        self.tweets = {"id_str": [], 'text': [], 'hashtags': [], 'mentions': [], 'timestamp': []}
+        self.tweets = {"user_id": [], "id_str": [], 'text': [], 'hashtags': [], 'mentions': [], 'timestamp': []}
 
     def on_status(self, status):
         
@@ -58,12 +58,13 @@ class TweetListener(tweepy.StreamListener):
                                   args=(self.path, self.name, self.tweets, False))
                 writing_process.start()
                 # Processo é criado copiando os parametros do original
-                self.tweets = {"id_str": [], 'text': [], 'hashtags': [], 'mentions': [], 'timestamp': []}
+                self.tweets = {"user_id": [], "id_str": [], 'text': [], 'hashtags': [], 'mentions': [], 'timestamp': []}
 
 
         if time() - self.started_at < self.timeout and len(self.tweets['id_str']) < self.max_tweets:
             # print(len(self.tweets['id_str']) + 1)
             text = get_text_from_status(status)
+            self.tweets["user_id"].append(status.user.id)
             self.tweets['id_str'].append(status.id_str)
             self.tweets['text'].append(text)
             self.tweets["hashtags"].append([hashtag["text"] for hashtag in status.entities["hashtags"]])
