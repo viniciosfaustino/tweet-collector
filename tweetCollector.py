@@ -1,18 +1,21 @@
 import os
-from typing import List
-from os.path import join, dirname
-from time import ctime
-import tweepy
-from dotenv import load_dotenv
-from tweetListener import TweetListener, get_text_from_status
-from argparse import ArgumentParser
+import sys
+import json
 import logging
+import tweepy
+
+from dotenv import load_dotenv
+from multiprocessing import Process
+from time import time, sleep
+from typing import List
+from utils import load_args, get_text_from_status, save_tweets_to_file
+
 
 LOG_FORMAT = "[%(levelname)s/%(asctime)-15s] %(message)s"
 logging.basicConfig(level=logging.INFO, format=LOG_FORMAT)
 
-# dotenv_path = join(dirname(__file__), '.env')
-load_dotenv(".env/keys.env")
+dotenv_path = os.path.join(os.path.dirname(__file__), '.env')
+load_dotenv(dotenv_path)
 
 consumer_key = os.getenv('CONSUMER_KEY')
 consumer_secret = os.getenv('CONSUMER_SECRET')
@@ -24,40 +27,55 @@ auth.set_access_token(access_token, access_token_secret)
 
 api = tweepy.API(auth)
 
-parser = ArgumentParser()
-parser.add_argument("--track", required=True, type=str,
-                    help="Text file with the things to track."
-                    )
-parser.add_argument("--name", required=True, type=str,
-                    help="Name of the project."
-                    )
 
-parser.add_argument("--output_dir", required=True, type=str,
-                    help="Output directory."
-                    )
-
-parser.add_argument("--max_tweets", type=int, default=100000,
-                    help="Maximum number of tweets to collect."
-                    )
-parser.add_argument("--checkpoint_after", type=int, default=None,
-                    help="Create a checkpoint file after collecting a determined number of tweets."
-                    )
-
-class TweetCollector:
-    def __init__(self, name: str,
-                       path: str = 'data',
-                       max_tweets: int = 100000,
-                       timeout: int = 36000, 
-                       track: List[str] = None, 
-                       _lang: List[str] = ['pt'],
-                       checkpoint_after: int = None):
-
-        self.tweet_count = 0
-        self.listener = TweetListener(name, path, timeout, max_tweets, checkpoint_after)
-        self.stream = tweepy.Stream(auth=api.auth, listener=self.listener)
-        self.track = track
+class TweetCollector(tweepy.StreamListener):
+    def __init__(self, name: str, path: str, timeout: int, max_tweets: int, checkpoint_after: int = None,
+                 track: List[str] = None, _lang: List[str] = ['pt']):
+        super(TweetCollector, self).__init__()
+        self.checkpoint_after = checkpoint_after
         self.languages = _lang
+        self.max_tweets = max_tweets
+        self.name = name
+        self.path = path
+        self.started_at = time()
+        self.stream = tweepy.Stream(auth=api.auth, listener=self)
+        self.timeout = timeout
+        self.track = track
+        self.tweets = {"user_id": [], "id_str": [], 'text': [], 'hashtags': [], 'mentions': [], 'timestamp': []}
 
+    def add_tweet(self, status):
+        text = get_text_from_status(status)
+        self.tweets["user_id"].append(status.user.id)
+        self.tweets['id_str'].append(status.id_str)
+        self.tweets['text'].append(text)
+        self.tweets['hashtags'].append([hashtag["text"] for hashtag in status.entities["hashtags"]])
+        self.tweets["mentions"].append([user["screen_name"] for user in status.entities["user_mentions"]])
+        str_time = status.created_at.strftime("%d-%b-%Y-%H:%M:%S.%f")
+        self.tweets['timestamp'].append(str_time)
+
+    def on_status(self, status):
+
+        if self.checkpoint_after is not None:
+            if len(self.tweets['id_str']) > self.checkpoint_after:
+                logging.info("Creating checkpoint.")
+                writing_process = Process(target=save_tweets_to_file,
+                                          args=(self.path, self.name, self.tweets, False))
+                writing_process.start()
+                # Processo é criado copiando os parametros do original
+                self.tweets = {"user_id": [], "id_str": [], 'text': [], 'hashtags': [], 'mentions': [], 'timestamp': []}
+
+        if time() - self.started_at < self.timeout and len(self.tweets['id_str']) < self.max_tweets:
+            self.add_tweet(status)
+        else:
+            return False
+
+    def on_error(self, status_code):
+        print(sys.stderr, 'Encountered error with status code:', status_code)
+        if status_code == 420:
+            print("Waiting 2s to restart stream")
+            sleep(2)
+        print("Stream restarted")
+        return True  # Don't kill the stream
 
     def start_stream(self, **kwargs):
         try:
@@ -70,65 +88,12 @@ class TweetCollector:
             self.start_stream(**kwargs)
 
 
-def get_text_from_tweet_id(id_str):
-    print(type(id_str))
-    try:
-        status = api.get_status(id_str, tweet_mode="extended")
-        text = get_text_from_status(status)
-        text = text.replace("\n", " ")
-        return text
-
-    except Exception as e:
-        print("Error:", e['message'])
-        raise Exception
-
-
-def retrieve_text_from_json(filepath: str):
-    print("retrieve started")
-    with open(filepath, 'rb') as f:
-        print("json opened")
-        file = json.load(f)
-        ids = file['id_str']
-        text = []
-        total = len(ids)
-        cont = 1
-        print(ids)
-        for id_str in ids:
-            try:
-                tweet_str = get_text_from_tweet_id(id_str)
-                text.append(tweet_str)
-                print(cont, "of", total, "tweets retrieved")
-                cont += 1
-
-            except Exception as e:
-                print("Couldn't retrieve tweet", e)
-                pass
-
-    txt_filename = os.path.splitext(filepath)[0]+".txt"
-    with open(txt_filename, "w") as f:
-        for line in text:
-            f.write(line+"\n")
-
-#TODO colocar um contador de tweets coletados ou um progress bar
-#TODO entrar em um perfil e pegar todos os tweets do perfil e salvar com o id do usuário
-#TODO coletar apenas metadados sobre assuntos, aka - numero de tweets a cada intervalo de tempo
-
-#novas datas para o processo seletivo, se liga no post
-
-
-def get_tracked_entities(path: str):
-    with open(path, "r") as f:
-        track = f.readlines()
-    
-    return [entity.strip("\n") for entity in track]
-
-
 if __name__ == "__main__":
-    args = parser.parse_args()
+    args = load_args()
     track = get_tracked_entities(args.track)
     collector = TweetCollector(args.name, args.output_dir,
                                timeout=240000,
-                               max_tweets=args.max_tweets, 
+                               max_tweets=args.max_tweets,
                                checkpoint_after=args.checkpoint_after,
                                track=track)
     # print(track)

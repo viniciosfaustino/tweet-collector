@@ -40,4 +40,4 @@ def save_unique(filepath: str):
             pass
 
 # clear_tweets_from_csv("/home/vinicios/reps/tweet-collector/data/ideacao/ideacao-suicida.csv")
-save_unique('/home/vinicios/reps/tweet-collector/data/ideacao/ideacao-Tue-Feb-18-22:00:41-2020.json')
+# save_unique('/home/vinicios/reps/tweet-collector/data/ideacao/ideacao-Tue-Feb-18-22:00:41-2020.json')
