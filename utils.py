@@ -133,4 +133,5 @@ def save_tweets_to_file(path: str, name: str, tweets: List[str], id_only: bool =
     file = os.path.join(path, filename)
 
     with open(file, "w") as f:
+        print("teje criado")
         json.dump(data, f, indent=4)

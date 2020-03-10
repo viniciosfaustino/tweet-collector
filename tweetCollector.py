@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 from multiprocessing import Process
 from time import time, sleep
 from typing import List
-from utils import load_args, get_text_from_status, save_tweets_to_file
+from utils import load_args, get_text_from_status, get_tracked_entities, save_tweets_to_file
 
 
 LOG_FORMAT = "[%(levelname)s/%(asctime)-15s] %(message)s"
@@ -53,16 +53,21 @@ class TweetCollector(tweepy.StreamListener):
         str_time = status.created_at.strftime("%d-%b-%Y-%H:%M:%S.%f")
         self.tweets['timestamp'].append(str_time)
 
+    def _save(self, message:str):
+        logging.info(message)
+        writing_process = Process(target=save_tweets_to_file,
+                                  args=(self.path, self.name, self.tweets, False))
+        writing_process.start()
+
     def on_status(self, status):
 
         if self.checkpoint_after is not None:
             if len(self.tweets['id_str']) > self.checkpoint_after:
-                logging.info("Creating checkpoint.")
-                writing_process = Process(target=save_tweets_to_file,
-                                          args=(self.path, self.name, self.tweets, False))
-                writing_process.start()
-                # Processo é criado copiando os parametros do original
+                self._save("Creating checkpoint.")
                 self.tweets = {"user_id": [], "id_str": [], 'text': [], 'hashtags': [], 'mentions': [], 'timestamp': []}
+
+        elif len(self.tweets['id_str']) >= self.max_tweets:
+            self._save("Saving file.")
 
         if time() - self.started_at < self.timeout and len(self.tweets['id_str']) < self.max_tweets:
             self.add_tweet(status)
