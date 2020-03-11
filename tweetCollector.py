@@ -62,6 +62,9 @@ class TweetCollector(tweepy.StreamListener):
     def on_status(self, status):
 
         if self.checkpoint_after is not None:
+            if len(self.tweets['id_str'] > self.max_tweets):
+                self._save("Saving file.")
+                return False
             if len(self.tweets['id_str']) > self.checkpoint_after:
                 self._save("Creating checkpoint.")
                 self.tweets = {"user_id": [], "id_str": [], 'text': [], 'hashtags': [], 'mentions': [], 'timestamp': []}
