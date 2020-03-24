@@ -8,8 +8,7 @@ from dotenv import load_dotenv
 from multiprocessing import Process
 from time import time, sleep
 from typing import List
-from utils import load_args, get_text_from_status, get_tracked_entities, save_tweets_to_file
-
+from utils import load_args, get_text_from_status, get_tracked_entities, save_tweets_to_file, get_tweets_from_user_id
 
 LOG_FORMAT = "[%(levelname)s/%(asctime)-15s] %(message)s"
 logging.basicConfig(level=logging.INFO, format=LOG_FORMAT)
@@ -33,7 +32,9 @@ class TweetCollector(tweepy.StreamListener):
                  track: List[str] = None, _lang: List[str] = ['pt']):
         super(TweetCollector, self).__init__()
         self.checkpoint_after = checkpoint_after
+        self._checkpoints = 0
         self.languages = _lang
+        self._max_checkpoints = round(max_tweets / checkpoint_after);
         self.max_tweets = max_tweets
         self.name = name
         self.path = path
@@ -53,26 +54,27 @@ class TweetCollector(tweepy.StreamListener):
         str_time = status.created_at.strftime("%d-%b-%Y-%H:%M:%S.%f")
         self.tweets['timestamp'].append(str_time)
 
-    def _save(self, message:str):
+    def _save(self, message: str):
         logging.info(message)
         writing_process = Process(target=save_tweets_to_file,
                                   args=(self.path, self.name, self.tweets, False))
         writing_process.start()
 
     def on_status(self, status):
-
+        num_tweets = len(self.tweets['id_str'])
         if self.checkpoint_after is not None:
-            if len(self.tweets['id_str']) > self.max_tweets:
+            if num_tweets > self.max_tweets:
                 self._save("Saving file.")
                 return False
-            if len(self.tweets['id_str']) > self.checkpoint_after:
+            if num_tweets > self.checkpoint_after:
+                self._checkpoints += 1
                 self._save("Creating checkpoint.")
                 self.tweets = {"user_id": [], "id_str": [], 'text': [], 'hashtags': [], 'mentions': [], 'timestamp': []}
 
-        elif len(self.tweets['id_str']) >= self.max_tweets:
+        elif self._max_checkpoints > self._checkpoints:
             self._save("Saving file.")
 
-        if time() - self.started_at < self.timeout and len(self.tweets['id_str']) < self.max_tweets:
+        if time() - self.started_at < self.timeout and self._max_checkpoints > self._checkpoints:
             self.add_tweet(status)
         else:
             return False
@@ -99,10 +101,19 @@ class TweetCollector(tweepy.StreamListener):
 if __name__ == "__main__":
     args = load_args()
     track = get_tracked_entities(args.track)
-    collector = TweetCollector(args.name, args.output_dir,
-                               timeout=240000,
-                               max_tweets=args.max_tweets,
-                               checkpoint_after=args.checkpoint_after,
-                               track=track)
-    # print(track)
-    collector.start_stream()
+
+    if args.user:
+        user = get_tracked_entities(args.user)
+        print(user)
+        tweets = get_tweets_from_user_id(user[0], api)
+        if tweets:
+            logging.info("Couldn't get tweets from user {}".format(user[0]))
+        save_tweets_to_file(args.output_dir, user, tweets)
+    else:
+        collector = TweetCollector(args.name, args.output_dir,
+                                   timeout=240000,
+                                   max_tweets=args.max_tweets,
+                                   checkpoint_after=args.checkpoint_after,
+                                   track=track)
+        # print(track)
+        collector.start_stream()

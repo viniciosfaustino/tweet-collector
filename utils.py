@@ -60,6 +60,8 @@ def load_args():
     parser.add_argument("--output_dir", required=True, type=str,
                         help="Output directory.")
 
+    parser.add_argument("--user", help="Enable user tracking mode, disabling stream")
+
     parser.add_argument("--max_tweets", type=int, default=100000,
                         help="Maximum number of tweets to collect.")
 
@@ -69,14 +71,25 @@ def load_args():
     return parser.parse_args()
 
 
-def process_status(status):
-    print(status.text)
-    #TODO
+def process_status(status, tweets):
+    text = get_text_from_status(status)
+    tweets['id_str'].append(status.id_str)
+    tweets['hashtags'].append([hashtag["text"] for hashtag in status.entities["hashtags"]])
+    tweets["mentions"].append([user["screen_name"] for user in status.entities["user_mentions"]])
+    tweets["user_id"].append(status.user.id)
+    tweets['text'].append(text)
+    str_time = status.created_at.strftime("%d-%b-%Y-%H:%M:%S.%f")
+    tweets['timestamp'].append(str_time)
 
 
 def get_tweets_from_user_id(user_id: str, api):
-    for status in tweepy.Cursor(api.user_timeline, id=user_id).items():
-        process_status(status)
+    tweets = {"user_id": [], "id_str": [], 'text': [], 'hashtags': [], 'mentions': [], 'timestamp': []}
+    try:
+        for status in tweepy.Cursor(api.user_timeline, id=user_id).items():
+            process_status(status, tweets)
+    except Exception as e:
+        tweets = None
+    return tweets
 
 
 def retrieve_text_from_json(filepath: str):
@@ -133,5 +146,5 @@ def save_tweets_to_file(path: str, name: str, tweets: List[str], id_only: bool =
     file = os.path.join(path, filename)
 
     with open(file, "w") as f:
-        print("teje criado")
+        print("file saved")
         json.dump(data, f, indent=4)
